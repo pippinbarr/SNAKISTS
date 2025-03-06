@@ -1,0 +1,54 @@
+{
+    "lang": "en",
+    "title": [
+        "SNAKISTS"
+    ],
+    "ui": {
+        "games": [
+            "nudissst"
+        ],
+        "controls": {
+            "keyboard": [
+                "ARROWS",
+                "CONTROL"
+            ],
+            "touch": [
+                "SWIPES",
+                "CONTROL"
+            ]
+        },
+        "reset": {
+            "keyboard": [
+                "R=RESTART M=MENU"
+            ],
+            "touch": {
+                "restart": [],
+                "menu": []
+            }
+        },
+        "gameover": "GAME OVER",
+        "youwin": "YOU WIN",
+        "youlose": "YOU LOSE",
+        "points": "POINTS"
+    },
+    "menu": {
+        "ist": "MENUISSST",
+        "homepage": "pippinbarr.com",
+        "instructions": {
+            "keyboard": [
+                "UP/DOWN=SELECT",
+                "ENTER=PLAY"
+            ],
+            "touch": [
+                "SWIPE UP/DOWN=SELECT",
+                "SWIPE RIGHT=PLAY"
+            ]
+        }
+    },
+    "snake": {
+        "ist": "SSSNAKISSST"
+    },
+    "nudissst": {
+        "ist": "NUDISSST"
+    }
+}
