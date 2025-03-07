@@ -23,3 +23,26 @@ Oh it could also be a to-do list where you are striking out the items, that's no
 ## Mist
 
 Just the ol' fog of war applied to Snake. Probably want a more interesting terrain for that, though that starts to feel arbitrary? It's a tough combo having continual movement with a mist. How to make it look nice? Or do I not bother?
+
+## Alist
+
+A rare nautical term for a boat being on an angle. It's an easy one to imagine putting together (tilt the canvas? Tilt the tiles?), but the fact it's such an alien word may not help. It would work if there were a definition though, so not impossible. I need an official source for definitions.
+
+## Deist
+
+Because the definition I read specifically presents this as believe in a *non-interventionist god* (hi Nick Cave) I wonder if there's some juice to just having this be a Snake with no controls that moves across the screen (logically) and then hits the wall (dies).
+
+## Feist
+
+In terms of it being a word it's about a "small mongrel dog" apparently, which doesn't fit, but if we took it to be the singer then a "snake cover" of her song 1234 could make a ton of sense? Copyright a problem. Could I write to Feist and ask if I could cover her song as a game? One syllable/beat per tick? I can imagine some irregular movement patterns that could be really funny to see? (Though this mirrors what I thought early on for Tubist as well)
+
+## Foist
+
+The idea would be the game "foists" another snake on you (that you control) and that causes your play to be significantly harder.
+
+There are a *lot* of -ists that have nothing to do with SNAKISMS which is both really funny and kind of stupid. Maybe stupid funny though? As the words get longer they'll get ISMier though I suppose?
+
+## Heist
+
+Just because heists are so game-like it would be fun to at least try to do this? Snake "breaks into" somewhere (how?? Eats the apple door?) Then in a confined space eats a bunch of green apples (money???) and then escapes... somehow? And little police walls come to chase you with sirens blaring???
+

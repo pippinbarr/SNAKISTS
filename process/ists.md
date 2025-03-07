@@ -27,13 +27,34 @@ Wherein I list over 700 ists (list is an ist) and see what comes to mind. Might 
 ## Five letters
 
 - agist
-- alist
-- deist
+    - "take in and feed (livestock) for payment."
+    - So that would be a no. (Not to be confused with ageist I guess.)
+- **CANDIDATE** alist
+    - "Alist means leaning or tilted to the side."
+    - Well that's some low hanging fruit in the sense of perhaps just rotating the canvas?
+    - Though to be fair it's a "rare nautical term" which doesn't strike me as a huge recommendation. So the fruit it low but is it good fruit?
+- **CANDIDATE** deist
+    - Well I at least know this word. (Quickly looks it up having lost his faith in his vocabulary... yep.)
+    - Not too clear what it would mean for the snake to believe in a god? Oh I see it's a bit more specific:
+    - "A deist is someone who believes in a God who created the universe but does not intervene in its affairs or in human lives, relying on reason and natural laws rather than revelation or religious authority"
+    - So a non interventionist god... it's more just how you believe the world came to be and so on, not about how you act? That being the case could we imagine a game where the snake is a deist? How would you communicate that? There's the obvious idea it would drive itself around... or the also obvious idea that there are no controls and so it just smacks into the wall?
 - exist
-- feist
-- foist
+    - Seems like a tough one. It's such a mega concept I can't imagine it fitting the specifics of a game?
+- **CANDIDATE** feist
+    - Not just a singer apparently... ""Feist" refers to a small, often ill-tempered, mongrel dog, particularly in the South Midland and Southern U.S."... okay.
+    - A snake that barks? I'm not seeing it. Alternatively a game that sings Feist's main song to the rhythm of the movement? 1 2 3 4 Tell me that you love me more...
+    - Now that is actually pretty funny
+- **CANDIDATE** foist
+    - You "foist something off on someone" right? "impose an unwelcome or unnecessary person or thing on" ... hmmm. So you could imagine another snake being "foisted" on our snake, making their life harder?
+    - Foist is such a weird word though... it doesn't have that *click* into place I would like, but it's true it could be expressed like that, so let's at least list it
 - grist
-- heist
+    - Grist for the mill. So it has a metaphorical function as well as a literal one. e.g
+    - 1. grain that is ground to make flour.
+    - 2. useful material, especially to back up an argument.
+    - Neither of these make a huge ton of sense to me... could you be grinding the apple down over time into smaller and smaller pieces? 
+    - And then what? Bake an apple bread? Seems far fetched.
+- **CANDIDATE** heist
+    - Just because heists are so game-like it would be fun to at least try to do this? Snake "breaks into" somewhere (how?? Eats the apple door?) Then in a confined space eats a bunch of green apples (money???) and then escapes... somehow? And little police walls come to chase you with sirens blaring???
 - hoist
 - joist
 - maist

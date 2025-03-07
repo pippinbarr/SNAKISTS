@@ -48,4 +48,4 @@ That's to the end of the 7-letter words anyway.
 
 One thing that I find fun here is that unlike ISM, the IST ends up with a bunch of words that are *not* about philosophical positions because IST is just a more common suffix (e.g. persist), and you also end up with kind of quite negative words (agist, fascist)... these are less abstract and more forceful? Maybe they're harder or easier to turn into snakes?
 
-As I wrote stuff down I confess I usually had no fucking idea of what to do for them, so let's not get too existed. But still this is at least a funny experiment for now.
+As I wrote stuff down I confess I usually had no fucking idea of what to do for them, so let's not get too excited. But still this is at least a funny experiment for now.
