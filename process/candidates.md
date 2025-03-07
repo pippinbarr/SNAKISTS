@@ -46,3 +46,15 @@ There are a *lot* of -ists that have nothing to do with SNAKISMS which is both r
 
 Just because heists are so game-like it would be fun to at least try to do this? Snake "breaks into" somewhere (how?? Eats the apple door?) Then in a confined space eats a bunch of green apples (money???) and then escapes... somehow? And little police walls come to chase you with sirens blaring???
 
+## Moist
+
+Most basically leaving a pale blue trail because the snake is moist. But I dunno if that has much to recommend it?
+
+## Odist
+
+I'm not really convinced, but some kind of poetry-writing mechanics folded into Snake is not totally hateable... maybe just multiple-choice apples that construct a poem? And the poem is an ode to snakes or apples or walls? Ehehehe, okay that's not terrible.
+
+## Twist
+
+A possibly more clear version of *alist*? Twist the tiles and deal with the visual result? The tiles could "do the twist" while you play? Layer upon layer of bad jokes? Don't hate it... come on baby, let's do the twist?
+

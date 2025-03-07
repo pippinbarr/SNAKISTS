@@ -56,16 +56,44 @@ Wherein I list over 700 ists (list is an ist) and see what comes to mind. Might 
 - **CANDIDATE** heist
     - Just because heists are so game-like it would be fun to at least try to do this? Snake "breaks into" somewhere (how?? Eats the apple door?) Then in a confined space eats a bunch of green apples (money???) and then escapes... somehow? And little police walls come to chase you with sirens blaring???
 - hoist
+    - As in on your own petard? Could your body be made of apples? I feel like this is probably way too unclear to bother with.
 - joist
+    - What is a joist? It's some sort of support structure right?
+    - "A length of timber or steel supporting part of the structure of a building, typically arrange in parallel series ot support a floor or ceiling"
+    - I mean you could image a snake where you eat enough to become a successful joist but... that is kind of terrible? I think not.
 - maist
-- moist
+    - Scots for "most", definitely not
+- **CANDIDATE** moist
+    - I mean, it would be great to have a moist snake... disgusting...
+    - Slightly wet, damp...
+    - The snake could just leave a pale blue trail? That evaporates?
+    - Doesn't really impact anything though? Purely cosmetic? Do we mind purely cosmestic things? (This is raising a general question about the language of design here right - visuals, time, movement, death, growth, elements, ...)
 - neist
-- odist
+    - Scots for nest, a lot of Scots in here
+    - Not of interest, though maybe one could make an entire game based on a different language? Serpents?
+- **CANDIDATE** odist
+    - A writer of Odes right? Is there anything to that? Could a snake write an ode? Choose lines of poetry by eating them? Or words? At the end it displays a resulting poem that also needs to be a poem?
+    - Just reveals a poem by eating? Though your growing body would then block the resulting poetry?
+    - Feels awkward?
 - shist
-- twist
+    - An uncommon spelling of a type of layered rock? Thinly layered.
+    - Is there anything there? A 3D rotation of the board where you can see layers? But who actually cares? And who knows "shist". I don't give a shist.
+- **CANDIDATE** twist
+    - Well this feels like it should be something. You can *twist* the tiles of the world (as in *alist* but with a more recognizable word)
+    - There's also the idea that the game is a collection of Snakes with a Twist, which isn't bad either
+    - Could the twist of tiles be sort of progressive/dependent? Twisting normally seems painful? Well you also "do the twist" in a good way?
+    - Anyway worth thinking about further
 - waist
+    - Well we all have one. Does a snake have a waist? Is a snake all waist?
+    - Is there anything to be done about this in a videogame?
 - whist
+    - Isn't that a card game?
+    - Yeah it's a pairs (of people) based trick taking game
+    - I suppose it therefore has a specific game structure but I don't see a good way to jump from multiplayer card game to snake? Four snakes? Doing what? Taking tricks? I mean... come on man...
 - wrist
+    - A part of the body
+    - A flick of the wrist
+    - Snakes don't have wrists
 
 ## Six letters
 
