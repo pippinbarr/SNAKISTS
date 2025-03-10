@@ -58,3 +58,60 @@ I'm not really convinced, but some kind of poetry-writing mechanics folded into 
 
 A possibly more clear version of *alist*? Twist the tiles and deal with the visual result? The tiles could "do the twist" while you play? Layer upon layer of bad jokes? Don't hate it... come on baby, let's do the twist?
 
+## Artist
+
+At the very least the obvious snake paints with body, probably in the sense of a paint duration based on the apple (=paint can). Of course I also literally did this in Art Game and in that case it was about strategic dying to create the artwork.
+
+Definitely an opportunity to have an ending screen with a framed picture at the very least. There's some argument to mirror Art Game? There's a debate there anyway.
+
+## Cubist
+
+I'm only including this because there's such a funny relationship between cubism and Snake. To some extent it feels like it makes it impossible, but I should read more (than an AI summary) about Cubism to remind me of its nature.
+
+The idea that you could see different parts of the snake and thus, perhaps, its face (which I'm imagining is facing "forward" in the direction of movement) is very funny though maybe not funny enough.
+
+## Delist
+
+Menu-only game. You select this item, the menu-snake eats it, and then it's gone and you just choose something else. *That* is funny.
+
+## Demist
+
+Snake body demists the screen (only where it can reach though, so you might have the comedy of all the other stuff being blurred (ideally we have blur)). And that's it. Mist builds back up maybe over time so it's a constant battle of it being hard to see...
+
+## Egoist
+
+This is in the school (I think) of versions where you just present Snake as is and are sort of pointing out that Snake *already* adheres to some value. The Snake is in some sense egoistic, only cares about itself and its apples...
+
+I dunno. It's pretty dry.
+
+## Jurist
+
+I'm imagining a quiz setup where the snake eats an apple to answer (like red apple versus blue apple for A or B); and then the questions are about laws pertaining to snakes...? Hehe.
+
+## Nudist
+
+I made a pink snake but snakes are probably already nude? I'm wondering about the idea of the snake shedding its skin as a "more nude" snake? Constantly shedding its skin... kind of funny and is a sort of mechanic too, builds walls... or... well do you die if you hit a snake skin?
+
+## Purist
+
+Just regular snake. I like this one. It's fun. And especially if I'm including dictionary definitions, e.g. "a person who insists on absolute adherence to traditional rules or structures, especially in language or style."
+
+## Resist
+
+Most obvious starting point is that the snake *resists* the player's attempt to control it. Not pure fatalism (as in SNAKISMS) but more a push and pull with the player's input.
+
+## Sadist
+
+The player would be the sadist right? How? We encourage them to be by scoring points for killing the snake, not for eating the apple. Smash them against the wall, themselves, over and over, for points. GAME OVER if you let them eat the apple?
+
+## Tubist (or Tubaist)
+
+Move to the tones of a tuba with that classic oompah rhythm that would change up the tick timing. Funny but also gameplay relevant.
+
+## Typist
+
+Clacking with each keypress. Snake moves on clack. Probably auto-snake so you're just driving its movement/the tick. Could pick funny texts to type I suppose?
+
+Oooohhhh... or the whole screen could be mapped to letters and you type the letter adjacent to the head to go to that direction! That would be a weird feeling thing because a lot of the time it would *not* be about typing a sentence unless you were moving left to right? Might end up being weirdly wrong...
+
+Can try both.

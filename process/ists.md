@@ -98,45 +98,139 @@ Wherein I list over 700 ists (list is an ist) and see what comes to mind. Might 
 ## Six letters
 
 - ageist
+    - An ageist is someone who discriminates based on age right? 
+    - Hard to imagine the snake being ageist, but I suppose the game could be somehow... if the snake aged. Could the snake age? Get... greyer? Paler? And then the game... doesn't... I'm struggling with this
+    - It honestly seems like you could do something, but right now it feels like I'm reaching rather than seeing
 - aorist
-- artist
+    - "an unqualified past tense of a verb without reference to duration or completion of the action."
+    - Well that would be a no...
+    - Unless you do something with time in Snake, which is a very time-oriented tick-tock kind of game; but it's such an alien word and I'd rather avoid making too many things that you'd have to read a definition for
+- **CANDIDATE** artist
+    - "a person who produces paintings or drawings as a profession or hobby."
+    - Uh yeah. Most obviously you could just leave a trail. Could do apple as paint, snake as brush, and thus have a limited paint-time before you run out?
+    - What is death when you're an artist? Would we want any commentary on the "starving artist" here? Living on paint
+    - Anyway, it's for sure one to try out
 - assist
+    - "help (someone), typically by doing a share of the work."
+    - It's actually tricky to think about how the snake could help someone else (most obviously another snake?) or how someone else could help the snake?
+    - Snake is a pretty selfish world on the face of it? I do quite like the idea of help in here, but not seeing a quick way in...
+    - The idea of the sports-based assist is interesting too but again assumes teamwork...
 - audist
+    - Discriminating against people who are deaf or hard of hearing
+    - The original Snake doesn't really have a strong audio presence in terms of how you play it, so what would this do?
+    - It's also super negative of course... like I guess the game could whisper mean things? Or it could whisper secrets about the level so only people who hear well could get them??? <- That's quite funny but also literally audism... it's hard not to feel that a design exercise that works hard to discriminate against someone is not a very good idea? Unclear? I don't know. For now, nah.
 - aurist
+    - "a physician specializing in the treatment of ear diseases"
+    - Not feeling it
 - autist
+    - Person with autism... noooot something I want to wade into with a videogame
 - bemist
-- cubist
+    - "The meaning of BEMIST is to envelop, involve, or obscure in or as if in mist"
+    - No real distinction from "mist"
+- **POOR CANDIDATE** cubist
+    - "A cubist artist creates art in a style that depicts objects or people as geometric shapes, often showing multiple perspectives simultaneously, and breaking down subjects into fragments"
+    - I mean this is hilariously descriptive of Snake in the sense of fragmentation (snake body is segments in the code) and geometry (snake body is a series of rectangles)
+    - Which means it's actually NOT easy to do?
+    - But perhaps the "multiple perspective simultaneously" could have something to it? Being able to see the snake's face would be hilarious? Just that? Haha. 
 - cueist
-- delist
-- demist
+    - "a person skilled in cue sports; a snooker, billiards, or pool player"
+    - So... no
+- **CANDIDATE** delist
+    - "remove from a list or category."
+    - I like that somehow... it's very abstract... I mean is there some way that ... oohhhh wait! You select delist, the snake eats it (because that's how the menu works) and then just reappears at the menu because it ATE the menu item, delisting it HAHAHAHAHA
+- **CANDIDATE** demist
+    - "to remove condensed moisture from : defog. demist a car's windows"
+    - Low hanging fruit is that your snake clear mist with body... maybe you can blurrily see the stuff through it (how to blur?) and then you clear it, but it builds back up over time... don't hate it... weird to have mist and demist but hey
 - desist
-- egoist
+    - cease; abstain
+    - Hmmm. It's very negative. How does a snake desist? It just doesn't move?
+    - It sounds kind of boring and nihilist(ic).
+    - Yeah I can't immediately think of it
+- **CANDIDATE** egoist
+    - "An egoist is a person who is preoccupied with their own interests and needs, often to the point of being selfish and self-centered"
+    - Yeah it's another one where it's just what Snake (and many videogames) is like. Which... there's humour to a bunch of these just being Snake and the point is just "snake is, itself, egoistic"... but can't just do that over and over again... but maybe it's funny more than once, I dunno...
+    - A hard maybe
 - enlist
+    - "enroll or be enrolled in the armed services."
+    - "engage (a person or their help or support)."
+    - I dunno... not seeing it right away
 - holist
+    - "characterized by the belief that the parts of something are interconnected and can be explained only by reference to the whole"
+    - Already did HOLISM, so I don't think I want a repeat
 - insist
-- jurist
+    - "demand something forcefully, not accepting refusal."
+    - Don't think I see it? Though I do have to think more broadly than literally "just" the existing mechanics? If there's a funny way to add something simple...
+    - But not necessarily in this case
+- **CANDIDATE** jurist
+    - "an expert in or writer on law"
+    - Law quiz? A quiz at some point could work... choosing apples as answers...
+    - What law? The laws of Snake? Are those laws? It's not really the kind of law meant by jurist.
+    - Worth a thought. International law maybe? Snake laws? Haha. Maybe.
 - legist
+    - Kind of the same as jurist, so nah
 - lutist
+    - There's only so many instrument ones I can do and this isn't my fav
 - lyrist
+    - Same
 - monist
-- nudist
+    - Did it in SNAKISMS I believe
+- **CANDIDATE** nudist
+    - "a person who engages in the practice of going naked wherever possible."
+    - A snake that is naked. Is the snake already naked? Are snakes naked? Yes right?
+    - Snake shedding its skin is... more naked than a snake that has not?
+    - This is awkward... but I would quite like to crack it so on the candidates list it goes
 - oboist
-- purist
+    - Noboe.
+- **CANDIDATE** purist
+    - "a person who insists on absolute adherence to traditional rules or structures, especially in language or style."
+    - This was the one I was going to have as "just snake"
+    - I think it's pretty strong.
 - racist
+    - Rather not
 - rapist
+    - Definitely not
 - relist
-- resist
+    - Feel like List and Delist is enough listing?
+    - Also what would this even be?
+- **CANDIDATE** resist
+    - "withstand the action or effect of."
+    - Feels like there are possibilities there right?
+    - The snake could resist the wall. The snake could resist the player's input.
+    - The snake could resist its own movement. Etc. There seem to be possibilties. Worth a try.
 - rudist
-- sadist
+    - "a cone-shaped extinct bivalve mollusk that formed colonies resembling reefs in the Cretaceous period."
+    - That would be a no
+- **CANDIDATE** sadist
+    - "a person who derives pleasure, especially sexual gratification, from inflicting pain or humiliation on others."
+    - NICE. I mean... not nice. Why did I immediately write NICE?
+    - Anyway the player would be the sadist right? How? We encourage them to be by scoring points for killing the snake, not for eating the apple. Smash them against the wall, themselves, over and over, for points. GAME OVER if you let them eat the apple?
 - saxist
+    - I GET IT, musicians can be called -ist names. But which one?
 - schist
+    - a coarse-grained metamorphic rock which consists of layers of different minerals and can be split into thin irregular plates.
+    - I doubt it... a layered version of snake somehow? But it's just not that funny because rock types aren't all that amusing...
 - sexist
+    - No thanks
 - tanist
+    - "the heir apparent to a Celtic chief, typically the most vigorous adult of his kin, elected during the chief's lifetime"
+    - No
 - theist
-- tubist
-- typist
+    - "a person who believes in the existence of a god or gods, specifically of a creator who intervenes in the universe."
+    - I kiiind of like it but I don't really see it unlike deist...
+- **CANDIDATE** tubist
+    - This was the musical one I actually thought would be funny
+    - Specifically have a tuba rhythm with slow slow slow slow slow slow bombombombom rhythm be how the snake moves, so you have to get used to the idea of moving slow and fast to a specific setup
+- **CANDIDATE** typist
+    - Surely...
+    - I mean yeah, why not have a typing one. Clacking keyboard sounds. But how does movement work? Most obviously a key per tick but how do you choose directions? Just automated and you're just the tick in some sense?
+    - Won't work on mobile? Or will it?? Amazing if it sort of did, even poorly...
 - verist
+    - "A "verist" refers to someone who creates art or literature characterized by a strong emphasis on extreme truth and reality, often representing everyday life and potentially including unpleasant or unflattering aspects"
+    - Feels a bit specific somehow... not that workable... that harsh realities of a snake eating apples?
 - vibist
+    - "a musician who plays the vibraphone."
+    - And not someone who is an expert at feeling the vibes (well kinda)
+    - So no.
 
 ## Seven letters
 
