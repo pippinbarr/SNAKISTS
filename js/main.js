@@ -14,7 +14,11 @@ let config = {
     Preloader,
     Menu,
     Snake,
-    Nudist
+    Definition,
+
+    Gist,
+    Nudist,
+
   ],
   render: {
     pixelArt: true,

@@ -52,7 +52,7 @@ class Menu extends Snake {
       this.down();
     }
 
-    if (Phaser.Input.Keyboard.JustDown(this.enterKey)) {
+    if (Phaser.Input.Keyboard.JustDown(this.cursors.right)) {
       this.right();
     }
   }
@@ -124,7 +124,8 @@ class Menu extends Snake {
     this.time.addEvent({
       delay: 1500,
       callback: () => {
-        this.scene.start(this.games[this.selected].state);
+        const stateName = this.games[this.selected].state;
+        this.scene.start("walloftext", this.strings[stateName]);
       }
     })
   }

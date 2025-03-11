@@ -29,7 +29,10 @@ class Snake extends Phaser.Scene {
 
         this.score = 0;
         this.next = new Phaser.Geom.Point(0, 0);
-        this.prev = undefined;
+        this.prev = {
+            x: undefined,
+            y: undefined
+        };
         this.bodyPiecesToAdd = 0;
         this.dead = false;
 
@@ -39,8 +42,9 @@ class Snake extends Phaser.Scene {
         this.apple = undefined;
     }
 
-    init() {
+    init(data) {
         this.strings = this.cache.json.get(`strings`);
+        this.config = data;
     }
 
     create() {
@@ -122,14 +126,18 @@ class Snake extends Phaser.Scene {
 
     gameOver() {
         this.setGameOverText(this.strings.ui.gameover, "", this.score + ` ${this.strings.ui.points}`, "", "");
+
+        // this.gameOverInstructionsTimeout = setTimeout(() => {
+        // this.addTextToGrid(2, this.NUM_ROWS - 2, ["BOO BOO"])
+        // }, 1000);
     }
 
     gotoMenu() {
-        // this.scene.start('Menu');
+        this.scene.start("menu");
     }
 
     restart() {
-        // this.scene.start(this.stateName);
+        this.scene.start(this.stateName);
     }
 
     startAppleTimer() {
@@ -466,7 +474,7 @@ class Snake extends Phaser.Scene {
         this.controlsGroup = this.add.group();
 
         this.createTextGrid();
-        // this.createInstructions();
+        this.createInstructions();
         this.createControls();
     }
 
@@ -488,7 +496,7 @@ class Snake extends Phaser.Scene {
 
     createInstructions() {
         let instructionsY = this.NUM_ROWS - 2;
-        let instructionsX = 1;
+        let instructionsX = 2;
 
         if (this.sys.game.device.os.desktop) {
             this.addTextToGrid(instructionsX, instructionsY, this.strings.ui.reset.keyboard, this.textGroup);
@@ -508,7 +516,7 @@ class Snake extends Phaser.Scene {
             controlsStrings = this.strings.ui.controls.touch;
         }
 
-        controlsStrings.push(this.strings[this.stateName].ist);
+        controlsStrings.push("SNAKE");
 
         this.addTextToGrid(this.CONTROLS_X, this.CONTROLS_Y, controlsStrings, this.controlsGroup);
         this.controlsVisible = true;

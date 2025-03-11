@@ -5,6 +5,7 @@
     ],
     "ui": {
         "games": [
+            "gissst",
             "nudissst"
         ],
         "controls": {
@@ -36,8 +37,8 @@
         "homepage": "pippinbarr.com",
         "instructions": {
             "keyboard": [
-                "UP/DOWN=SELECT",
-                "ENTER=PLAY"
+                "UP/DOWN ARROW=SELECT",
+                "RIGHT ARROW=PLAY"
             ],
             "touch": [
                 "SWIPE UP/DOWN=SELECT",
@@ -45,10 +46,60 @@
             ]
         }
     },
+    "definition": {
+        "instructions": {
+            "keyboard": [
+                "RIGHT ARROW=CONTINUE"
+            ],
+            "touch": [
+                "SWIPE RIGHT=CONTINUE"
+            ]
+        }
+    },
     "snake": {
-        "ist": "SSSNAKISSST"
+        "state": "nudissst",
+        "ist": "SSSNAKISSST",
+        "definition": [],
+        "outro": []
     },
     "nudissst": {
-        "ist": "NUDISSST"
+        "state": "nudissst",
+        "ist": "NUDISSST",
+        "definition": [
+            "NUDIST",
+            "",
+            "",
+            "A PERSON WHO ENGAGES",
+            "",
+            "IN THE PRACTICE OF",
+            "",
+            "GOING NAKED",
+            "",
+            "WHEREEVER POSSIBLE."
+        ],
+        "outro": [
+            "AT LEAST YOU",
+            "DIED NUDE."
+        ]
+    },
+    "gissst": {
+        "state": "gissst",
+        "ist": "GISSST",
+        "definition": [
+            "GISSST (NOUN)",
+            "",
+            "",
+            "THE SSSUBSSSTANCE",
+            "",
+            "OR ESSSSSSENCE",
+            "",
+            "OF A SSSPEECH",
+            "",
+            "OR TEXT."
+        ],
+        "outro": [
+            "YOU GET",
+            "THE IDEA."
+        ]
     }
 }

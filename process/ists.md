@@ -1,6 +1,6 @@
 # Ists
 
-Wherein I list over 700 ists (list is an ist) and see what comes to mind. Might take a few rounds to get to every single one. These lists by length come, as you might imagine, from a [scrabble dictionary](https://scrabble.merriam.com/words/end-with/ist).
+Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might take a few rounds to get to every single one. These lists by length come, as you might imagine, from a [scrabble dictionary](https://scrabble.merriam.com/words/end-with/ist).
 
 ## Four letters (because this is Scrabble)
 
