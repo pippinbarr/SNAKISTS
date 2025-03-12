@@ -1,6 +1,7 @@
 # Process Stuff
 
 - [To-do](./to-do.md) - what do I need to do...
+- [Snake](./snake.md) - what *is* Snake? We just don't know
 - [Ists](./ists.md) - lists of ists and fast thoughts
 - [Candidates](./candidates.md) - design thinking about plausible ists
 - [Prototypes](./prototypes.md) - reflections at the prototyping level
