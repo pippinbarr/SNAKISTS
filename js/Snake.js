@@ -56,6 +56,7 @@ class Snake extends Phaser.Scene {
 
         this.NUM_ROWS = HEIGHT / this.GRID_SIZE;
         this.NUM_COLS = WIDTH / this.GRID_SIZE;
+        this.width = this.GRID_SIZE * this.NUM_COLS;
 
 
         this.instructionsButtonGroup = this.add.group();
@@ -278,18 +279,19 @@ class Snake extends Phaser.Scene {
         this.snakeHead.x += this.next.x;
         this.snakeHead.y += this.next.y;
 
-        if (this.snakeHead.x >= this.width) {
-            this.snakeHead.x = this.GRID_SIZE;
-        }
-        else if (this.snakeHead.x < 0) {
-            this.snakeHead.x = this.width - this.GRID_SIZE;
-        }
-        if (this.snakeHead.y >= this.height) {
-            this.snakeHead.y = this.GRID_SIZE;
-        }
-        else if (this.snakeHead.y < 0) {
-            this.snakeHead.y = this.height - this.GRID_SIZE;
-        }
+        // Wrapping
+        // if (this.snakeHead.x >= this.width) {
+        //     this.snakeHead.x = this.GRID_SIZE;
+        // }
+        // else if (this.snakeHead.x < 0) {
+        //     this.snakeHead.x = this.width - this.GRID_SIZE;
+        // }
+        // if (this.snakeHead.y >= this.height) {
+        //     this.snakeHead.y = this.GRID_SIZE;
+        // }
+        // else if (this.snakeHead.y < 0) {
+        //     this.snakeHead.y = this.height - this.GRID_SIZE;
+        // }
     }
 
     checkAppleCollision() {

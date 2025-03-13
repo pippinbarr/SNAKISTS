@@ -2,6 +2,27 @@
 
 In the continuing "don't write it all in the journal" mode, I'm going to try out a document where I write separately about prototyping and responding to the different candidate variations (I should call them "definitions"?) I'm making.
 
+## Delist
+
+> Menu-only game. You select this item, the menu-snake eats it, and then it's gone and you just choose something else. *That* is funny.
+
+## 2025-03-13
+
+It's kind of embarrassing to have to quote myself saying something is funny. I hope it's actually funny. It seems like a good one to prototype because it's so basic conceptually and takes place entirely in the menu... welll.... no actually I suppose you would want to switch to the definition screen and then come back to the menu to find the item is gone. So I'll work on that. Now.
+
+...
+
+Okay got the basics of this working. It's remarkable just how much shitty/bad code I wrote to get it in there. It's such a special case it's clearly not worth engineering some kind of more general solution, but it's genuinely quite horrible how many things I did to pop it in:
+
+- Have to "fake" its state name to "menu" for the game's data so that after the Definition screen it goes to menu (that's not so terrible)
+- Had to add code that causes the snake to "eat" letters as it goes over them to `tick()` *if* the delisssting option was selected.
+- Had to add localStorage so that the game saves a cookie (I suppose Google when then delete this, great, maybe I should work around it?) when you choose delist, and then specifically blanks the menu item title for delissst in Menu.create() if that cookie is there
+- Had to change up() and down() in Menu so that it skips over the blank space if delissst has been delisssted
+
+It's kind of an object lesson in how janky and gross the underlying code can sometimes be for a beautiful and pure idea. Because I do think it works really nicely in the end. You select it, get a crisp definition of delisting, and then instead of getting a game you go back to the menu with the thing you just selected delisted. Chess's kiss etc.?
+
+But yeah, there's maybe some thought to be given to maintining internal state about this rather than working through localStorage even though it's very funny that it would stay delisted "forever" with the Cookie. If cookies are sort of dying then may as well just keep it internal, not that hard to do since I'm already passing data between the states.
+
 ## Gist
 
 > The idea of a total distillation of Snake even more than it already is. A presentation of the game that's like "I get the gist". Which could also be temporal, like you eat one apple, another appear, and then it ends saying "you get the gist".

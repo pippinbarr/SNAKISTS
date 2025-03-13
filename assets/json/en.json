@@ -5,6 +5,8 @@
     ],
     "ui": {
         "games": [
+            "aplaceholderissst",
+            "delissst",
             "gissst",
             "nudissst"
         ],
@@ -57,30 +59,37 @@
         }
     },
     "snake": {
-        "state": "nudissst",
+        "state": "snake",
         "ist": "SSSNAKISSST",
-        "definition": [],
-        "outro": []
-    },
-    "nudissst": {
-        "state": "nudissst",
-        "ist": "NUDISSST",
         "definition": [
-            "NUDIST",
-            "",
-            "",
-            "A PERSON WHO ENGAGES",
-            "",
-            "IN THE PRACTICE OF",
-            "",
-            "GOING NAKED",
-            "",
-            "WHEREEVER POSSIBLE."
+            "SNAKE"
         ],
         "outro": [
-            "AT LEAST YOU",
-            "DIED NUDE."
+            "SNAKED"
         ]
+    },
+    "aplaceholderissst": {
+        "state": "snake",
+        "ist": "APLACEHOLDERISSST",
+        "definition": [
+            "SNAKE"
+        ],
+        "outro": [
+            "SNAKED"
+        ]
+    },
+    "delissst": {
+        "state": "menu",
+        "ist": "DELISSST",
+        "definition": [
+            "DELIST (VERB)",
+            "",
+            "",
+            "REMOVE FROM A LIST",
+            "",
+            "OR CATEGORY."
+        ],
+        "outro": []
     },
     "gissst": {
         "state": "gissst",
@@ -100,6 +109,26 @@
         "outro": [
             "YOU GET",
             "THE IDEA."
+        ]
+    },
+    "nudissst": {
+        "state": "nudissst",
+        "ist": "NUDISSST",
+        "definition": [
+            "NUDIST",
+            "",
+            "",
+            "A PERSON WHO ENGAGES",
+            "",
+            "IN THE PRACTICE OF",
+            "",
+            "GOING NAKED",
+            "",
+            "WHEREEVER POSSIBLE."
+        ],
+        "outro": [
+            "AT LEAST YOU",
+            "DIED NUDE."
         ]
     }
 }

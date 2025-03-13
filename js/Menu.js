@@ -13,6 +13,8 @@ class Menu extends Snake {
   create() {
     super.create();
 
+    this.delisssted = localStorage.getItem("snakists-delisssted") === "true";
+
     this.title = this.strings.title;
 
     this.games = [];
@@ -40,6 +42,14 @@ class Menu extends Snake {
   tick() {
     this.addSnakeBits();
     this.updateSnakePosition();
+
+    if (this.games[this.selected].state === "delissst") {
+      const col = this.snakeHead.x / this.GRID_SIZE;
+      const row = this.snakeHead.y / this.GRID_SIZE;
+      if (this.snakeHead.x < this.width) {
+        this.textGrid[row][col].text = "";
+      }
+    }
   }
 
   handleKeyboardInput() {
@@ -71,7 +81,12 @@ class Menu extends Snake {
     let y = menuTop;
 
     for (let game of this.games) {
-      this.addTextToGrid(x, y, [game.title], this.menuText)//, this.menuButtons, this.menuItemTouched);
+      if (game.state === "delissst" && this.delisssted) {
+        this.addTextToGrid(x, y, "", this.menuText)//, this.menuButtons, this.menuItemTouched);
+      }
+      else {
+        this.addTextToGrid(x, y, [game.title], this.menuText)//, this.menuButtons, this.menuItemTouched);
+      }
       y++;
     }
 
@@ -99,6 +114,10 @@ class Menu extends Snake {
     if (this.selected > 0) {
       this.selected--;
       this.snakeHead.y -= this.GRID_SIZE;
+      if (this.games[this.selected].state === "delissst" && this.delisssted) {
+        this.selected--;
+        this.snakeHead.y -= this.GRID_SIZE;
+      }
       this.moveSFX.play();
     }
   }
@@ -107,6 +126,10 @@ class Menu extends Snake {
     if (this.selected < this.games.length - 1) {
       this.selected++;
       this.snakeHead.y += this.GRID_SIZE;
+      if (this.games[this.selected].state === "delissst" && this.delisssted) {
+        this.selected++;
+        this.snakeHead.y += this.GRID_SIZE;
+      }
       this.moveSFX.play();
     }
   }
@@ -116,6 +139,9 @@ class Menu extends Snake {
   }
 
   right() {
+    if (this.games[this.selected].state === "delissst") {
+      localStorage.setItem("snakists-delisssted", true);
+    }
     this.next = new Phaser.Geom.Point(this.GRID_SIZE, 0);
     this.transition = true;
     this.appleSFX.play();

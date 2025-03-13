@@ -17,7 +17,7 @@ class Definition extends Snake {
         this.setScoreText(" ");
         this.instructionsGroup.setVisible(false);
 
-        this.addTextToGrid(2, 2, this.config.definition);
+        this.addTextToGrid(2, 3, this.config.definition);
 
         let instructions = "OH NO."
         if (this.sys.game.device.os.desktop) {
