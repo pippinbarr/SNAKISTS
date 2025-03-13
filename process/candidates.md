@@ -2,6 +2,28 @@
 
 Where I will list ists that I might actually use. These should at a minimum be visually prototyped, ideally for-real prototyped.
 
+## Animist
+
+So an animist believes that things have souls, including inanimate objects (so I suppose the walls would have souls too). My main design though in ists was to have it so that on "dying" both the snake and apple would have a soul (a lowered-alpha copy) leave their body and go upwards. Funny to think of that happening on the tick actually.
+
+I do like this image a lot... I'm not sure how much I think it really captures what an Animist believes in though so I'll have to look further. I'd like to shoehorn this idea in there somewhere anyway.
+
+## Coexist
+
+At its simplest interpretation let's say this involves two snakes, both controlled by the player, and thus both needing to coexist in the play space. Could involve some kind of "manners" around the apples as well, but I think mostly it would just be a nightmare not smacking into a wall.
+
+If one Snake dies does the other carry on, or would it be proof they couldn't ... coexist?
+
+## Copyist
+
+A person who makes copies is fun. If the Snake is a person who makes copies (well they kind of already copy units of their own body in a sense) then what would they copy? Themselves? The apple? The walls? Not many options!
+
+The apple would of course lead to madness... so maybe that's fun.
+
+## Cosmist
+
+I mean it's pretty fun to think about the Cosmic destiny of the Snake... but less clear how we might represent that... immortality, control over nature, space exploration... considered as "stages" there might be something there? Like you collect apples to upgrade; first you get "immortality"? So walls no longer do anything (have admittedly already done that in SNAKISMS); then control over nature means you can maybe spawn an apple any time? Change the length of your body? (Mobile controls for this sound almost impossible) Then you can go to Space... maybe a starfield appears and you head up out of the screen to end the game?
+
 ## Fist
 
 As in Mario Odyssey's desert boss. A huge enemy made of wall pieces that moves around (this is also sounding a hell of a lot like my Shadow of the Colossus desnake), or maybe just its fists? And you're trying to get across to the side of punch it with your head - in the eye, most obviously? Which would of course have to be an apple?

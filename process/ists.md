@@ -235,28 +235,100 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 ## Seven letters
 
 - ableist
+    - I would rather not
 - agonist
+    - "a substance which initiates a physiological response when combined with a receptor."
+    - Kind of like the physicality of this but it's pretty general and so a bit hard to think about... what is a "physiological response"? Well I mean I guess this is YET ANOTHER one of these that you could argue is just... Snake???
+    - As in, the apple is an Agonist in this case?
+    - In which case would you make a version where you play as the apple? You are the agonist? 
+    - It's also just a really abstract definition though... maybe not fun enough?
 - altoist
+    - Music music
 - amorist
-- animist
+    - "a person who is in love or who writes about love."
+    - That's quite appealing but I don't immediately get anyway... can the Snake be in love? Can the Snake world support love? What is love? Baby don't hurt me? Don't hurt me? No more?
+- **CANDIDATE** animist
+    - "the attribution of a soul to plants, inanimate objects, and natural phenomena." -- well that's animism and an animist beleives in these things
+    - So can the Snake be an animist? The player? Would it matter?
+    - Would the idea be to represent a soul? Should the apple's soul leave its body each time you eat it, and the snake's too? That's kind of funny?
 - atavist
+    - "recurrence in an organism of a trait or character typical of an ancestral form and usually due to genetic recombination."
+    - Uh... that sounds complex...
 - atheist
+    - "a person who disbelieves or lacks belief in the existence of God or gods."
+    - How would a Snake prove they don't believe in God? It's a funny thing to try to imagine... but I dunno, it's like an absence.
+    - You could imagine something stupid like an end line saying something like "When you're dead your dead" but can't rely too much on that idea of just a text that makes a joke in the context of the vanilla game.
+    - So... no for now. Sad.
+    - #interesting
 - atomist
+    - "Atomism is a natural philosophy rooted in ancient Greece that states the universe is made up of indestructible particles known as atoms"
+    - I *think* I made an Atomism in SNAKISMS? Or maybe not actually. And didn't I already run into this concept earlier on? The funny idea that Snake *is* made up of these atomic tiles? And is that something one can care about?
+    - I mean there are pixels too. But how does one *show* this. And in particular because it is ISTS how do you show someone believe in that principle?
+    - Gosh I don't know... do I need another tag for things that are interesting but kind of hard? 
+    - #interesting
 - baptist
+    - "relating to or belonging to a Protestant Christian denomination that advocates baptism only of adult believers by total immersion."
+    - I confess I'm a bit confused about whether this whole thing hangs on how much of your body you put in the water? Or is that merely symbolic and it's about some claiming of a high ground of more metaphorical immersion?
+    - Regardless I'm a wee bit unsure of how one might do this in Snake... I guess you could set the game underwater... total immersion... I mean that's *funny*, but not totally clear what the fuck it would mean
+    - Maybe deserves more thought though
+    - #interesting
 - bassist
+    - Music
 - biblist
+    - "a person who regards the Bible as the only rule of faith." (or Biblicist if you like more letters)
+    - Bit of a big area of discussion... I mean the snake could poop out bible quotes or something but I don't know that I find that very compelling
 - bundist
+    - Bundism: "A secular socialist ideology and movement among Ashkenazi Jews that advocated non-separatist Jewish autonomism, the cultivation of Ashkenazi culture and worker organisation." ... so a person into that then
+    - And also: uh no
 - cambist
+    - " One who deals in bills of exchange or who is skilled in the science and practice of exchange. "
+    - Christ. 
+    - "Cambist is an antiquated term that refers to a financial professional who is considered an expert in the international currency exchange markets."
+    - I mean part of me almost wants to think about how to achieve this, though the word itself feels so obscure and I don't reeeeaally want (too many) hyper obscure words in the game as it seems a bit prickly.
 - casuist
+    - "a person who uses clever but unsound reasoning, especially in relation to moral questions; a sophist."
+    - Fun guy. Dunno about this for the game. It's a little bit of "feeling seen" in terms of the game itself though! Trying to be clever about design relative to words but secretly it's a bit rotten and bullshit under the hood
 - cellist
+    - Music.
 - chemist
+    - "an expert in chemistry; a person engaged in chemical research or experiments"
+    - Well I must say I would *like* to be able to include this one.
+    - But also I dunno how... could the Snake do some chemical research on the apple? UMMMMM. Can...
+    - I dunno.
 - chutist
+    - Aka a "parachutist" which... well that's appealing. 
+    - The Snake on a parachute? The apples dropping down on parachutes?
+    - I'd think there was something to this?
+    - See also: parachutist, if I ever get that far
+    - I don't have anything design-y immediately though so is this only
+    - #interesting
+    - ?
 - chymist
+    - "a graduated scientist trained in the study of chemistry, or an officially enrolled student in the field."
+    - Oh sure. Words. See: chemist.
 - cladist
-- coexist
+    - "A biologist who studies clades, an evolutionary biologist who studies the pattern of species interrelationships according to the principles of cladistics."
+    - ummmmm...
+    - cladistics: "An approach to biological systematics in which organisms are grouped based upon synapomorphies (shared derived characteristics) only, and not upon symplesiomorphies (shared ancestral characteristics)"
+    - Ummmmm....
+    - So... no...
+- **CANDIDATE** coexist
+    - Oh well I like that idea! Though the fuck it would mean I don't know.
+    - Two snakes I suppose. Maybe a "no after you" situation where you need to keep them alive? 
+    - Or simply... control them both? And they both coexist? Probably yeah.
 - consist
-- copyist
-- cosmist
+    - It's a nice simple word but I can't really imagine a game out of it.
+- **CANDIDATE** copyist
+    - "a person who makes copies, especially of handwritten documents or music."
+    - Oh that's very appealing. A person who makes copies. Potentially of themselves? Or the apple? Something can get copied.
+- **CANDIDATE** cosmist
+    - "A "cosmist" refers to someone who adheres to or supports the philosophical and cultural movement of Russian cosmism, which explores the origin, evolution, and future of the cosmos and humankind, often with a focus on the potential for humanity to actively shape its own destiny and the universe"
+    - Thanks "AI overview"
+    - A bit tough to understand without reading into Cosmism I guess
+    - "Russian cosmism (Русский космизм), also cosmism, is a philosophical and cultural movement that emerged in late 19th- and early 20th-century Russia, integrating science, religion, and metaphysics into a unified worldview. It is characterized by the belief in humanity’s cosmic destiny, the potential for immortality, and the use of scientific and technological advancements to achieve control over nature and space exploration.[1]"
+    - Thanks Wikipedia...
+    - I mean it's pretty fun to think about the Cosmic destiny of the Snake... but less clear how we might represent that... immortality, control over nature, space exploration... considered as "stages" there might be something there? Like you collect apples to upgrade; first you get "immortality"? So walls no longer do anything (have admittedly already done that in SNAKISMS); then control over nature means you can maybe spawn an apple any time? Change the length of your body? (Mobile controls for this sound almost impossible) Then you can go to Space... maybe a starfield appears and you head up out of the screen to end the game?
+    - It's VERY GAME-y but maybe there is something there
 - cultist
 - cyclist
 - czarist
