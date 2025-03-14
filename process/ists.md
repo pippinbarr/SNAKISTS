@@ -330,17 +330,78 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
     - I mean it's pretty fun to think about the Cosmic destiny of the Snake... but less clear how we might represent that... immortality, control over nature, space exploration... considered as "stages" there might be something there? Like you collect apples to upgrade; first you get "immortality"? So walls no longer do anything (have admittedly already done that in SNAKISMS); then control over nature means you can maybe spawn an apple any time? Change the length of your body? (Mobile controls for this sound almost impossible) Then you can go to Space... maybe a starfield appears and you head up out of the screen to end the game?
     - It's VERY GAME-y but maybe there is something there
 - cultist
+    - Well I really WANT THIS TO WORK of course
+    - "a member of an unorthodox cult who generally lives outside of conventional society under the direction of a charismatic leader."
+    - I guess the Snake would need to be the Cultist? Or could the Snake be the Charismatic leader? And the unorthodox cult is about moving the Snake's body around to eat apples... ummm... that is VERY underdeveloped but I feel like it's worth trying more with it
+    - The big question is going to be "who is the cultist" and realistically that needs to be the Snake or the Player (who are a little bit the same person normally) as they're the only true "agents" unless I want to introduce agency to a wall or something (with pugilist would do... or whatever the boxing one is...)
+    - A DEATH CULT is potentially quite interesting... it's a bit too similar to something in SNAKISMS though I suppose? But maybe if it's about pursuading the player to die instead of play? And then if they die... they are rewarded? Or they are NOT rewarded because cults are nonsense?
+    - This needs to be pursued
+    - #interesting
 - cyclist
+    - I mean, clearly a snake on a bike is pretty fucking funny, but would would it mean in practice? Can't really depict a bike...
+    - I guess I can get away with *one* really stupid thing where I put (for example) a bike emoji under the snake and that's the whole stupid joke. One of those, but you'd want to choose carefully which one is the funniest way of doing that... because it's a meta joke about design
+    - The Snake needing to signal turns would be funny, or follow road rules
+    - Maybe the screen layout becomes more of a city streets and so on? But that could also be "motorist" or something... not really just about a bike
+    - But there's something to this?
+    - The idea of balance and bikes? But a standard cyclist has mastered balance.
+    - Let's just call it #interesting for now
 - czarist
-- dadaist
+    - "autocratic; dictatorial. noun. an adherent of a czar or of czarism."
+    - "a supporter of the system of government of Russia until 1917 by a male Russian ruler. The czarists sent political dissidents off to Siberia."
+    - Haha so specifically Russian in the second one
+    - "Russian Music" and a color scheme or WHATEVER? And you get deposed? No because a czarist isn't the czar.
+    - "of, pertaining to, or characteristic of a czar or the system and principles of government under a czar."
+    - So there's the autocratic element here... like the game itself could be czarist ... which all games "are" in "that way"
+    - Feel like I'm not really finding something right now. Or that a different word might unlock the ideas I'm circling better?
+    - For now it has generated enough bullets that it is #interesting
+- **CANDIDATE** dadaist
+    - Ohhhhh! "A "dadaist" refers to someone associated with or influenced by Dadaism, a radical art movement that emerged in the early 20th century, characterized by its anti-art, anti-war, and absurdist approach to art and culture"
+    - So a chance to refer to the art movement or even specific famous works, particularly because I feel like they were quite performative
+    - Snake as Nonsense in some capacity...
+    - "Within the umbrella of the movement, people used a wide variety of artistic forms to protest the logic, reason, and aestheticism of modern capitalism and modern war"
+    - So the Snake could be a Dadaist?
+    - "To develop their protest, artists tended to make use of nonsense, irrationality, and an anti-bourgeois sensibility.[6][7][8] The art of the movement began primarily as performance[9] art"
+    - "According to Hans Richter Dada was not art: it was "anti-art".[22] Dada represented the opposite of everything which art stood for. Where art was concerned with traditional aesthetics, Dada ignored aesthetics. If art was to appeal to sensibilities, Dada was intended to offend."
+    - I mean there seems to be a line toward a Snake that is like an anti-Snake, opposing/resisting/making nonsense of the rationality and capitalistic and individualistic basis of the game Snake?
+    - Apparently Fountain counts as Dada? So could be funny to just present a JPEG of something, a Snake or an anti-Snake?
+    - L.H.O.O.Q. is another one in that vein... a "defaced" work, 
+    - I mean there's the stupid way out where the Snake has a moustache, but that would very much NOT be the Dadaist principle at work, even though it's funny and puncturing
+    - "DADA!! the latest thing!!! bourgeois syncope, BRUITIST [noise] music, the new rage, Tzara song dance protest — the bass drum — red light, policemen — songs cubist tableaux postcards Cabaret Voltaire song — simultaneous poem … two-step alcohol advertisement smoking toward the bells / we whisper: arrogance / Ms. Hennings’ silence, Janco declaration. transatlantic art = people rejoice star projected on Cubist dance in bells.
+        - Tristan Tzara, “Chronique Zurichoise,” entry for 26 February 1916, in Richard Huelsenbeck, ed., Dada Almanach (Berlin, 1920), p. 11."
+        - via [https://smarthistory.org/dada-performance/](https://smarthistory.org/dada-performance/)
+    - The idea of "distorted beyond all recognition"
+    - "Perhaps Hugo Ball put it best when he said, “Our cabaret is a gesture. Every word that is spoken and sung here says at least one thing: that this humiliating age has not succeeded in winning our respect.”"
+    - I mean it's VERY INTERESTING it has to be a candidate
 - dentist
+    - Dentist hahaha. I mean could you be removing cavities in some teeth made of walls? Is that too stupid? Maybe yes...
 - dialist
-- diarist
+    - "a person who makes (sun) dials"
+    - Language never ceases to surprise I suppose - why the sweet fuck did we need that word?
+- **CANDIDATE** diarist
+    - Ooohhhh! The personal diaries of the snakeeeee! FUCK ME.
+    - "a person who writes a diary." - well yes
+    - The snake poops out a trail of diary entries about its life?
+    - The snake pauses after every apple to write in its diary? Or prompts the player to type (including mobile keyboard) about their feelings?
+    - Got to be something here.
 - dualist
-- duelist
+    - "Dualism is the theory that the mental and the physical – or mind and body or mind and brain – are, in some sense, radically different kinds of things"
+    - Descartes and all that
+    - Did I do this in SNAKISMS? I did and it's funny!!! Hmm, so then no.
+- **CANDIDATE** duelist
+    - "A person who participates in a duel."
+    - Another Snake with whom you are Dueling? No apple? Essentially it's the TRON lightcycles game? Basically impossible to program a good AI for this without losing my mind?
+    - Worth at least a prototyping consideration
 - egotist
-- elegist
-- elitist
+    - See: egoist
+- **CANDIDATE** elegist
+    - "the author of a mournful poem lamenting the dead."
+    - I mean FUCK YES the player should write an elegy when the Snake dies
+    - But what's a good way to get that to properly land?
+    - Maybe it creates a downloadable PDF/image of the elegy nicely laid out?
+    - How to encourage good elegaic behaviour?
+- **CANDIDATE** elitist
+    - "a person who believes that a society or system should be led by an elite."
+    - Hmmm, maybe the game could quiz you about whether you're GOOD ENOUGH to control the snake and play? Qualifications check? How would we ask for proof? A quiz about your depth of Snake knowledge. Could actually get into a pretty fun and stupid gamerbro gamergate mockery session actually...
 - entwist
 - epeeist
 - etatist
