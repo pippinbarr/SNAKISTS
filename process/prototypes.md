@@ -2,6 +2,40 @@
 
 In the continuing "don't write it all in the journal" mode, I'm going to try out a document where I write separately about prototyping and responding to the different candidate variations (I should call them "definitions"?) I'm making.
 
+## Deist
+
+> Because the definition I read specifically presents this as believe in a *non-interventionist god* (hi Nick Cave) I wonder if there's some juice to just having this be a Snake with no controls that moves across the screen (logically) and then hits the wall (dies).
+
+## 2025-03-14
+
+I'm going to prototype this one just because it's so simple. Non-interventionist god (the player) therefore does not intervene (has no controls) and the Snake goes along its track and dies (hits the wall).
+
+I think there's some philosophy here around why the Snake wouldn't be autonomous (as in Determinism) but I think the purest sense of the Snake living its life without the God puppeting it is that it would simply hit the wall and die. 
+
+The fact the apple would (I think?) appear after the Snake's inevitable death is kind of a weird critic of their God?
+
+Do I acknowledge the intervention bit? If the player *tries* to intervene do I show a message saying "don't intervene"? Do I play an "error sound" so they understand it's not allowed? 
+
+Well let's prototype!
+
+...
+
+I prototyped.
+
+It works pretty well as an idea. I feel the match between the definition and then the playing out of the game is satisfying.
+
+Right now I have an "controls" text that explains how to play:
+
+> Do not intervene
+
+And the keys do nothing. But I suspect an error sound is going to make sense? BUT there's also an oddity around being a non-interventionist god who CANNOT intervene? But I suppose maybe such a non-interventionist god would have programmed their universe not to allow intervention? It's hard to say.
+
+At the end right now in a fit of probably incorrect whimsy I have
+
+> Well that happened.
+
+Which I don't think works at all but I just wanted to try out having some text there. It does feel like ending texts can be a nice way to close out and resolve the feeling of the joke? So it may be I want to say *something* but probably not this.
+
 ## Delist
 
 > Menu-only game. You select this item, the menu-snake eats it, and then it's gone and you just choose something else. *That* is funny.

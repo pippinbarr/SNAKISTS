@@ -2,9 +2,9 @@
 
 Where I will list ists that I might actually use. These should at a minimum be visually prototyped, ideally for-real prototyped.
 
-## Alist
+## See: Twist ~~Alist~~
 
-A rare nautical term for a boat being on an angle. It's an easy one to imagine putting together (tilt the canvas? Tilt the tiles?), but the fact it's such an alien word may not help. It would work if there were a definition though, so not impossible. I need an official source for definitions.
+~~A rare nautical term for a boat being on an angle. It's an easy one to imagine putting together (tilt the canvas? Tilt the tiles?), but the fact it's such an alien word may not help. It would work if there were a definition though, so not impossible. I need an official source for definitions.~~
 
 ## Animist
 

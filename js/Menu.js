@@ -13,7 +13,7 @@ class Menu extends Snake {
   create() {
     super.create();
 
-    this.delisssted = localStorage.getItem("snakists-delisssted") === "true";
+    this.delisted = localStorage.getItem("snakists-delisted") === "true";
 
     this.title = this.strings.title;
 
@@ -22,7 +22,7 @@ class Menu extends Snake {
     for (let game of this.strings.ui.games) {
       this.games.push({
         index: index,
-        title: this.strings[game].ist,
+        title: this.strings[game].menuName,
         state: game
       });
       index++;
@@ -37,13 +37,15 @@ class Menu extends Snake {
 
     this.setScoreText("");
     this.snakeBitsToAdd = 20;
+
+    this.transition = false;
   }
 
   tick() {
     this.addSnakeBits();
     this.updateSnakePosition();
 
-    if (this.games[this.selected].state === "delissst") {
+    if (this.games[this.selected].state === "delist") {
       const col = this.snakeHead.x / this.GRID_SIZE;
       const row = this.snakeHead.y / this.GRID_SIZE;
       if (this.snakeHead.x < this.width) {
@@ -81,7 +83,7 @@ class Menu extends Snake {
     let y = menuTop;
 
     for (let game of this.games) {
-      if (game.state === "delissst" && this.delisssted) {
+      if (game.state === "delist" && this.delisted) {
         this.addTextToGrid(x, y, "", this.menuText)//, this.menuButtons, this.menuItemTouched);
       }
       else {
@@ -114,7 +116,7 @@ class Menu extends Snake {
     if (this.selected > 0) {
       this.selected--;
       this.snakeHead.y -= this.GRID_SIZE;
-      if (this.games[this.selected].state === "delissst" && this.delisssted) {
+      if (this.games[this.selected].state === "delist" && this.delisted) {
         this.selected--;
         this.snakeHead.y -= this.GRID_SIZE;
       }
@@ -126,7 +128,7 @@ class Menu extends Snake {
     if (this.selected < this.games.length - 1) {
       this.selected++;
       this.snakeHead.y += this.GRID_SIZE;
-      if (this.games[this.selected].state === "delissst" && this.delisssted) {
+      if (this.games[this.selected].state === "delist" && this.delisted) {
         this.selected++;
         this.snakeHead.y += this.GRID_SIZE;
       }
@@ -139,8 +141,8 @@ class Menu extends Snake {
   }
 
   right() {
-    if (this.games[this.selected].state === "delissst") {
-      localStorage.setItem("snakists-delisssted", true);
+    if (this.games[this.selected].state === "delist") {
+      localStorage.setItem("snakists-delisted", true);
     }
     this.next = new Phaser.Geom.Point(this.GRID_SIZE, 0);
     this.transition = true;

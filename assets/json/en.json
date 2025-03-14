@@ -5,10 +5,10 @@
     ],
     "ui": {
         "games": [
-            "aplaceholderissst",
-            "delissst",
-            "gissst",
-            "nudissst"
+            "deist",
+            "delist",
+            "gist",
+            "nudist"
         ],
         "controls": {
             "keyboard": [
@@ -60,7 +60,7 @@
     },
     "snake": {
         "state": "snake",
-        "ist": "SSSNAKISSST",
+        "menuName": "SSSNAKISSST",
         "definition": [
             "SNAKE"
         ],
@@ -68,19 +68,35 @@
             "SNAKED"
         ]
     },
-    "aplaceholderissst": {
-        "state": "snake",
-        "ist": "APLACEHOLDERISSST",
+    "deist": {
+        "state": "deist",
+        "menuName": "DEISSST",
         "definition": [
-            "SNAKE"
+            "DEIST (NOUN)",
+            "",
+            "",
+            "SOMEONE WHO BELIEVES",
+            "",
+            "IN A SINGLE GOD WHO",
+            "",
+            "CREATED THE WORLD",
+            "",
+            "BUT DOES NOT ACT TO",
+            "",
+            "INFLUENCE EVENTS."
+        ],
+        "controls": [
+            "DO NOT",
+            "INTERVENE"
         ],
         "outro": [
-            "SNAKED"
+            "WELL THAT",
+            "HAPPENED."
         ]
     },
-    "delissst": {
+    "delist": {
         "state": "menu",
-        "ist": "DELISSST",
+        "menuName": "DELISSST",
         "definition": [
             "DELIST (VERB)",
             "",
@@ -91,18 +107,18 @@
         ],
         "outro": []
     },
-    "gissst": {
-        "state": "gissst",
-        "ist": "GISSST",
+    "gist": {
+        "state": "gist",
+        "menuName": "GISSST",
         "definition": [
-            "GISSST (NOUN)",
+            "GIST (NOUN)",
             "",
             "",
-            "THE SSSUBSSSTANCE",
+            "THE SUBSTANCE",
             "",
-            "OR ESSSSSSENCE",
+            "OR ESSENCE",
             "",
-            "OF A SSSPEECH",
+            "OF A SPEECH",
             "",
             "OR TEXT."
         ],
@@ -111,9 +127,9 @@
             "THE IDEA."
         ]
     },
-    "nudissst": {
-        "state": "nudissst",
-        "ist": "NUDISSST",
+    "nudist": {
+        "state": "nudist",
+        "menuName": "NUDISSST",
         "definition": [
             "NUDIST",
             "",

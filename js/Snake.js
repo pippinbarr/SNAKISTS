@@ -97,7 +97,7 @@ class Snake extends Phaser.Scene {
             this.handleKeyboardInput();
         }
         else {
-            // this.handleTouchInpuKt();
+            this.handleTouchInput();
         }
     }
 
@@ -167,7 +167,7 @@ class Snake extends Phaser.Scene {
 
         if (this.controlsVisible && (this.cursors.left.isDown || this.cursors.right.isDown || this.cursors.up.isDown || this.cursors.down.isDown)) {
             this.hideControls();
-            this.startAppleTimer();
+            // this.startAppleTimer();
         }
 
         // Check which key is down and set the next direction appropriately

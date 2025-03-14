@@ -1,7 +1,7 @@
 class Nudist extends Snake {
     constructor(config) {
         super({
-            key: "nudissst"
+            key: "nudist"
         });
 
         this.SNAKE_START_X = 4;

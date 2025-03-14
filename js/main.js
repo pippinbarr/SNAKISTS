@@ -16,6 +16,7 @@ let config = {
     Snake,
     Definition,
 
+    Deist,
     Gist,
     Nudist,
 
