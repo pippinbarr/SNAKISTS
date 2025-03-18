@@ -12,6 +12,8 @@ class Definition extends Snake {
     create() {
         super.create();
 
+        this.transitionTimer = undefined;
+
         this.wallGroup.setVisible(false);
         this.snakeHead.setVisible(false);
         this.setScoreText(" ");
@@ -51,7 +53,6 @@ class Definition extends Snake {
 
     right() {
         if (this.transitionTimer) return;
-
         this.appleSFX.play();
         this.transitionTimer = setTimeout(() => {
             const gameState = this.config.state;

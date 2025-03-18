@@ -13,6 +13,8 @@ class Gist extends Snake {
 
     create() {
         super.create();
+
+        this.gistPostAppleTimer = undefined;
     }
 
     update() {
@@ -29,7 +31,9 @@ class Gist extends Snake {
             this.gistPostAppleTimer = setTimeout(() => {
                 this.die();
             }, 2500);
+            return true;
         }
+        return false;
     }
 
     setGameOverText(gameOverString, spacing, gameOverPointsString, spacing2, gameOverResultString) {
