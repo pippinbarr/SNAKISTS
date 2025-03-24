@@ -56,7 +56,7 @@ Because the definition I read specifically presents this as believe in a *non-in
 
 Menu-only game. You select this item, the menu-snake eats it, and then it's gone and you just choose something else. *That* is funny.
 
-## Demist
+## **Prototyped** Demist
 
 Snake body demists the screen (only where it can reach though, so you might have the comedy of all the other stuff being blurred (ideally we have blur)). And that's it. Mist builds back up maybe over time so it's a constant battle of it being hard to see...
 
@@ -67,6 +67,8 @@ I love the thought of the Snake having a diary. Either pooping it out as it move
 ## Duelist
 
 Two Snakes enter, one Snake leaves? And that's it? Some of the more formal ideas around duels with seconds and pistols and dawn? Oh you could have to show up at dawn, that would be pretty funny.
+
+This might actually be better for the sword fight than epeeist.
 
 ## Egoist / Egotist
 
@@ -92,6 +94,8 @@ It just seems like one of those things that could be secretly fun and worth prot
 
 So not out of the realms of possibilty but some strikes against it.
 
+See: Duellist as a better linguistic fit.
+
 ## Faddist
 
 I don't *really* think this works but it deserves more thought so here it is. The idea of a version of snake that switches between multiple "faddish" ideas of design or aesthetics or... something. That it's kind of unable to make up its mind about its nature is quite fun...
@@ -112,7 +116,7 @@ The idea would be the game "foists" another snake on you (that you control) and 
 
 There are a *lot* of -ists that have nothing to do with SNAKISMS which is both really funny and kind of stupid. Maybe stupid funny though? As the words get longer they'll get ISMier though I suppose?
 
-## Gist
+## **Prototyped** Gist
 
 The idea of a total distillation of Snake even more than it already is. A presentation of the game that's like "I get the gist". Which could also be temporal, like you eat one apple, another appear, and then it ends saying "you get the gist".
 
@@ -132,7 +136,7 @@ Visually I can imagine a series of snakes on rows (maybe starting next to bullet
 
 Oh it could also be a to-do list where you are striking out the items, that's not terrible... though eating and striking-out may be a little far apart?
 
-## Mist
+## **Prototyped (as "demist")** Mist
 
 Just the ol' fog of war applied to Snake. Probably want a more interesting terrain for that, though that starts to feel arbitrary? It's a tough combo having continual movement with a mist. How to make it look nice? Or do I not bother?
 
@@ -140,7 +144,7 @@ Just the ol' fog of war applied to Snake. Probably want a more interesting terra
 
 Most basically leaving a pale blue trail because the snake is moist. But I dunno if that has much to recommend it?
 
-## Nudist
+## **Prototyped** Nudist
 
 I made a pink snake but snakes are probably already nude? I'm wondering about the idea of the snake shedding its skin as a "more nude" snake? Constantly shedding its skin... kind of funny and is a sort of mechanic too, builds walls... or... well do you die if you hit a snake skin?
 
@@ -160,10 +164,11 @@ Most obvious starting point is that the snake *resists* the player's attempt to 
 
 The player would be the sadist right? How? We encourage them to be by scoring points for killing the snake, not for eating the apple. Smash them against the wall, themselves, over and over, for points. GAME OVER if you let them eat the apple?
 
-
 ## Tubist (or Tubaist)
 
 Move to the tones of a tuba with that classic oompah rhythm that would change up the tick timing. Funny but also gameplay relevant.
+
+See also: Feist.
 
 ## Twist
 
