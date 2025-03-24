@@ -20,6 +20,7 @@ let config = {
     Demist,
     Gist,
     Nudist,
+    Purist,
 
   ],
   render: {

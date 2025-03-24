@@ -126,3 +126,11 @@ Start playing > huh? this looks the same > die > "at least you died nude" > aha!
 Or whatever? Anyway, I'm pleased by how a little bit of language is at least offering some more potential without overwhelming the project is what I'm saying.
 
 For now I'll leave the snake pink solely because it's funnier, but on principle it's probably the wrong move.
+
+## Purist
+
+> Just regular snake. I like this one. It's fun. And especially if I'm including dictionary definitions, e.g. "a person who insists on absolute adherence to traditional rules or structures, especially in language or style."
+
+### 2025-03-24
+
+I mean, I wanted at least one of these and this seems like the most obvious one. I prototyped it and included an "outro" saying "the old ways are best" to get the doubling down on the meaning. It works in its basic way.

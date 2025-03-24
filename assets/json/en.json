@@ -9,7 +9,8 @@
             "delist",
             "demist",
             "gist",
-            "nudist"
+            "nudist",
+            "purist"
         ],
         "controls": {
             "keyboard": [
@@ -62,9 +63,11 @@
     "snake": {
         "state": "snake",
         "menuName": "SSSNAKISSST",
-        "definition": [
-            "SNAKE"
-        ],
+        "definition": {
+            "word": "snake",
+            "part": "noun",
+            "definition": "Snake"
+        },
         "outro": [
             "SNAKED"
         ]
@@ -72,20 +75,11 @@
     "deist": {
         "state": "deist",
         "menuName": "DEISSST",
-        "definition": [
-            "DEIST (NOUN)",
-            "",
-            "",
-            "SOMEONE WHO BELIEVES",
-            "",
-            "IN A SINGLE GOD WHO",
-            "",
-            "CREATED THE WORLD",
-            "",
-            "BUT DOES NOT ACT TO",
-            "",
-            "INFLUENCE EVENTS."
-        ],
+        "definition": {
+            "word": "deist",
+            "part": "noun",
+            "definition": "Someone who believes in a single god who created the world but does not act to influence events"
+        },
         "controls": [
             "DO NOT",
             "INTERVENE"
@@ -98,27 +92,21 @@
     "delist": {
         "state": "menu",
         "menuName": "DELISSST",
-        "definition": [
-            "DELIST (VERB)",
-            "",
-            "",
-            "REMOVE FROM A LIST",
-            "",
-            "OR CATEGORY."
-        ],
+        "definition": {
+            "word": "delist",
+            "part": "verb",
+            "definition": "Remove from a list or category"
+        },
         "outro": []
     },
     "demist": {
         "state": "demist",
         "menuName": "DEMISSST",
-        "definition": [
-            "DEMIST (VERB)",
-            "",
-            "",
-            "TO REMOVE CONDENSED",
-            "",
-            "MOISTURE FROM."
-        ],
+        "definition": {
+            "word": "demist",
+            "part": "verb",
+            "definition": "To remove condensed moisture from"
+        },
         "outro": [
             ""
         ]
@@ -126,18 +114,11 @@
     "gist": {
         "state": "gist",
         "menuName": "GISSST",
-        "definition": [
-            "GIST (NOUN)",
-            "",
-            "",
-            "THE SUBSTANCE",
-            "",
-            "OR ESSENCE",
-            "",
-            "OF A SPEECH",
-            "",
-            "OR TEXT."
-        ],
+        "definition": {
+            "word": "gist",
+            "part": "noun",
+            "definition": "The substance or essence of a speech or text"
+        },
         "outro": [
             "YOU GET",
             "THE IDEA."
@@ -146,21 +127,27 @@
     "nudist": {
         "state": "nudist",
         "menuName": "NUDISSST",
-        "definition": [
-            "NUDIST",
-            "",
-            "",
-            "A PERSON WHO ENGAGES",
-            "",
-            "IN THE PRACTICE OF",
-            "",
-            "GOING NAKED",
-            "",
-            "WHEREEVER POSSIBLE."
-        ],
+        "definition": {
+            "word": "nudist",
+            "part": "noun",
+            "definition": "A person who engages in the practice of going naked whereever possible."
+        },
         "outro": [
             "AT LEAST YOU",
             "DIED NUDE."
+        ]
+    },
+    "purist": {
+        "state": "purist",
+        "menuName": "PURISSST",
+        "definition": {
+            "word": "purist",
+            "part": "noun",
+            "definition": "A person who insists on absolute adherence to traditional rules or structures, especially in language or style."
+        },
+        "outro": [
+            "THE OLD WAYS",
+            "ARE BEST."
         ]
     }
 }

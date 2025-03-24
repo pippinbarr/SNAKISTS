@@ -19,7 +19,36 @@ class Definition extends Snake {
         this.setScoreText(" ");
         this.instructionsGroup.setVisible(false);
 
-        this.addTextToGrid(2, 3, this.config.definition);
+        const maxWidth = this.NUM_COLS - 4;
+
+        const word = this.config.definition.word.toUpperCase();
+        const part = this.config.definition.part.toUpperCase();
+        const text = [`${word} (${part})`, "", ""];
+
+        const words = this.config.definition.definition.toUpperCase().split(" ");
+        let line = "";
+
+        // Go through each word
+        for (let i = 0; i < words.length; i++) {
+            const word = words[i];
+            // Check how this word fits for wrapping
+            if (line.length + word.length < maxWidth) {
+                // This word fits on the line so add it
+                line = line + word + " ";
+            }
+            else {
+                // This word would take it over the limit
+                // So add the line
+                text.push(line);
+                text.push("");
+                line = "";
+                // Repeat this iteration
+                i--;
+            }
+        }
+        text.push(line);
+
+        this.addTextToGrid(2, 3, text);
 
         let instructions = "OH NO."
         if (this.sys.game.device.os.desktop) {

@@ -152,7 +152,7 @@ I made a pink snake but snakes are probably already nude? I'm wondering about th
 
 I'm not really convinced, but some kind of poetry-writing mechanics folded into Snake is not totally hateable... maybe just multiple-choice apples that construct a poem? And the poem is an ode to snakes or apples or walls? Ehehehe, okay that's not terrible.
 
-## Purist
+## **Prototyped** Purist
 
 Just regular snake. I like this one. It's fun. And especially if I'm including dictionary definitions, e.g. "a person who insists on absolute adherence to traditional rules or structures, especially in language or style."
 
