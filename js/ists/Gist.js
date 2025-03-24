@@ -35,10 +35,4 @@ class Gist extends Snake {
         }
         return false;
     }
-
-    setGameOverText(gameOverString, spacing, gameOverPointsString, spacing2, gameOverResultString) {
-        const gameOverResult = this.config.outro;
-        this.addTextToGrid(this.OVER_X, this.OVER_Y, [gameOverString, spacing, gameOverPointsString]);
-        this.addTextToGrid(this.OVER_X, this.OVER_Y + 4, gameOverResult);
-    }
 }

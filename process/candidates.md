@@ -24,6 +24,8 @@ At its simplest interpretation let's say this involves two snakes, both controll
 
 If one Snake dies does the other carry on, or would it be proof they couldn't ... coexist?
 
+(This wouldn't work on mobile because of the controls necessary.)
+
 ## Copyist
 
 A person who makes copies is fun. If the Snake is a person who makes copies (well they kind of already copy units of their own body in a sense) then what would they copy? Themselves? The apple? The walls? Not many options!
@@ -46,11 +48,11 @@ I don't currently know what this would be (how Dada), but I feel like it has to 
 
 At heart (see the notes lower down and also read more about Dada) it would be about absurdism and rejection of the warlike/capitalist/individualist/etc.ist nature of Snake (and videogames). That could amount to just insanity visually, could be messing with the code in uncontrolled ways (though we all know that will just crash the program - which is worth entertaining?), could be teleporting snake, random score, sound-track, collaging in photographs, ... hard to say for now, but the spirit of it would be RESISTING SNAKE'S OWN FORM IN ITS FORM I SUPPOSE
 
-## Deist
+## **Prototyped** Deist
 
 Because the definition I read specifically presents this as believe in a *non-interventionist god* (hi Nick Cave) I wonder if there's some juice to just having this be a Snake with no controls that moves across the screen (logically) and then hits the wall (dies).
 
-## Delist
+## **Prototyped** Delist
 
 Menu-only game. You select this item, the menu-snake eats it, and then it's gone and you just choose something else. *That* is funny.
 

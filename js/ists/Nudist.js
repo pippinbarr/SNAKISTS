@@ -45,10 +45,4 @@ class Nudist extends Snake {
             this.snakeBitsToAdd = Math.max(0, this.snakeBitsToAdd - 1);
         }
     }
-
-    setGameOverText(gameOverString, spacing, gameOverPointsString, spacing2, gameOverResultString) {
-        const gameOverResult = this.config.outro;
-        this.addTextToGrid(this.OVER_X, this.OVER_Y, [gameOverString, spacing, gameOverPointsString]);
-        this.addTextToGrid(this.OVER_X, this.OVER_Y + 4, gameOverResult);
-    }
 }

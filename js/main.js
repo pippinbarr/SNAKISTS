@@ -17,6 +17,7 @@ let config = {
     Definition,
 
     Deist,
+    Demist,
     Gist,
     Nudist,
 

@@ -57,12 +57,23 @@ It's kind of an object lesson in how janky and gross the underlying code can som
 
 But yeah, there's maybe some thought to be given to maintining internal state about this rather than working through localStorage even though it's very funny that it would stay delisted "forever" with the Cookie. If cookies are sort of dying then may as well just keep it internal, not that hard to do since I'm already passing data between the states.
 
+## Demist
+
+> Snake body demists the screen (only where it can reach though, so you might have the comedy of all the other stuff being blurred (ideally we have blur)). And that's it. Mist builds back up maybe over time so it's a constant battle of it being hard to see...
+
+### 2025-03-24
+
+This just seems like it'll be "easy" so I might as well make it to make something. The screen is "steamed up" (covered in semi-transparent tiles in an overlay over the whole thing). The snake clears the steam. The steam comes back.
+
+...
+
+Well went away and implemented it. It works. No cute ideas for the outro text as yet.
+
 ## Gist
 
 > The idea of a total distillation of Snake even more than it already is. A presentation of the game that's like "I get the gist". Which could also be temporal, like you eat one apple, another appear, and then it ends saying "you get the gist".
 
 > This almost functions as a meta-joke about the whole Snake series (and my work in general), that you engage enough to "get it" and probably move on. Gist games. Hehe.
-
 
 ### 2025-03-11
 

@@ -7,6 +7,7 @@
         "games": [
             "deist",
             "delist",
+            "demist",
             "gist",
             "nudist"
         ],
@@ -106,6 +107,21 @@
             "OR CATEGORY."
         ],
         "outro": []
+    },
+    "demist": {
+        "state": "demist",
+        "menuName": "DEMISSST",
+        "definition": [
+            "DEMIST (VERB)",
+            "",
+            "",
+            "TO REMOVE CONDENSED",
+            "",
+            "MOISTURE FROM."
+        ],
+        "outro": [
+            ""
+        ]
     },
     "gist": {
         "state": "gist",
