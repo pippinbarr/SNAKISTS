@@ -80,6 +80,20 @@ The player writes an elegy for the Snake after it dies. Brilliant, but dependent
 
 Hmmm, maybe the game could quiz you about whether you're GOOD ENOUGH to control the snake and play? Qualifications check? How would we ask for proof? A quiz about your depth of Snake knowledge. Could actually get into a pretty fun and stupid gamerbro gamergate mockery session actually...
 
+## Epeeist
+
+Putting aside that this is a horrible looking word and not common enough to feel relatable it is a) still pretty easy to understand its meaning if you know what an epee is and b) pretty alluring as a design challenge - Snakes and Swords.
+
+My immediate vision is two snakes each with a thin grey line sticking out of their face and pointed in the direction of movement. And you'd need to score a hit on the opponent's head... somehow. Because body simply wouldn't make sense? Or would it?? I don't even know. Easy to try both.
+
+It just seems like one of those things that could be secretly fun and worth prototyping. BUT what about the fact of AI? There's no WAY I'm going to write a Snake-based sword-fighting AI. And making it multiplayer feels ridiculous... or rather it would be impossible on mobile but doable with WASD and ARROWS on desktop?
+
+So not out of the realms of possibilty but some strikes against it.
+
+## Faddist
+
+I don't *really* think this works but it deserves more thought so here it is. The idea of a version of snake that switches between multiple "faddish" ideas of design or aesthetics or... something. That it's kind of unable to make up its mind about its nature is quite fun...
+
 ## Feist
 
 In terms of it being a word it's about a "small mongrel dog" apparently, which doesn't fit, but if we took it to be the singer then a "snake cover" of her song 1234 could make a ton of sense? Copyright a problem. Could I write to Feist and ask if I could cover her song as a game? One syllable/beat per tick? I can imagine some irregular movement patterns that could be really funny to see? (Though this mirrors what I thought early on for Tubist as well)

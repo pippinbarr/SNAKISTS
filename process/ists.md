@@ -403,19 +403,60 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
     - "a person who believes that a society or system should be led by an elite."
     - Hmmm, maybe the game could quiz you about whether you're GOOD ENOUGH to control the snake and play? Qualifications check? How would we ask for proof? A quiz about your depth of Snake knowledge. Could actually get into a pretty fun and stupid gamerbro gamergate mockery session actually...
 - entwist
-- epeeist
+    ""Entwist" means to twist together or around, or to make into a twist. It is a transitive verb, similar in meaning to "entwine""
+    - I mean basically the same thing as "twist", and twist is a more common word so let's not bother
+- **CANDIDATE** epeeist
+    - Someone who uses an epee? It feels a bit too archaic or off beat to bother with, but snake sword fighting IS actually kind of a cool and weird idea? I guess you would have to epee them in the face? Otherwise too disadvantageous to turn at all and you'd always just get a double hit?
+    - It's sufficiently weird I kind of at least want to entertain trying it, even as I don't really love the word "epeeist" because it just looks dumb. I wonder if there are other swordy words? Swordist? So much better.
 - etatist
-- faddist
+    - "a supporter of a policy of complete control by the state (= a country's government) over its citizens and over the economy"
+    - Fun. I think there are probably better words like fascist for this. Etatist just seems too weird and anyway I don't immediately think of a design.
+- **CANDIDATE** faddist
+    - "a person who becomes very interested or enthusiastic about different things for a short time : a person who becomes involved in fads"
+    - Quite fun, but what would that mean in a game? I like the idea of a faddish Snake switching between different popular game tropes perhaps? Loot boxes, currencies, cosiness, and others... like it cycles between different (easily implementable?) trope-y kinds of stuff? A way of having a semi-history of design ideas... except that sounds like a lot of work...
+    - I don't want to rule it out because it seems to have a fun kind of vibe
 - fascist
+    - I WANT this to work
+    - Intriguing that looking for a definition immediately gets you into "this is hard to define"
+    - Very relevant to the current moment
+    - "Many experts agree that fascism is a mass political movement that emphasizes extreme nationalism, militarism, and the supremacy of the nation over the individual. This model of government stands in contrast to liberal democracies that support individual rights, competitive elections, and political dissent." [https://education.cfr.org/learn/reading/what-fascism](https://education.cfr.org/learn/reading/what-fascism)
+    - Also they note a thread of traditionalism/conservatism as part of it
+    - What would a fascist Snake mean?
+    - COuld it be that a simplistic videogame from Nokia phones is not ready to rise to the challenge of representing fascist thought?
+    - I got kind of nothing. I guess you could go down a line of "are videogames kind of fascist anyway?" Though they are highly individualistic...
+    - Fascism feels like it requires a pretty complex existing society and political context to respond/react to? Which Snake... doesn't have?
 - faunist
+    - Specialing in Fauna. No.
 - fauvist
+    - "Fauvism, meaning "wild beasts" in French, is a style of painting and an art movement that emerged in France around 1905, characterized by bold, vibrant colors, and a non-naturalistic approach to form"
+    - Well Snake is already ticking the "non-naturalistic approach to form". Could be a fun thing to do a crazy palette swap kind of a thing, maybe with reference to a specific work?
+    - Matisse as a founder which is intriguing. Hmmm. I mean there's this continuing idea of art movements Snake as a separate idea, so maybe this is not the place.
 - feudist
+    - "a specialist in feudal law", so no
 - fideist
+    - "the doctrine that knowledge depends on faith or revelation"
+    - Hmmm. It's such a weird word. 
+    - "Fideism is a standpoint or an epistemological theory which maintains that faith is independent of reason, or that reason and faith are hostile to each other"
+    - So a faith-based Snake game which... I dunno, I like the idea, but the main gag of kind of "having faith" in some way feels like I already did at least one version in SNAKISMS around the control of the dualism snake with your mind?
+    - I guess you could have faith about a wall and go through it? Maybe like existentialism with the apple on the outside but you have faith and go through the wall? Faith overcoming the rational view of the walls in the game?
+    - But that word...
 - florist
+    - Oh that's really sweet. I wonder if a flowery snake can make sense.
+    - "a person who sells and arranges plants and cut flowers"
+    - Specifically about the commercial end, so not about planting or caring for flowers but about arranging/organizing them for sale... which is maybe a bit harder...
+    - You could create a kind of job-simulator where there are different flowers (apples) on screen and you have to gather a nice bouquet which is somehow shown on screen...
+    - Feels like a bit of a reach though
 - flutist
+    - Yeah music
 - foilist
+    - Another sword, not a better word
 - fuguist
+    - "A musician who composes or performs fugues."
+    - Pretty specific. I don't hate musical elements but it doesn't feel like a fugue does more or less than just leaning into tuba or whatever
 - gnomist
+    - "a writer of pithy sayings"
+    - HUH! I feel like I have heard "gnomic" and associate it with this a bit but never really knew this
+    - Hard to imagine this working.
 - harpist
 - hornist
 - hygeist
