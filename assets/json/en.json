@@ -10,7 +10,8 @@
             "demist",
             "gist",
             "nudist",
-            "purist"
+            "purist",
+            "twist"
         ],
         "controls": {
             "keyboard": [
@@ -148,6 +149,19 @@
         "outro": [
             "THE OLD WAYS",
             "ARE BEST."
+        ]
+    },
+    "twist": {
+        "state": "twist",
+        "menuName": "TWISSST",
+        "definition": {
+            "word": "twist",
+            "part": "verb",
+            "definition": "cause to rotate around something that remains stationary; turn."
+        },
+        "outro": [
+            "COME ON",
+            "BABY"
         ]
     }
 }

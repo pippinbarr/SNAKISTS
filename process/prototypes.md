@@ -134,3 +134,15 @@ For now I'll leave the snake pink solely because it's funnier, but on principle 
 ### 2025-03-24
 
 I mean, I wanted at least one of these and this seems like the most obvious one. I prototyped it and included an "outro" saying "the old ways are best" to get the doubling down on the meaning. It works in its basic way.
+
+## Twist
+
+> A possibly more clear version of *alist*? Twist the tiles and deal with the visual result? The tiles could "do the twist" while you play? Layer upon layer of bad jokes? Don't hate it... come on baby, let's do the twist?
+
+### 2025-03-25
+
+I want to quickly bang this one together because I *think* it will be very easy? Just rotate stuff. I think also rotate stuff specifically when the snake turns? Or that's my first approximation. Let's try it out.
+
+Well it worked juuuust fine. I like it. It looks weird. Not a lot more to say. Could look at getting more complex at the meaning of twist... into the idea of spirals or something say, but for right now what it is strikes me as a-ok. I'm enjoying how the different Snake body bits seem to rotate at... oh I see why. Yeah that's pretty funny actually. It's probably worth just looking at a constant rotation or like rhythmic "do the twist" thing rather than tying it to the snake direction?
+
+Anyway, it's pretty good.

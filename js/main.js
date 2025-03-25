@@ -21,7 +21,7 @@ let config = {
     Gist,
     Nudist,
     Purist,
-
+    Twist,
   ],
   render: {
     pixelArt: true,
