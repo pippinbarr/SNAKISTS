@@ -107,3 +107,58 @@ That feels a bit grandiose, but I'm trying to get at the way that this project s
 And I guess the Schön-y argument about this is that each of those processes/documents/levels is still part of the design practice (maybe either writ large, but even all for this specific project).
 
 Which doesn't really take me anywhere, but it's been interesting to think about.
+
+## Death of the journal? Themes? Bigger Pictures? (2025-03-25)
+
+### Death of the journal?
+
+It's been really noticeable how "unneeded" my journal has been for this project. It's only 2000 words long for cryin out loud! And there are obvious factors here that I think play into MDM stuff writ large:
+
+1. Maybe most obviously, this is not a very tormenting design project... it's all about reacting to words in the language of Snake, so there's not a lot of high level tossing and turning about "what it all means"? Although... there's probably should be because I think there are some bigger picture reflections on design available through this process.
+2. But crucially too: I have this document structure around ist > candidate > prototype which obviates the need to wrestle with lower level design thinking specifically in the journal, which is where I used to do that.
+
+Hard to quite say whether this highly structured document approach is something I could do for *any* project? Would it have worked for "on your phone" for instance where I feel like the process was a bit more messy? Less clear what the divisions would be up front and more something I had to feel out? But would it still have been worth having some sort of file division around different practices/levels of design? Unclear maybe.
+
+Anyway, the point being that the journal has not felt as immediate in the day to day; but secret I think it maybe has meant that some of the higher level reflection *is* being missed around what this particular game project means about design and also some of the more thematic drawing together of different kinds of observations at the project level too... so let me... at least try? It feels exhausting but...
+
+### Themes?
+
+As part of running through the dictionary and just trying to design in immediate response to word definitions I feel like there are a few categories of design "move" or... something... that come up repeatedly? Or that are just worth noting...?
+
+#### The same thing
+
+The idea of -ists that end up just being Snake with no modifications. Purist, Nudist, Individualist, ... -- that's both funny and kind of about the question of how you characterize underlying value or other systems of a game like Snake. Is Snake "fascist" in some way? Do videogames have inherent political or cultural alignments? It's a pretty interesting question at the level of design? It might also be a (truly weird) kind of language/insight into why some forms of design are just harder than others? If Snake is a Fascist is it harder to create progressive revisions?
+
+#### Non-philosophy
+
+With SNAKISMS the whole point was to channel -ism as a conduit to philosophical (and perhaps political) positions. But in just going through the *dictionary* understanding of -ist as a suffix, there's a big broadening out. There are a bunch of words ending in -ist that aren't "ISTS" in that sense. Like "twist" or "delist" and there's been a pleasure in how kind of practical they are? Could also be a verb form thing that works well with games? Getting across to that Noun Verb Adjective design approach or whatever? Grammar-based design? Design language. Etc.
+
+#### Power of text
+
+It's come up more than once that the text presented at the *end* of play with the game over can be quite a powerful spiking of the ball or context giver or... just emphasis on the joke/idea? "At least you died nude" "You get the idea". 
+
+#### Snake as a language
+
+Have said this plenty of times, but good to keep it in mind. An obvious way to think of this whole project is that Snake presents you with a language (or play) and the process becomes about how the Snake-language can "say" or "define" the word in question. And one thing that happens is you do run into how limited the Snake language is... it can't say *everything*, some of the things require adding or changing so much stuff it's questionable to say it's still Snake? So that kind of range of power... the question of where the borders are, the question of *which* words are easy/difficult to say in Snake feels... revealing? About Snake?
+
+#### Excited but idea-less
+
+There's a whole category of words that I *want* to be able to Snake but don't have an idea right away. Like, say, Fascist. But this also makes me wonder... if there's not an idea almost instantly, given how simple the Snake language is, does that mean... there's no idea to be had? To what extent can you worry the bone of Snake until you make something fit into it? Or is the language so simple there's not much to be done?
+
+#### Word recognition
+
+So many words are insanely hard to recognize. Lots of them are archaic, or actually Scots, or just not popular. And some of those words have really fun definitions but it raises the question (somewhat helped along by the definition pages) of whether I'm interested in "teaching words" to the player. To what extent does the game work best with more immediate/low-friction words the player just knows and so can anticipate... versus using weirder words and defining them? Or is a mix the right sauce?
+
+#### Locus of intervention
+
+There's something in here about how you view/frame the materials of making for this. Most obviously it's Snake. But you could also say "Snake as implemented in Snake.js". Or "Snake as it exists in Pippin's mind" (reflected in my [Snake](./snake.md) document?) But you could also say "Snake as in the entire game including the menu" at which point you get something like "delist" or one of my ideas for "persist".
+
+Expanding outwards from the obvious can be satisfying and effective, a moment for designer and player to metaphorically look up from the computer and recalibrate their eyes and brains? Narcissism in SNAKISMS was a good example of that. "Oh yeah, I'm playing a game on a computer with email, the person who made this game has an email address..."
+
+### Bigger Pictures?
+
+Are there even bigger pictures? What did I even mean here? I think I meant something about what this game and process says about Design Writ Larger, or about MDM as a project? I'm running out of steam though.
+
+Well I do think design by holding a play language (relatively) still and bombarding it with just "words from the dictionary" is a pretty amazing design exercise regardless. It's fun. It also makes me think in this moment about (weirdly) some sort of science setup where you fire electrons and something to understand it better (is that a collider? something else?). The words are the electrons, and the snake is the thing we seek to understand. There's something to that; I think there's a bigger and more substantial argument to be made about this form as a way to explore and understand forms of design.
+
+And then as for MDM... I mean the fact I'm writing this is really the outcome I want. I don't want to lose the higher level reflections that the journal allows for. The "stop and think" that's really important; or like the "practice review" that's important. And... I suppose I'm not. Go me.
