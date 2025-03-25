@@ -458,55 +458,145 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
     - HUH! I feel like I have heard "gnomic" and associate it with this a bit but never really knew this
     - Hard to imagine this working.
 - harpist
+    - Music
 - hornist
+    - Music
 - hygeist
+    - Just another word for a hygienist, which is a good word, but let's revisit with the more common term
 - hymnist
+    - A *writer* of hymns. Gets back to odists etc.
 - idylist
-- imagist
+    - More writing of poetry/music. It's a whole thing
+- **CANDIDATE** imagist
+    - "An "imagist" is a poet or writer who adheres to or advocates for the poetic movement of Imagism, which emphasizes clear, concise language and the precise presentation of images to convey ideas and emotions"
+    - So this one is a writing movement/form... goes with the idea of art movements as well
+    - Could imagine a textual version? "The Snake Approached The Apple" etc.? That's quite an intriguing thought. I don't know if this is the right vehicle, perhaps there'll be another that could use that technique, but I do like the idea of a words-only telling of snake...
 - intwist
+    - Twist together or around, but a weird word
 - ironist
+    - A person who uses irony.
+    - Hmmm, an ironic snake is pretty good as just a core concept. "the expression of one's meaning by using language that normally signifies the opposite, typically for humorous or emphatic effect."
+    - Hmmm. There's not so much language in Snake that this would work at a linguistic level... but can gameplay itself be ironic? The language of play as ironic? It's a bit tantalising, but I can't really immediately see it... #remember
 - judoist
+    - How would a snake do judo?
 - jujuist
+    - "an art of weaponless fighting employing holds, throws, and paralyzing blows to subdue or disable an opponent" ... huh... never heard of it, I suppose it's jujitsu? Sure... but also I can't imagine it really...
 - leftist
+    - Oh this seems like it would be fun? A parody of the right wing parody of the left wing?
+    - "a person with left-wing political views."
+    - "Generally, the left wing is characterized by an emphasis on "ideas such as freedom, equality, fraternity, rights, progress, reform and internationalism" while the right wing is characterized by an emphasis on "notions such as authority, hierarchy, order, duty, tradition, reaction and nationalism""
+    - What would that actually translate into? Is Snake inherently right wing? We got at this earlier with "fascist" in a similar way... is there a way to make a reactionary Snake that's the leftist version of fascist snake?
+    - Apples for all? A community of snakes? No fighting and dying?
+    - Actually a bit tough though
 - lookist
+    - Discrimination...
+    - Hmm.
 - metrist
+    - "A maker of versus" but I've never heard it before
 - midlist
+    - "In the publishing industry, "midlist" refers to books that fall between bestsellers and lesser-known titles, generating moderate sales and receiving less marketing than frontlist titles"
+    - Ha! But hard to envision this. pretty funny word though.
 - narcist
+     - Short "narcissist". Already did a narcissism.
 - oculist
+    - Eye person. I support you could make it blurry! And then offer connections while you're trying to play? Pretty funny. Which is better? A? or B? A? or B? hehehe. As a glasses wearer that's fun.
+    - "optometrist" is the better word though. I'll candidate it.
 - ologist
-- onanist
+    - A specialist. Too weird.
+- **CANDIDATE** onanist
+    - Oohhhhh yeah. Masturbation baby.
+    - Moving the snake back and forth like a penis? Yes please?
+    - "noun. someone who practices coitus interruptus or masturbation: A confirmed onanist, or chronic masturbator, she saw no need for a relationship with someone other than herself."
+    - There has GOT to be a way to masturbate a snake. I only need to find it. That is my mission in life.
 - oralist
-- palmist
+    - "relating to or advocating oralism."?
+    - "the system of teaching deaf people to communicate by the use of speech and lip-reading rather than sign language."
+    - Alright. Don't see it.
+- **CANDIDATE** palmist
+    - "a person who practices palmistry; a palm-reader."
+    - That strikes me as fun? Following the lines on a palm? We have the book. Worth a try?
 - pannist
-- persist
+    - "a person who plays a pan in a steel band."
+    - Oh... sure...
+- **CANDIDATE** persist
+    - I like this one. Maybe the idea of inviting them to persist? Keep going! Don't give up! And no option to quite?
 - pianist
+    - I mean who doesn't love a piano? Eat apples to play a song? That scene in Big?
+    - This (or "guitarist") seems obvious as a way to have the player directly play music through a snake-based interface. Violinist would do that too though actually.... just noise or something else?
+    - Maybe true that guitarist/violinist are better fits though? I'll candidate violinist as the clearist one.
 - pietist
-- plenist
+    - "pious sentiment, especially of an exaggerated or affected nature."
+    - I like the idea, but weird word
+- **CANDIDATE** plenist
+    - "A believer in plenism; someone who believes that all space is full of matter."
+    - I mean you can imagine the joke... walls everywhere or something... but plenist feels like an inaccessible word? But maybe it's worth it, instant death, it's an easy one to do
 - pollist
+    - Advocacy for polls
+    - I mean, that *is* funny and some sort of multiple choice thing is pretty good
+    - Actually just the general thing of TYPING is a pretty funny one... you could probably lay out QWERT or just an alphabetical thing of letters and have eat-to-type for instance
+    - Though that's separate, though maybe that's TYPIST?
 - poloist
-- protist
+    - Polo is a no
+- **CANDIDATE** protist
+    - "a single-celled organism of the kingdom Protista, such as a protozoan or simple alga."
+    - A single celled snake is pretty funny... just the head going around? But... pretty basic? But... maybe that's cool? Could read more about them...
 - querist
+    - "a person who asks questions; a questioner."
+    - Good thing but the word doesn't gel
 - realist
+    - Mmm, I like this word.
+    - "1. a person who accepts a situation as it is and is prepared to deal with it accordingly. "I am a realist, with no time for your world of make believe" 2. an artist or writer whose style is characterized by the representation of people or things as they actually are. "Dickens and other nineteenth-century realists"
+    - But it's quite hard to do...
+    - I mean... a sort of photo realistic version of snake? Kind of impossible? And gets into a whole bunch of shit that seems like a bad idea...
 - retwist
+    - No this seems stupid
 - revuist
-- sacrist
+    - Writer of revues. No.
+- **CANDIDATE** sacrist
+    - "Much of the sacrist's work was connected with the church. He opened and closed the doors to the church, ensured that there were sufficient candles and oil, and that there were ashes and palms when necessary."
+    - Kind of like a janitor of a church... but not seeing it for Snake?
+    - Although keeping candles lit as a core thing, in a level that's laid out like a church, is not horrible? References to Madrid?
+    - Worth at least keeping in mind
 - sizeist
+    - "The meaning of SIZEISM is discrimination or prejudice directed against people because of their size and especially because of their weight."
+    - This is actually kind of funny in Snake in the sense that the game ultimately "discriminates" against longer snakes because they don't have enough room?
+    - But feels oddly complex to really work it out?
 - soloist
+    - Seems to basic?
 - sophist
+    - "a paid teacher of philosophy and rhetoric in ancient Greece, associated in popular thought with moral skepticism and specious reasoning. // a person who reasons with clever but fallacious arguments."
+    - Mmm, not really.
 - statist
+    - Nah
 - stylist
-- subsist
+    - ... I sort of like the idea, but not seeing it
+- **CANDIDATE** subsist
+    - "1. maintain or support oneself, especially at a minimal level."
+    - Something to that right? Maybe a really mean doling out of apples?
 - sumoist
+    - No
 - tachist
+    - Art movement
 - tennist
+    - Jesus. I mean, that's pretty funny but also stupid?
+    - You could have a PONG. But Tennist is just a bad word.
 - titlist
-- tourist
+    - Current champion. Stupid word.
+- **CANDIDATE** tourist
+    - YEAH! Maybe literally just snake on top of famous locations.
 - tsarist
+    - Nah.
 - tubaist
+    - Already in my candidates
 - tzarist
+    - Nah
 - untwist
-- utopist
+    - Nah
+- **CANDIDATE** utopist
+    - A "utopist" is someone who believes in or advocates for an ideal or perfect society or social system, often seen as impractical or unrealistic."
+    - All the apples, but also you don't grow? Lots of points? What is the Utopic endpoint of Snake? I think this is worth pursuing.
 - violist
+    - Just a bigger violin baby.
 
 ## Eight letters
 
