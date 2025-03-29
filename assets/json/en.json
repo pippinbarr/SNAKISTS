@@ -11,6 +11,7 @@
             "gist",
             "nudist",
             "persist",
+            "plenist",
             "purist",
             "twist"
         ],
@@ -150,6 +151,19 @@
         "outro": [
             "AND YET IT",
             "PERSISTED."
+        ]
+    },
+    "plenist": {
+        "state": "plenist",
+        "menuName": "PLENISSST",
+        "definition": {
+            "word": "plenist",
+            "part": "noun",
+            "definition": "A believer in plenism; someone who believes that all space is full of matter."
+        },
+        "outro": [
+            "WHAT'S THE",
+            "MATTER?"
         ]
     },
     "purist": {

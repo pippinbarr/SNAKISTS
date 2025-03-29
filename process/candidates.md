@@ -178,7 +178,7 @@ They aren't allowed to stop? Or they somehow persist through death? Or the game 
 
 I do like it when there's an implication (like the game staying on screen) beyond the rules of the game, but rather the rules of the "application"?
 
-## Plenist
+## **Prototyped** Plenist
 
 People who believe all space contains matter. So the whole world of the game it walls and you die instantly. Nice and easy? Maybe it's a stupid one, but also who gives a shit?
 

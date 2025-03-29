@@ -21,6 +21,7 @@ let config = {
     Gist,
     Nudist,
     Persist,
+    Plenist,
     Purist,
     Twist,
   ],

@@ -145,6 +145,18 @@ Main thing is that it's really quite a fun one because it seems completely norma
 
 Haven't tested any of this on mobile so will have to do that at some point.
 
+## Plenist
+
+> People who believe all space contains matter. So the whole world of the game it walls and you die instantly. Nice and easy? Maybe it's a stupid one, but also who gives a shit?
+
+### 2025-03-29
+
+Just because it's easy to put this together I will do so. Even though Felix has been watching TV for too long.
+
+---
+
+Possible that's the record for fastest ever build? Hilarious. Hadn't realized the snake would die before you even press a key. Truly it is wonderful. Coming up with "What's the matter?" at the end is... pretty funny for now.
+
 ## Purist
 
 > Just regular snake. I like this one. It's fun. And especially if I'm including dictionary definitions, e.g. "a person who insists on absolute adherence to traditional rules or structures, especially in language or style."
