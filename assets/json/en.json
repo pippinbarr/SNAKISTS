@@ -10,6 +10,7 @@
             "demist",
             "gist",
             "nudist",
+            "persist",
             "purist",
             "twist"
         ],
@@ -136,6 +137,19 @@
         "outro": [
             "AT LEAST YOU",
             "DIED NUDE."
+        ]
+    },
+    "persist": {
+        "state": "persist",
+        "menuName": "PERSSSISSST",
+        "definition": {
+            "word": "persist",
+            "part": "verb",
+            "definition": "to continue to exist past the usual time, or to continue to do something in a determined way even when facing difficulties or opposition."
+        },
+        "outro": [
+            "AND YET IT",
+            "PERSISTED."
         ]
     },
     "purist": {

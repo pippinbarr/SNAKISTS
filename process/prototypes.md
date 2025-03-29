@@ -127,6 +127,24 @@ Or whatever? Anyway, I'm pleased by how a little bit of language is at least off
 
 For now I'll leave the snake pink solely because it's funnier, but on principle it's probably the wrong move.
 
+## Persist
+
+> They aren't allowed to stop? Or they somehow persist through death? Or the game persists as a layer on top over everything else once you start it would be funny too? Just there forever? These are all GOOD IDEAS.
+
+### 2025-03-29
+
+Let's try this. I'm concerned about the question of what happens when the persistent snake dies? I suppose it just stays dead... so it needs to ignore the menu/restarts... or rather not ignore them but have a position on them.
+
+---
+
+Well it worked eventually once I understood about launching versus starting scenes and bringing them to the top and setting a transparent background.
+
+The only annoyance is that if you relaunch persist then it will overwrite the old one as far as I can tell... so multiple persist scenes cannot persist with each other. Which is a sadness, but makes a certain amount of sense and so doesn't deeply bug me right now. But it would be *cooler* if there could be indefinitely many of them running. But I think since there's just one "persist" scene in existence it may not work unless I create a scene that itself manages subscenes... which... I think would get really quite fucked quite fast? Or not? I dunno, I can return to that element.
+
+Main thing is that it's really quite a fun one because it seems completely normal until you actually exit the scene to the menu and then suddenly the scene is still there and still *playable*... though I need to remember to think about what happens when you press M or R... but I guess in both cases it's reasonable so maybe it's fine.
+
+Haven't tested any of this on mobile so will have to do that at some point.
+
 ## Purist
 
 > Just regular snake. I like this one. It's fun. And especially if I'm including dictionary definitions, e.g. "a person who insists on absolute adherence to traditional rules or structures, especially in language or style."
@@ -142,6 +160,8 @@ I mean, I wanted at least one of these and this seems like the most obvious one.
 ### 2025-03-25
 
 I want to quickly bang this one together because I *think* it will be very easy? Just rotate stuff. I think also rotate stuff specifically when the snake turns? Or that's my first approximation. Let's try it out.
+
+---
 
 Well it worked juuuust fine. I like it. It looks weird. Not a lot more to say. Could look at getting more complex at the meaning of twist... into the idea of spirals or something say, but for right now what it is strikes me as a-ok. I'm enjoying how the different Snake body bits seem to rotate at... oh I see why. Yeah that's pretty funny actually. It's probably worth just looking at a constant rotation or like rhythmic "do the twist" thing rather than tying it to the snake direction?
 

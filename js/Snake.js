@@ -90,6 +90,8 @@ class Snake extends Phaser.Scene {
             delay: 1000 * this.SNAKE_TICK,
             repeat: -1,
         })
+
+        this.scene.bringToTop("persist");
     }
 
     update() {
@@ -415,6 +417,7 @@ class Snake extends Phaser.Scene {
     }
 
     setGameOverText(gameOverString, spacing, gameOverPointsString, spacing2, gameOverResultString) {
+        this.hideControls();
         const gameOverResult = this.config.outro;
         this.addTextToGrid(this.OVER_X, this.OVER_Y, [gameOverString, spacing, gameOverPointsString]);
         this.addTextToGrid(this.OVER_X, this.OVER_Y + 4, gameOverResult);

@@ -74,11 +74,13 @@ This might actually be better for the sword fight than epeeist.
 
 This is in the school (I think) of versions where you just present Snake as is and are sort of pointing out that Snake *already* adheres to some value. The Snake is in some sense egoistic, only cares about itself and its apples...
 
-I dunno. It's pretty dry.
+I dunno. It's pretty dry. Also "purist" already does it.
 
 ## Elegist
 
 The player writes an elegy for the Snake after it dies. Brilliant, but dependent on player buy-in which is tough.
+
+In competition with at least one version of "diarist".
 
 ## Elitist
 
@@ -94,7 +96,7 @@ It just seems like one of those things that could be secretly fun and worth prot
 
 So not out of the realms of possibilty but some strikes against it.
 
-See: Duellist as a better linguistic fit.
+See: Duelist as a better linguistic fit.
 
 ## Faddist
 
@@ -102,7 +104,7 @@ I don't *really* think this works but it deserves more thought so here it is. Th
 
 ## Feist
 
-In terms of it being a word it's about a "small mongrel dog" apparently, which doesn't fit, but if we took it to be the singer then a "snake cover" of her song 1234 could make a ton of sense? Copyright a problem. Could I write to Feist and ask if I could cover her song as a game? One syllable/beat per tick? I can imagine some irregular movement patterns that could be really funny to see? (Though this mirrors what I thought early on for Tubist as well)
+In terms of it being a word it's about a "small mongrel dog" apparently, which doesn't fit, but if we took it to be the singer then a "snake cover" of her song 1234 could make a ton of sense? Copyright a problem. Could I write to Feist and ask if I could cover her song as a game? One syllable/beat per tick? I can imagine some irregular movement patterns that could be really funny to see? (Though this mirrors what I thought early on for Tub(a)ist as well)
 
 ## Fist
 
@@ -170,7 +172,7 @@ It's an eye test while you play. "Which makes the game easier to see? A or B? A 
 
 A palm-reader. Strikes me as fun to try. Something about the Snake being on a palm and following the lines leading to a fortune? Maybe there's be another fortune telling opportunity though?
 
-## Persist
+## **Prototyped** Persist
 
 They aren't allowed to stop? Or they somehow persist through death? Or the game persists as a layer on top over everything else once you start it would be funny too? Just there forever? These are all GOOD IDEAS.
 
@@ -216,7 +218,7 @@ Move to the tones of a tuba with that classic oompah rhythm that would change up
 
 See also: Feist.
 
-## Twist
+## **Prototyped** Twist
 
 A possibly more clear version of *alist*? Twist the tiles and deal with the visual result? The tiles could "do the twist" while you play? Layer upon layer of bad jokes? Don't hate it... come on baby, let's do the twist?
 
