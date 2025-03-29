@@ -200,7 +200,7 @@ Person kind of managing the church, keeping the candles lit. That as a reference
 
 Maybe it's too thin. The idea of a layout like a birdseye of a church is kind of nice? Pews. Lots of stuff to crash into?
 
-## Sadist
+## **Prototyped** Sadist
 
 The player would be the sadist right? How? We encourage them to be by scoring points for killing the snake, not for eating the apple. Smash them against the wall, themselves, over and over, for points. GAME OVER if you let them eat the apple?
 

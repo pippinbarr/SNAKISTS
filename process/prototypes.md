@@ -165,6 +165,22 @@ Possible that's the record for fastest ever build? Hilarious. Hadn't realized th
 
 I mean, I wanted at least one of these and this seems like the most obvious one. I prototyped it and included an "outro" saying "the old ways are best" to get the doubling down on the meaning. It works in its basic way.
 
+## Sadist
+
+> The player would be the sadist right? How? We encourage them to be by scoring points for killing the snake, not for eating the apple. Smash them against the wall, themselves, over and over, for points. GAME OVER if you let them eat the apple?
+
+### 2025-03-29
+
+This one seems simple enough...
+
+---
+
+Done. I think it works!? I wonder if there's room for some more comic timing and sound with the deaths versus the apple. Particularly whether you use the apple sound for death and the death sound for apple or not... right now I have the "correct" sounds which... makes sense. But it's plausible that flipping them makes sense... but it's also the case that an apple sound when you hit a wall makes the collision sound like there's nothing much happening... whereas the sadist element is that it's meant to hurt the snake.
+
+So... probably the way it is. Maybe I will remove the delay to game over... as it's less obvious without the flashing... yeah that's better.
+
+Okay, this one seems to be in alright shape.
+
 ## Twist
 
 > A possibly more clear version of *alist*? Twist the tiles and deal with the visual result? The tiles could "do the twist" while you play? Layer upon layer of bad jokes? Don't hate it... come on baby, let's do the twist?

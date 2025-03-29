@@ -23,6 +23,7 @@ let config = {
     Persist,
     Plenist,
     Purist,
+    Sadist,
     Twist,
   ],
   render: {

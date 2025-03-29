@@ -13,6 +13,7 @@
             "persist",
             "plenist",
             "purist",
+            "sadist",
             "twist"
         ],
         "controls": {
@@ -177,6 +178,20 @@
         "outro": [
             "THE OLD WAYS",
             "ARE BEST."
+        ]
+    },
+    "sadist": {
+        "state": "sadist",
+        "menuName": "SSSADISSST",
+        "definition": {
+            "word": "sadist",
+            "part": "noun",
+            "definition": "a person who derives pleasure, especially sexual gratification, from inflicting pain or humiliation on others."
+        },
+        "outro": [
+            "WHAT IS",
+            "WRONG",
+            "WITH YOU?"
         ]
     },
     "twist": {
