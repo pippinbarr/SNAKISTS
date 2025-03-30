@@ -24,6 +24,7 @@ let config = {
     Plenist,
     Purist,
     Sadist,
+    Tourist,
     Twist,
   ],
   render: {

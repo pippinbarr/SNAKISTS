@@ -16,6 +16,11 @@ class Preloader extends Phaser.Scene {
     this.load.image(`wall`, `assets/images/wall.png`);
     this.load.image(`black`, `assets/images/black.png`);
 
+    const sites = ["barcelona", "caserta", "copenhagen", "honolulu", "ljubljana", "oaxaca", "paris", "procida", "rome", "sorrento", "sydney", "valetta"];
+    for (let site of sites) {
+      this.load.image(site, `assets/images/tourist/${site}.png`);
+    }
+
     this.load.audio('move', [`assets/sounds/move.mp3`, `assets/sounds/move.ogg`, `assets/sounds/move.wav`]);
     this.load.audio('hit', [`assets/sounds/hit.mp3`, `assets/sounds/hit.ogg`, `assets/sounds/hit.wav`]);
     this.load.audio('apple', [`assets/sounds/apple.mp3`, `assets/sounds/apple.ogg`, `assets/sounds/apple.wav`]);

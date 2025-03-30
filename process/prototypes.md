@@ -181,6 +181,24 @@ So... probably the way it is. Maybe I will remove the delay to game over... as i
 
 Okay, this one seems to be in alright shape.
 
+## Tourist
+
+> Snake over the top of famous locations. Good.
+
+### 2025-03-30
+
+I've been merrily cropping pictures from my own photos of different cities we've visited. Built up 12 with the idea this would be a kind of slide-show as the background of playing Snake. Which is pretty good.
+
+But as I was doing that I was suddenly recalling that "see Venice and die" line. And then that was complicated on looking it up because in The Talented Mr. Ripley Dickie says "see Venice and die, is that what they say? Or is it Rome?" And then later in the Googling a very old letter turns up suggesting it's actually "See Naples and die", or more specifically "vedi Napoli e poi muori".
+
+So now I don't know. I'll do the slideshow for right now, but a picture of Naples with the Latin or English at the end would be kind of spikier? 
+
+...
+
+But then I "realized" that the smooth move is "both". So that we have multiple "trips" you can take - Rome, Copenhagen, Caserta, etc. - and each time you die it's "See Rome (or whichever place) and Die". Best of both worlds
+
+I think I like it.
+
 ## Twist
 
 > A possibly more clear version of *alist*? Twist the tiles and deal with the visual result? The tiles could "do the twist" while you play? Layer upon layer of bad jokes? Don't hate it... come on baby, let's do the twist?

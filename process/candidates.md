@@ -208,7 +208,7 @@ The player would be the sadist right? How? We encourage them to be by scoring po
 
 The idea that there are very few apples and you have to survive on that? Maybe your body shrinks over time as well?
 
-## Tourist
+## **Prototyped** Tourist
 
 Snake over the top of famous locations. Good.
 

@@ -14,6 +14,7 @@
             "plenist",
             "purist",
             "sadist",
+            "tourist",
             "twist"
         ],
         "controls": {
@@ -192,6 +193,19 @@
             "WHAT IS",
             "WRONG",
             "WITH YOU?"
+        ]
+    },
+    "tourist": {
+        "state": "tourist",
+        "menuName": "TOURISSST",
+        "definition": {
+            "word": "tourist",
+            "part": "noun",
+            "definition": "a person who is traveling or visiting a place for pleasure."
+        },
+        "outro": [
+            "SEE %SITE%",
+            "AND DIE"
         ]
     },
     "twist": {
