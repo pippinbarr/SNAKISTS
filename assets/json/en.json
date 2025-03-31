@@ -46,12 +46,12 @@
         "homepage": "pippinbarr.com",
         "instructions": {
             "keyboard": [
-                "UP/DOWN ARROW=SELECT",
-                "RIGHT ARROW=PLAY"
+                "UP/DOWN ARROW=MOVE",
+                "RIGHT ARROW=SELECT"
             ],
             "touch": [
-                "SWIPE UP/DOWN=SELECT",
-                "SWIPE RIGHT=PLAY"
+                "SWIPE UP/DOWN=MOVE",
+                "SWIPE RIGHT=SELECT"
             ]
         }
     },

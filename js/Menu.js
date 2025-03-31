@@ -27,6 +27,7 @@ class Menu extends Snake {
       });
       index++;
     };
+
     this.selected = 0;
 
     this.menuButtons = this.add.group();
@@ -45,7 +46,7 @@ class Menu extends Snake {
     this.addSnakeBits();
     this.updateSnakePosition();
 
-    if (this.games[this.selected].state === "delist") {
+    if (this.selected < this.games.length && this.games[this.selected].state === "delist") {
       const col = this.snakeHead.x / this.GRID_SIZE;
       const row = this.snakeHead.y / this.GRID_SIZE;
       if (this.snakeHead.x < this.width) {
@@ -94,6 +95,9 @@ class Menu extends Snake {
 
     const menuBottom = menuTop + this.games.length - 1;
 
+    this.addTextToGrid(x, menuBottom + 2, ["PIPPINBARR.COM"], this.menuText)//, this.menuButtons, this.menuItemTouched);
+
+
     let instructions = "OH NO."
     if (this.sys.game.device.os.desktop) {
       instructions = this.strings.menu.instructions.keyboard;
@@ -116,22 +120,34 @@ class Menu extends Snake {
     if (this.selected > 0) {
       this.selected--;
       this.snakeHead.y -= this.GRID_SIZE;
-      if (this.games[this.selected].state === "delist" && this.delisted) {
+      if (this.selected < this.games.length && this.games[this.selected].state === "delist" && this.delisted) {
         this.selected--;
         this.snakeHead.y -= this.GRID_SIZE;
       }
+      else if (this.selected === this.games.length) {
+        this.selected--;
+        this.snakeHead.y -= this.GRID_SIZE;
+      }
+
       this.moveSFX.play();
     }
   }
 
   down() {
-    if (this.selected < this.games.length - 1) {
+    if (this.selected < this.games.length) {
       this.selected++;
+
       this.snakeHead.y += this.GRID_SIZE;
-      if (this.games[this.selected].state === "delist" && this.delisted) {
+      if (this.selected < this.games.length && this.games[this.selected].state === "delist" && this.delisted) {
         this.selected++;
         this.snakeHead.y += this.GRID_SIZE;
       }
+      else if (this.selected === this.games.length) {
+        this.selected++;
+        console.log("Boop")
+        this.snakeHead.y += this.GRID_SIZE;
+      }
+
       this.moveSFX.play();
     }
   }
@@ -141,7 +157,21 @@ class Menu extends Snake {
   }
 
   right() {
-    if (this.games[this.selected].state === "delist") {
+    let callback = () => {
+      const stateName = this.games[this.selected].state;
+      this.scene.start("walloftext", this.strings[stateName]);
+    }
+
+    if (this.selected === this.games.length + 1) {
+      callback = () => {
+        window.open("https://pippinbarr.com", "_blank");
+        this.next = new Phaser.Geom.Point(0, 0);
+        this.snakeHead.x = 0;
+        this.transition = false;
+        this.moveSFX.setVolume(1);
+      }
+    }
+    else if (this.games[this.selected].state === "delist") {
       localStorage.setItem("snakists-delisted", true);
     }
     this.next = new Phaser.Geom.Point(this.GRID_SIZE, 0);
@@ -151,10 +181,7 @@ class Menu extends Snake {
     this.moveSFX.setVolume(0);
     this.time.addEvent({
       delay: 1500,
-      callback: () => {
-        const stateName = this.games[this.selected].state;
-        this.scene.start("walloftext", this.strings[stateName]);
-      }
+      callback: callback
     })
   }
 }
