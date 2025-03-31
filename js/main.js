@@ -8,7 +8,7 @@ let config = {
   type: Phaser.AUTO,
   width: WIDTH,
   height: HEIGHT,
-  backgroundColor: "#ff00ff",
+  backgroundColor: "#000000",
   scene: [
     Boot,
     Preloader,
@@ -16,6 +16,7 @@ let config = {
     Snake,
     Definition,
 
+    Alarmist,
     Deist,
     Demist,
     Gist,

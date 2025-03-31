@@ -2,10 +2,6 @@
 
 Where I will list ists that I might actually use. These should at a minimum be visually prototyped, ideally for-real prototyped.
 
-## See: Twist ~~Alist~~
-
-~~A rare nautical term for a boat being on an angle. It's an easy one to imagine putting together (tilt the canvas? Tilt the tiles?), but the fact it's such an alien word may not help. It would work if there were a definition though, so not impossible. I need an official source for definitions.~~
-
 ## Activist
 
 "a person who campaigns to bring about political or social change."
@@ -14,9 +10,9 @@ There has to be an option here, but one would also have to be careful that it is
 
 Of those the game itself being activist makes the most sense to me? Could it be about settlers in Gaza? A gradual impingement on the Snake's world by walls representing settlers?
 
-Ask Kevin?
+Ask Kevin? (Asked.)
 
-## Alarmist
+## **Prototyped** Alarmist
 
 "someone who is considered to be exaggerating a danger and so causing needless worry or panic."
 

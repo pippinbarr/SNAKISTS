@@ -2,11 +2,21 @@
 
 In the continuing "don't write it all in the journal" mode, I'm going to try out a document where I write separately about prototyping and responding to the different candidate variations (I should call them "definitions"?) I'm making.
 
+## Alarmist
+
+> "someone who is considered to be exaggerating a danger and so causing needless worry or panic."
+
+> The game panics as you get closer to walls. Increasing screen shake and messages strobing all over the place. I really like that. I guess it would be for the body too. I think this would be pretty fun to make.
+
+### 2025-03-31
+
+This is a funny one... a worried game that of course makes things worse the more it warns you. A pretty easy prototype that I'm happy with. Not a ton to report other than some performance concerns about my approach that... seem fine. Maybe not on mobile? Could be worth testing.
+
 ## Deist
 
 > Because the definition I read specifically presents this as believe in a *non-interventionist god* (hi Nick Cave) I wonder if there's some juice to just having this be a Snake with no controls that moves across the screen (logically) and then hits the wall (dies).
 
-## 2025-03-14
+### 2025-03-14
 
 I'm going to prototype this one just because it's so simple. Non-interventionist god (the player) therefore does not intervene (has no controls) and the Snake goes along its track and dies (hits the wall).
 

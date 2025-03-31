@@ -5,6 +5,7 @@
     ],
     "ui": {
         "games": [
+            "alarmist",
             "deist",
             "delist",
             "demist",
@@ -77,13 +78,26 @@
             "SNAKED"
         ]
     },
+    "alarmist": {
+        "state": "alarmist",
+        "menuName": "ALARMISSST",
+        "definition": {
+            "word": "alarmist",
+            "part": "noun",
+            "definition": "someone who is considered to be exaggerating a danger and so causing needless worry or panic."
+        },
+        "careful": "CAREFUL!",
+        "outro": [
+            "TOLD YOU SO."
+        ]
+    },
     "deist": {
         "state": "deist",
         "menuName": "DEISSST",
         "definition": {
             "word": "deist",
             "part": "noun",
-            "definition": "Someone who believes in a single god who created the world but does not act to influence events"
+            "definition": "Someone who believes in a single god who created the world but does not act to influence events."
         },
         "controls": [
             "DO NOT",
