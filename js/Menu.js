@@ -6,8 +6,10 @@ class Menu extends Snake {
     });
 
     this.SNAKE_TICK = 0.03;
+    this.SNAKE_TITLE_Y = 2;
     this.SNAKE_START_X = 0;
-    this.SNAKE_START_Y = 8;
+    this.SNAKE_START_Y = 4;
+    this.SNAKE_MENU_Y = 4;
   }
 
   create() {
@@ -76,10 +78,10 @@ class Menu extends Snake {
 
   createMenu() {
     const titleX = 2;
-    const titleY = 3
+    const titleY = this.SNAKE_TITLE_Y;
     this.addTextToGrid(titleX, titleY, this.title);
 
-    const menuTop = 8;
+    const menuTop = this.SNAKE_MENU_Y;
     let x = 2;
     let y = menuTop;
 
@@ -117,7 +119,12 @@ class Menu extends Snake {
   }
 
   up() {
-    if (this.selected > 0) {
+    if (this.selected === 0) {
+      this.selected = this.games.length + 1;
+      this.snakeHead.y = (this.SNAKE_MENU_Y + this.games.length + 1) * this.GRID_SIZE;
+      this.moveSFX.play();
+    }
+    else if (this.selected > 0) {
       this.selected--;
       this.snakeHead.y -= this.GRID_SIZE;
       if (this.selected < this.games.length && this.games[this.selected].state === "delist" && this.delisted) {
@@ -134,7 +141,12 @@ class Menu extends Snake {
   }
 
   down() {
-    if (this.selected < this.games.length) {
+    if (this.selected === this.games.length + 1) {
+      this.selected = 0;
+      this.snakeHead.y = this.SNAKE_MENU_Y * this.GRID_SIZE;
+      this.moveSFX.play();
+    }
+    else if (this.selected < this.games.length) {
       this.selected++;
 
       this.snakeHead.y += this.GRID_SIZE;
