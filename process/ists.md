@@ -600,93 +600,214 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 
 ## Eight letters
 
-- activist
-- alarmist
+- **CANDIDATE** activist
+    - There has to be a way this could work?
+    - "a person who campaigns to bring about political or social change."
+- **CANDIDATE** alarmist
+    - "someone who is considered to be exaggerating a danger and so causing needless worry or panic."
+    - This seems delightful to me... the game could freak out as you near a wall? CAREFULLL!!!!!
 - alienist
+    - No
 - alpinist
+    - Mountain climbing... I mean... there could conceivably be something to that, but initially no
 - altruist
+    - Fun but requires a social system that doesn't exist in Snake? Who would the Snake give their apples to?
 - annalist
+    - Nah
 - aphorist
+    - Nah
 - apiarist
+    - Bees... I mean bees are funny but hard to see the join
 - aquarist
+    - "a person who keeps an aquarium."
+    - Hard to see
 - arbalist
+    - "An "arbalist" refers to a person who shoots a crossbow, also known as a crossbowman, or a crossbow itself, especially a medieval one."
+    - So no? Or like some total reimagining where you fire the snake like a bolt across the screen to get the apple?
 - arborist
+    - Tree stuff... not seeing it...
 - archaist
-- arsonist
+    - "an expert or collector of antiquities"
+    - Not really
+- **CANDIDATE** arsonist
+    - Ohhhh fire is interesting...
 - atticist
+    - "Atticism (meaning "favouring Attica", the region of Athens in Greece) was a rhetorical movement that began in the first quarter of the 1st century BC."
+    - Uh okay
 - aviarist
+    - Birds.
 - backlist
+    - Oh a nice nonstandard ist... "a publisher's list of older books still in print."
+    - Hard to imagine though... Gutenberg?
 - banjoist
+    - Music
 - bigamist
+    - Is the snake married already?
 - blurbist
+    - Feels like no
 - bongoist
+    - No
 - botanist
+    - "an expert in or student of the scientific study of plants."
+    - Another of those possible "demonstrate your knowledge" ones... not feeling it
 - cabalist
+    - "a follower of the ancient Jewish mystical tradition of Kabbalah."
+    - Hmm. Snake + Mysticism is kind of interesting to be honest, but I'm not sure how it would actually play out...
 - canoeist
+    - Canoes.
 - canonist
+    - law
 - centrist
+    - Boring
 - ceramist
+    - Pottery... I guess goes with ceramicist?
+    - Not feeling it
 - chartist
+    - "A chartist is a trader or analyst who uses technical analysis, primarily relying on charts and graphs of historical market data (like price and volume) to predict future price movements and make trading decisions"
+    - So no
 - classist
-- coassist
+    - What is the class system in Snake? Could there be one? And if there were how to express classism within it?
+- **CANDIDATE** coassist
+    - "to assist jointly"
+    - Hmm... multiplayer input for a single snake is interesting? Kind of fun potentially... chaotic and stupid?
 - colonist
+    - Hard to see. 
 - colorist
+    - Not really
 - comedist
+    - Weird word
 - demonist
+    - Nah
 - demotist
+    - No
 - diallist
+    - No
 - digamist
+    - "One who marries a second time; a deuterogamist." Jesus
 - ditheist
+    - Two equal gods. See also coassist in a way.
 - druggist
+    - Drugsssss.
 - duellist
+    - Here's that.
 - duettist
+    - No
 - dynamist
-- escapist
+    - No
+- **CANDIDATE** escapist
+    - Ohhh yeah. The snake escape.
+    - Oh wait.. it's about distractions from realist. That's funny. Hmmm.
+    - But still actually... kind of good... a double distraction?
 - essayist
+    - No
 - ethicist
+    - Hmmmmmmmno.
 - eugenist
+    - "the study of how to arrange reproduction within a human population to increase the occurrence of heritable characteristics regarded as desirable"
+    - Gross. And no repro in Snake to speak of?
 - eulogist
+    - Fits with elegist but maybe a better word?
 - euphuist
+    - No
 - exorcist
+    - "a person who expels or attempts to expel a supposed evil spirit from a person or place."
+    - Appealing... the Snake could be possessed? How would the player exorcise it?
 - fabulist
+    - Good word
+    - Well esp the liar one "a liar, especially a person who invents elaborate, dishonest stories."
+    - Hmmm... but a little unclear how that translates... I thought maybe the idea that the game lies to you about what's happening is interesting, but hard to spin
 - familist
+    - No
 - fatalist
+    - Same as Deist, so no
 - feminist
+    - Would be good to do but not sure there's something not pat?
 - finalist
+    - Intriguingly gamish...
 - finitist
+    - "Finitism is a philosophy of mathematics that accepts the existence only of finite mathematical objects"
 - flautist
+    - Music
 - futurist
+    - "one who studies and predicts the future especially on the basis of current trends"
+    - Hmmm... it could project current movement into the future some number of steps? Though it would always end up just looking like a line sticking out of the snake? Not really quite right?
 - hagadist
+    - No
 - halakist
+    - No
 - handlist
+    - No
 - hedonist
+    - "a person who believes that the pursuit of pleasure is the most important thing in life; a pleasure-seeker."
+    - Is the snake already a hedonist? It has no other job?
 - hobbyist
+    - Hmm
 - homilist
+    - No
 - humanist
+    - Nah
 - humorist
+    - No
 - hygieist
+    - "a specialist in the promotion of clean conditions for the preservation of health."
+    - No?
 - idealist
+    - "a person who is guided more by ideals than by practical considerations."
+    - Don't think so
+    - ?
 - idyllist
+    - No
 - intimist
+    - "1. of, relating to, or practicing intimism 2. of fiction : dealing chiefly with intimate and private especially psychological experiences."
+    - Hmmmm... maybe there's a way for this to be about an internal monologue from the Snake?
 - jehadist
+    - No
 - jihadist
+    - No
 - jingoist
+    - "Jingoism is nationalism in the form of aggressive and proactive foreign policy, such as a country's advocacy for the use of threats or actual force"
+    - No
 - junglist
+    - "Junglist is a slang term which first referred to a person living in an area of West Kingston, Jamaica, called Jungle"
+    - That's very specific
 - kabalist
+    - As above
 - kendoist
+    - No
 - lapidist
+    - Thought this was about butterflies for some reason but "A lapidist is a person whose business is to cut, polish, set, or deal in gemstones, or someone skilled in the art of cutting and engraving precious stones"
+    - No
 - legalist
+    - No
 - libelist
+    - "A "libelist" is a rare term, synonymous with "libeler," meaning someone who publishes or makes a libel, which is a false and damaging statement about someone, usually in writing"
+    - The Snake could libel... me? But a rare term so maybe not
 - linguist
+    - No
 - lobbyist
+    - No?
 - localist
+    - "A "localist" is someone who strongly emphasizes or is concerned with local matters, often advocating for local control and the promotion of local interests, businesses, and culture"
+    - No
 - loyalist
+    - No
 - luminist
+    - No
 - lutanist
+    - No
 - lutenist
+    - No
 - lyricist
+    - Don't think so
 - medalist
+    - Maybe interesting... awarding a medal at the end? Snake on a podium? Does this say much more than "competition" though?
 - melanist
+    - No
+
+---
+From here I'm just going to eyeball, can always come back through
+---
+
 - melodist
 - metalist
 - modalist
@@ -700,11 +821,13 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - nepotist
 - niellist
 - nihilist
+    - Already did it
 - novelist
 - oghamist
 - oologist
 - opticist
 - optimist
+    - Did it
 - organist
 - pacifist
 - paganist
@@ -713,12 +836,14 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - parodist
 - phallist
 - playlist
+    - Might be funny
 - polemist
 - populist
 - preexist
 - prosaist
 - psalmist
 - pugilist
+    - More fighting
 - quietist
 - rallyist
 - reenlist
@@ -729,6 +854,8 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - sapphist
 - sarodist
 - satanist
+    - I mean, it would be fun.
+    - But I also simply know nothing about this
 - satirist
 - sciolist
 - semitist
@@ -740,6 +867,8 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - solecist
 - stockist
 - tantrist
+    - "A "tantrist" is someone who practices or adheres to Tantrism, a spiritual tradition encompassing various Hindu and Buddhist esoteric practices that involve techniques, rituals, and ideologies aimed at achieving spiritual liberation or enlightenmen"
+    - In my dreams...
 - tenorist
 - theorist
 - totalist
@@ -754,12 +883,20 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 ## Nine letters
 
 - absurdist
+    - Appealing.
+    - "intentionally ridiculous or bizarre; surreal."
+    - May not be distinct from Dadaist, may be a better word
 - aerialist
 - alchemist
+    - Including "a person who transforms or creates something through a seemingly magical process."
+    - Appealing...
 - allergist
 - analogist
 - anarchist
+    - "Anarchism is a political philosophy and movement that seeks to abolish all institutions that perpetuate authority, coercion, or hierarchy, primarily targeting the state and capitalism. Anarchism advocates for the replacement of the state with stateless societies and voluntary free associations."
+    - In the context of a game is a position like this distinct from absurdism? Does it suspend the rules? What happens in a game if you suspend the rules/authority of the game?
 - anatomist
+    - Snake and disection? Intriguing...
 - apologist
 - archivist
 - atonalist
@@ -767,11 +904,17 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - balladist
 - biblicist
 - bicyclist
+    - Cute
 - biologist
 - blacklist
+    - "a list of people or things that are regarded as unacceptable or untrustworthy and should be excluded or avoided."
+    - If the snake is blacklisted, who avoids it?
+    - Could you get blacklisted from the game and have to come back later?
 - careerist
 - catechist
-- checklist
+- **CANDIDATE** checklist
+    - Oh that's not bad...
+    - "a list of items required, things to be done, or points to be considered, used as a reminder."
 - collagist
 - columnist
 - communist
@@ -779,7 +922,9 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - crayonist
 - cymbalist
 - declinist
-- defeatist
+- **CANDIDATE** defeatist
+    - "a person who expects or is excessively ready to accept failure."
+    - Snake dies before it hits the wall? Haha.
 - denturist
 - diabolist
 - dialogist
@@ -790,7 +935,9 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - ecumenist
 - enamelist
 - enologist
-- eroticist
+- **CANDIDATE** eroticist
+    - "1. one who indulges in eroticism. 2. art, literature. one who uses erotic imagery in art or literature."
+    - Maybe some sexy audio?
 - euphemist
 - euthenist
 - exegetist
@@ -810,7 +957,8 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - hermetist
 - hygienist
 - hylozoist
-- hypnotist
+- **CANDIDATE** hypnotist
+    - I like the snake forming a spiral and it telling you to go eat an apple?
 - internist
 - karateist
 - larcenist
@@ -820,6 +968,7 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - mannerist
 - marimbist
 - masochist
+    - Kind of did this with stoicism, or even umm... sadist, the other side of the coin
 - mechanist
 - medallist
 - meliorist
@@ -855,6 +1004,7 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - ritualist
 - scenarist
 - scientist
+    - Seems like it would be nice
 - semimoist
 - serialist
 - shamanist
@@ -868,6 +1018,7 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - tattooist
 - tenebrist
 - terrorist
+    - Bit touchy
 - therapist
 - theurgist
 - timpanist
@@ -877,7 +1028,8 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - ufologist
 - urologist
 - verbalist
-- violinist
+- **CANDIDATE** violinist
+    - Well could be
 - voodooist
 - vorticist
 - welfarist
@@ -915,7 +1067,9 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - colloquist
 - completist
 - concretist
-- conformist
+- **CANDIDATE** conformist
+    - "a person who conforms to accepted behavior or established practices."
+    - Map out where the Snake should go... like AI path-finding, die if you leave the track
 - cornettist
 - cytologist
 - ecotourist
@@ -967,7 +1121,8 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - monopolist
 - monotheist
 - mycologist
-- narcissist
+- **CANDIDARTE** narcissist
+    - What could be funnier than doing this twice?
 - naturalist
 - negativist
 - neorealist
@@ -985,6 +1140,8 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - pacificist
 - panegyrist
 - pantywaist
+    - "a feeble or cowardly person."
+    - I mean, I don't think I can, but I love what a surprise this was in the list
 - pastellist
 - pediatrist
 - pedicurist
@@ -994,6 +1151,7 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - pharmacist
 - piccoloist
 - plagiarist
+    - There could be something funny here.
 - podiatrist
 - polemicist
 - polygamist
@@ -1026,6 +1184,7 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - strategist
 - suffragist
 - surrealist
+    - In a perfect world
 - symphonist
 - syncretist
 - synonymist
@@ -1037,6 +1196,8 @@ Wherein I list over 1200 ists (list is an ist) and see what comes to mind. Might
 - trivialist
 - trombonist
 - typologist
+
+**To here**
 
 ## Eleven letters
 

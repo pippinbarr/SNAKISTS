@@ -6,17 +6,49 @@ Where I will list ists that I might actually use. These should at a minimum be v
 
 ~~A rare nautical term for a boat being on an angle. It's an easy one to imagine putting together (tilt the canvas? Tilt the tiles?), but the fact it's such an alien word may not help. It would work if there were a definition though, so not impossible. I need an official source for definitions.~~
 
+## Activist
+
+"a person who campaigns to bring about political or social change."
+
+There has to be an option here, but one would also have to be careful that it isn't just a flip idea about activism... it would need to actually do the work in some way. Like, can you make a Snake about Palestine? But also: is the game activist, is the Snake in the game an activist, is the player an activist by playing the game, ...?
+
+Of those the game itself being activist makes the most sense to me? Could it be about settlers in Gaza? A gradual impingement on the Snake's world by walls representing settlers?
+
+Ask Kevin?
+
+## Alarmist
+
+"someone who is considered to be exaggerating a danger and so causing needless worry or panic."
+
+The game panics as you get closer to walls. Increasing screen shake and messages strobing all over the place. I really like that. I guess it would be for the body too. I think this would be pretty fun to make.
+
 ## Animist
 
 So an animist believes that things have souls, including inanimate objects (so I suppose the walls would have souls too). My main design though in ists was to have it so that on "dying" both the snake and apple would have a soul (a lowered-alpha copy) leave their body and go upwards. Funny to think of that happening on the tick actually.
 
 I do like this image a lot... I'm not sure how much I think it really captures what an Animist believes in though so I'll have to look further. I'd like to shoehorn this idea in there somewhere anyway.
 
+## Arsonist
+
+"a person who commits arson." which is to say illegally sets things on fire...
+
+What would be set on fire? The walls? The floor? What are the consequences of setting things on fire? The snake dies in its own fire? How does the fire start? Maybe there are too many questions going on there...
+
 ## Artist
 
 At the very least the obvious snake paints with body, probably in the sense of a paint duration based on the apple (=paint can). Of course I also literally did this in Art Game and in that case it was about strategic dying to create the artwork.
 
 Definitely an opportunity to have an ending screen with a framed picture at the very least. There's some argument to mirror Art Game? There's a debate there anyway.
+
+## Checklist
+
+Just "eat apple" over and over? Crossed out each time?
+
+## Coassist
+
+"to assist jointly"
+
+Have two sets of input for the same snake?
 
 ## Coexist
 
@@ -25,6 +57,12 @@ At its simplest interpretation let's say this involves two snakes, both controll
 If one Snake dies does the other carry on, or would it be proof they couldn't ... coexist?
 
 (This wouldn't work on mobile because of the controls necessary.)
+
+## Conformist
+
+"a person who conforms to accepted behavior or established practices."
+
+Map out where the Snake is meant to go as a path and if they diverge they die (they need to be a conformist).
 
 ## Copyist
 
@@ -42,11 +80,17 @@ I'm only including this because there's such a funny relationship between cubism
 
 The idea that you could see different parts of the snake and thus, perhaps, its face (which I'm imagining is facing "forward" in the direction of movement) is very funny though maybe not funny enough.
 
-## Dadaist
+## Dadaist / Absurdist (may be better)
 
 I don't currently know what this would be (how Dada), but I feel like it has to be in here (though as I think about it I'm now wondering if there's an "art movements" version of Snake to consider). 
 
 At heart (see the notes lower down and also read more about Dada) it would be about absurdism and rejection of the warlike/capitalist/individualist/etc.ist nature of Snake (and videogames). That could amount to just insanity visually, could be messing with the code in uncontrolled ways (though we all know that will just crash the program - which is worth entertaining?), could be teleporting snake, random score, sound-track, collaging in photographs, ... hard to say for now, but the spirit of it would be RESISTING SNAKE'S OWN FORM IN ITS FORM I SUPPOSE
+
+## Defeatist
+
+"a person who expects or is excessively ready to accept failure."
+
+I like the idea that the snake dies 2-4 squares before it actually hits a wall. "Let's face it, you would have hit the wall."
 
 ## **Prototyped** Deist
 
@@ -76,7 +120,7 @@ This is in the school (I think) of versions where you just present Snake as is a
 
 I dunno. It's pretty dry. Also "purist" already does it.
 
-## Elegist
+## Elegist / Eulogist
 
 The player writes an elegy for the Snake after it dies. Brilliant, but dependent on player buy-in which is tough.
 
@@ -97,6 +141,20 @@ It just seems like one of those things that could be secretly fun and worth prot
 So not out of the realms of possibilty but some strikes against it.
 
 See: Duelist as a better linguistic fit.
+
+## Eroticist
+
+"1. one who indulges in eroticism. 2. art, literature. one who uses erotic imagery in art or literature."
+
+Sexy sounds when you eat an apply, maybe an orgasm sound when you hit a wall? Randomize male/female voice?
+
+Sexy breathing throughout?
+
+## Escapist
+
+"a person who seeks distraction and relief from unpleasant realities, especially in the form of entertainment or fantasy."
+
+A kind of double distraction? Snake as an escapist outlet. And then an escapist outlet for the Snake itself from the boring task of eating the apples? With the ultimate thing being to exit the level altogether?
 
 ## Faddist
 
@@ -128,6 +186,10 @@ This almost functions as a meta-joke about the whole Snake series (and my work i
 
 Just because heists are so game-like it would be fun to at least try to do this? Snake "breaks into" somewhere (how?? Eats the apple door?) Then in a confined space eats a bunch of green apples (money???) and then escapes... somehow? And little police walls come to chase you with sirens blaring???
 
+## Hypnotist
+
+I like the snake forming a spiral and it telling you to go eat an apple?
+
 ## Imagist
 
 The idea of a specific movement in poetry. "An "imagist" is a poet or writer who adheres to or advocates for the poetic movement of Imagism, which emphasizes clear, concise language and the precise presentation of images to convey ideas and emotions"
@@ -151,6 +213,10 @@ Just the ol' fog of war applied to Snake. Probably want a more interesting terra
 ## Moist
 
 Most basically leaving a pale blue trail because the snake is moist. But I dunno if that has much to recommend it?
+
+## Narcissist
+
+It's kind of pitch perfect to do this again. Doubling down on narcissism is what a narcissist should do. I wonder if it's worth including a bluesky posting option as well as email? Both? Tell them to enable popups?
 
 ## **Prototyped** Nudist
 
