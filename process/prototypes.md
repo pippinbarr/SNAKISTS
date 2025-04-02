@@ -222,3 +222,11 @@ I want to quickly bang this one together because I *think* it will be very easy?
 Well it worked juuuust fine. I like it. It looks weird. Not a lot more to say. Could look at getting more complex at the meaning of twist... into the idea of spirals or something say, but for right now what it is strikes me as a-ok. I'm enjoying how the different Snake body bits seem to rotate at... oh I see why. Yeah that's pretty funny actually. It's probably worth just looking at a constant rotation or like rhythmic "do the twist" thing rather than tying it to the snake direction?
 
 Anyway, it's pretty good.
+
+## Typist
+
+> Typing out ALL WORK AND NO PLAY MAKES JACK A DULL BOY
+
+### 2025-04-01
+
+Spent a bunch of time on this, actually across two days, but I have to admit defeat because I'm stuck on word wrap. Not much to say. It's nice looking? I think it works?

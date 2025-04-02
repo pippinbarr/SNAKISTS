@@ -16,7 +16,8 @@
             "purist",
             "sadist",
             "tourist",
-            "twist"
+            "twist",
+            "typist"
         ],
         "controls": {
             "keyboard": [
@@ -233,6 +234,18 @@
         "outro": [
             "COME ON",
             "BABY"
+        ]
+    },
+    "typist": {
+        "state": "typist",
+        "menuName": "TYPISSST",
+        "definition": {
+            "word": "typist",
+            "part": "noun",
+            "definition": "a person who is skilled in using a typewriter or computer keyboard, especially one who is employed for this purpose."
+        },
+        "outro": [
+            "DULL BOY"
         ]
     }
 }

@@ -82,6 +82,8 @@ I don't currently know what this would be (how Dada), but I feel like it has to 
 
 At heart (see the notes lower down and also read more about Dada) it would be about absurdism and rejection of the warlike/capitalist/individualist/etc.ist nature of Snake (and videogames). That could amount to just insanity visually, could be messing with the code in uncontrolled ways (though we all know that will just crash the program - which is worth entertaining?), could be teleporting snake, random score, sound-track, collaging in photographs, ... hard to say for now, but the spirit of it would be RESISTING SNAKE'S OWN FORM IN ITS FORM I SUPPOSE
 
+Or... if we go more absurdism then it's a bit looser and less political. "intentionally ridiculous or bizarre; surreal."
+
 ## Defeatist
 
 "a person who expects or is excessively ready to accept failure."
@@ -226,6 +228,8 @@ I'm not really convinced, but some kind of poetry-writing mechanics folded into 
 
 Masturbation x Snake. Masturbating a Snake like it's a penis? Yes yes yes.
 
+It dies for the orgasm? But this is very similar to eroticist...
+
 ## Optometrist
 
 It's an eye test while you play. "Which makes the game easier to see? A or B? A or B?" and some kind of blur filter/thing? It's a great idea... I wonder if it can work.
@@ -284,7 +288,7 @@ See also: Feist.
 
 A possibly more clear version of *alist*? Twist the tiles and deal with the visual result? The tiles could "do the twist" while you play? Layer upon layer of bad jokes? Don't hate it... come on baby, let's do the twist?
 
-## Typist
+## **Prototyping** Typist
 
 Clacking with each keypress. Snake moves on clack. Probably auto-snake so you're just driving its movement/the tick. Could pick funny texts to type I suppose?
 

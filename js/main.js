@@ -27,6 +27,7 @@ let config = {
     Sadist,
     Tourist,
     Twist,
+    Typist
   ],
   render: {
     pixelArt: true,

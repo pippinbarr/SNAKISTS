@@ -324,7 +324,7 @@ class Snake extends Phaser.Scene {
 
     checkWallCollision() {
         this.wallGroup.children.each((wall) => {
-            if (this.snakeHead.x === wall.x && this.snakeHead.y === wall.y) {
+            if (wall.active && this.snakeHead.x === wall.x && this.snakeHead.y === wall.y) {
                 this.die();
                 return;
             }
