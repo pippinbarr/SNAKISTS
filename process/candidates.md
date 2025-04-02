@@ -40,6 +40,8 @@ Definitely an opportunity to have an ending screen with a framed picture at the 
 
 Just "eat apple" over and over? Crossed out each time?
 
+Actually this would be funnier if it escalates? "Eat an apple." "Eat another apple." "Eat 10 apples." "Score 200 points." "Score 1000 points." "Eat all the apples." (Or something like that, so that it's conceivably the player would see it all up to the final one which is impossible to fulfill...? Or you could add "die" at the end, which would be funny in a different direction. And then "You tried."  or "A job well done" at the ending.)
+
 ## Coassist
 
 "to assist jointly"
@@ -58,7 +60,7 @@ If one Snake dies does the other carry on, or would it be proof they couldn't ..
 
 "a person who conforms to accepted behavior or established practices."
 
-Map out where the Snake is meant to go as a path and if they diverge they die (they need to be a conformist).
+Map out where the Snake is meant to go as a path and if they diverge they die (they need to be a conformist). Actually kind of horrible to imagine relative to the apples though? Maybe we could just map out a convoluted non-overlapping path that covers the whole space and eventually you'd hit your own tail? Could acknowledge anybody who pulls that off? How would you indicate the full path? Or just the next part of the path?
 
 ## Copyist
 
@@ -124,6 +126,8 @@ The player writes an elegy for the Snake after it dies. Brilliant, but dependent
 
 In competition with at least one version of "diarist".
 
+As a bluesky/similar post? Or as a text file that saves to the computer? Or just ephemeral?
+
 ## Elitist
 
 Hmmm, maybe the game could quiz you about whether you're GOOD ENOUGH to control the snake and play? Qualifications check? How would we ask for proof? A quiz about your depth of Snake knowledge. Could actually get into a pretty fun and stupid gamerbro gamergate mockery session actually...
@@ -147,6 +151,8 @@ See: Duelist as a better linguistic fit.
 Sexy sounds when you eat an apply, maybe an orgasm sound when you hit a wall? Randomize male/female voice?
 
 Sexy breathing throughout?
+
+In competition with onanist...
 
 ## Escapist
 
@@ -204,6 +210,8 @@ Visually I can imagine a series of snakes on rows (maybe starting next to bullet
 
 Oh it could also be a to-do list where you are striking out the items, that's not terrible... though eating and striking-out may be a little far apart?
 
+In competition with checklist.
+
 ## **Prototyped (as "demist")** Mist
 
 Just the ol' fog of war applied to Snake. Probably want a more interesting terrain for that, though that starts to feel arbitrary? It's a tough combo having continual movement with a mist. How to make it look nice? Or do I not bother?
@@ -233,6 +241,8 @@ It dies for the orgasm? But this is very similar to eroticist...
 ## Optometrist
 
 It's an eye test while you play. "Which makes the game easier to see? A or B? A or B?" and some kind of blur filter/thing? It's a great idea... I wonder if it can work.
+
+Early technical tests suggest: no? Maybe? Probably not?
 
 ## Palmist
 
