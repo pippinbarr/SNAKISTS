@@ -36,6 +36,10 @@ At the very least the obvious snake paints with body, probably in the sense of a
 
 Definitely an opportunity to have an ending screen with a framed picture at the very least. There's some argument to mirror Art Game? There's a debate there anyway.
 
+## Behaviourist
+
+"A behaviorist is someone who advocates or practices behaviorism, a theory that human and animal behavior is based on conditioning (mental training and the influence of habit), rather than being explained by thoughts and feelings."
+
 ## Checklist
 
 Just "eat apple" over and over? Crossed out each time?
@@ -160,6 +164,10 @@ In competition with onanist...
 
 A kind of double distraction? Snake as an escapist outlet. And then an escapist outlet for the Snake itself from the boring task of eating the apples? With the ultimate thing being to exit the level altogether?
 
+## Escapologist
+
+"an entertainer specializing in escaping from the confinement of such things as ropes, handcuffs, and chains."
+
 ## Faddist
 
 I don't *really* think this works but it deserves more thought so here it is. The idea of a version of snake that switches between multiple "faddish" ideas of design or aesthetics or... something. That it's kind of unable to make up its mind about its nature is quite fun...
@@ -212,6 +220,12 @@ Oh it could also be a to-do list where you are striking out the items, that's no
 
 In competition with checklist.
 
+## Miniaturist
+
+"noun. an artist whose specialty is small, discrete works. a person who makes, collects, or specializes in miniature objects: a miniaturist with a collection of dollhouses."
+
+A tiny zoomed out snake
+
 ## **Prototyped (as "demist")** Mist
 
 Just the ol' fog of war applied to Snake. Probably want a more interesting terrain for that, though that starts to feel arbitrary? It's a tough combo having continual movement with a mist. How to make it look nice? Or do I not bother?
@@ -227,6 +241,16 @@ It's kind of pitch perfect to do this again. Doubling down on narcissism is what
 ## **Prototyped** Nudist
 
 I made a pink snake but snakes are probably already nude? I'm wondering about the idea of the snake shedding its skin as a "more nude" snake? Constantly shedding its skin... kind of funny and is a sort of mechanic too, builds walls... or... well do you die if you hit a snake skin?
+
+## Obscurantist
+
+"deliberately preventing the facts or full details of something from becoming known."
+
+## Obstructionist
+
+"the practice of deliberately impeding or delaying the course of legal, legislative, or other procedures."
+
+Could place a wall in the direction they're going at a certain point... or make wals around the apple in an inconvenient way (within reason...)
 
 ## Odist
 

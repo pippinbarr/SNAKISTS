@@ -1197,8 +1197,6 @@ From here I'm just going to eyeball, can always come back through
 - trombonist
 - typologist
 
-**To here**
-
 ## Eleven letters
 
 - abortionist
@@ -1214,7 +1212,9 @@ From here I'm just going to eyeball, can always come back through
 - aquatintist
 - artillerist
 - audiologist
-- behaviorist
+- **CANDIDATE** behaviorist
+    - "A behaviorist is someone who advocates or practices behaviorism, a theory that human and animal behavior is based on conditioning (mental training and the influence of habit), rather than being explained by thoughts and feelings."
+    - I mean, it's games right...
 - bimetallist
 - bioethicist
 - chiropodist
@@ -1224,11 +1224,14 @@ From here I'm just going to eyeball, can always come back through
 - comparatist
 - computerist
 - consumerist
+    - "a person who is preoccupied with the acquisition of consumer goods."
 - corporatist
 - coscenarist
 - cosmogonist
 - cosmologist
 - creationist
+    - "a person who believes that the universe and living organisms originate from specific acts of divine creation, as in the biblical account."
+    - Some kind of actual video (Blow-like) of me making the game?
 - criminalist
 - determinist
 - dichotomist
@@ -1257,6 +1260,7 @@ From here I'm just going to eyeball, can always come back through
 - hydrologist
 - hyperbolist
 - illusionist
+    - "a person who performs tricks that deceive the eye; a magician."
 - immanentist
 - imperialist
 - iridologist
@@ -1273,7 +1277,8 @@ From here I'm just going to eyeball, can always come back through
 - medievalist
 - memorialist
 - metrologist
-- miniaturist
+- **CANDIDATE** miniaturist
+    - "noun. an artist whose specialty is small, discrete works. a person who makes, collects, or specializes in miniature objects: a miniaturist with a collection of dollhouses."
 - monologuist
 - museologist
 - mycophagist
@@ -1383,6 +1388,7 @@ From here I'm just going to eyeball, can always come back through
 - conspiracist
 - cosmochemist
 - cryptologist
+    - An encrypted version of the game?
 - demonologist
 - dendrologist
 - deontologist
@@ -1399,6 +1405,8 @@ From here I'm just going to eyeball, can always come back through
 - entomologist
 - enzymologist
 - escapologist
+    - "an entertainer specializing in escaping from the confinement of such things as ropes, handcuffs, and chains."
+    - Yeah?
 - essentialist
 - evolutionist
 - exclusionist
@@ -1444,6 +1452,7 @@ From here I'm just going to eyeball, can always come back through
 - numerologist
 - nutritionist
 - obscurantist
+    - "deliberately preventing the facts or full details of something from becoming known."
 - oceanologist
 - operationist
 - orthodontist
@@ -1694,7 +1703,8 @@ From here I'm just going to eyeball, can always come back through
 - neurobiologist
 - neuroscientist
 - nonobjectivist
-- obstructionist
+- **CANDIDATE** obstructionist
+    - "the practice of deliberately impeding or delaying the course of legal, legislative, or other procedures."
 - operationalist
 - paleobiologist
 - paleoecologist
@@ -1752,6 +1762,9 @@ From here I'm just going to eyeball, can always come back through
 - constructionist
 - conventionalist
 - cryptozoologist
+    - "the search for and study of animals whose existence or survival is disputed or unsubstantiated, such as the Loch Ness monster and the yeti."
+    - Could the snake search for these?
+    - Or could the player?
 - cytopathologist
 - daguerreotypist
 - ecotoxicologist
