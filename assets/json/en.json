@@ -11,6 +11,7 @@
             "demist",
             "gist",
             "nudist",
+            "obstructionist",
             "persist",
             "plenist",
             "purist",
@@ -155,6 +156,20 @@
         "outro": [
             "AT LEAST YOU",
             "DIED NUDE."
+        ]
+    },
+    "obstructionist": {
+        "state": "obstructionist",
+        "menuName": "OBSSSTRUCTIONISSST",
+        "definition": {
+            "word": "obstructionist",
+            "part": "ADJECTIVE",
+            "definition": "intentionally trying to stop or slow down an official process."
+        },
+        "outro": [
+            "WATCH OUT",
+            "FOR THAT",
+            "WALL."
         ]
     },
     "persist": {

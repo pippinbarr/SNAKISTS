@@ -1,6 +1,10 @@
 # Candidates
 
-Where I will list ists that I might actually use. These should at a minimum be visually prototyped, ideally for-real prototyped.
+Where I will list ists that I might actually use. These should at a minimum be visually prototyped, ideally for-real prototyped. 
+
+*Later...*
+
+Haha, you're so funny younger me. This is older me saying there is no way in fuck I'm going to visually prototype all these. I'm just going to pick the ones I think are funny and that I could do.
 
 ## Activist
 
@@ -246,7 +250,7 @@ I made a pink snake but snakes are probably already nude? I'm wondering about th
 
 "deliberately preventing the facts or full details of something from becoming known."
 
-## Obstructionist
+## **Prototyped** Obstructionist
 
 "the practice of deliberately impeding or delaying the course of legal, legislative, or other procedures."
 
@@ -322,7 +326,7 @@ See also: Feist.
 
 A possibly more clear version of *alist*? Twist the tiles and deal with the visual result? The tiles could "do the twist" while you play? Layer upon layer of bad jokes? Don't hate it... come on baby, let's do the twist?
 
-## **Prototyping** Typist
+## **Prototyped** Typist
 
 Clacking with each keypress. Snake moves on clack. Probably auto-snake so you're just driving its movement/the tick. Could pick funny texts to type I suppose?
 

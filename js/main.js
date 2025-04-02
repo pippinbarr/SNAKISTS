@@ -21,6 +21,7 @@ let config = {
     Demist,
     Gist,
     Nudist,
+    Obstructionist,
     Persist,
     Plenist,
     Purist,

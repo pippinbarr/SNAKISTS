@@ -137,6 +137,20 @@ Or whatever? Anyway, I'm pleased by how a little bit of language is at least off
 
 For now I'll leave the snake pink solely because it's funnier, but on principle it's probably the wrong move.
 
+## Obstructionist
+
+> "the practice of deliberately impeding or delaying the course of legal, legislative, or other procedures."
+
+> Could place a wall in the direction they're going at a certain point... or make wals around the apple in an inconvenient way (within reason...)
+
+### 2025-04-02
+
+The basic idea works - it builds walls just ahead of you. I have them vanishing as well for now because otherwise it'll just accumulate.
+
+There's a problem with placing the apple in a wall or the wall on the apple. So there's the possibility of things being kind of shitty.
+
+Which... I care about. So I will do more. But we're getting there.
+
 ## Persist
 
 > They aren't allowed to stop? Or they somehow persist through death? Or the game persists as a layer on top over everything else once you start it would be funny too? Just there forever? These are all GOOD IDEAS.
