@@ -23,6 +23,7 @@ class Typist extends Snake {
         };
 
         this.text = ["ALL WORK AND NO ", "PLAY MAKES JACK A ", "DULL BOY."];
+        // this.text = ["T "];
         this.lineIndex = 0;
         this.charIndex = 0;
 
@@ -37,12 +38,15 @@ class Typist extends Snake {
 
         const keys = "QWERTYUIOPASDFGHJKLZXCVBNM,.".toUpperCase().split("");
         for (let key of keys) {
+
             const apple = this.add.image(x * this.GRID_SIZE, y * this.GRID_SIZE, 'apple');
             apple.setOrigin(0, 0);
             apple.depth = -1001;
+
             const wall = this.add.image(x * this.GRID_SIZE, y * this.GRID_SIZE, 'wall');
             wall.setOrigin(0, 0);
             wall.depth = -1000;
+
             this.wallGroup.add(wall);
             this.addTextToGrid(x, y, key, this.textGroup);
             this.typewriter[key] = {
@@ -92,7 +96,7 @@ class Typist extends Snake {
     checkAppleCollision() {
         let collision = false;
         for (let apple of this.key.apples) {
-            if (this.snakeHead.x === apple.x && this.snakeHead.y === apple.y) {
+            if (apple.active && this.snakeHead.x === apple.x && this.snakeHead.y === apple.y) {
                 collision = true;
                 break;
             }
@@ -104,19 +108,22 @@ class Typist extends Snake {
             // Type the letter
             this.type();
 
-            this.apple.x = -1000;
-            this.apple.y = -1000;
-            this.apple.visible = false;
+            for (let apple of this.key.apples) {
+                apple.setVisible(false);
+                apple.setActive(false);
+            }
 
             this.snakeBitsToAdd += this.NEW_BODY_PIECES_PER_APPLE;
             this.addToScore(this.APPLE_SCORE);
 
             setTimeout(() => {
-                for (let wall of this.apple.walls) {
+                for (let wall of this.key.walls) {
                     wall.setActive(true);
                     wall.setVisible(true);
                 }
+
                 this.startAppleTimer();
+
                 this.charIndex++;
                 if (this.charIndex >= this.text[this.lineIndex].length) {
                     this.charIndex = 0;
@@ -144,17 +151,17 @@ class Typist extends Snake {
         }
         this.key = this.typewriter[char];
         const walls = this.key.walls;
+        const apples = this.key.apples;
         const position = this.key.position;
 
         for (let wall of walls) {
             wall.setVisible(false);
             wall.setActive(false);
         }
-        this.apple.x = position.x * this.GRID_SIZE;
-        this.apple.y = position.y * this.GRID_SIZE;
-
-        this.apple.visible = true;
-        this.apple.walls = walls;
+        for (let apple of apples) {
+            apple.setVisible(true);
+            apple.setActive(true);
+        }
     }
 
 
@@ -166,6 +173,11 @@ class Typist extends Snake {
         super.tick();
     }
 
+    gameOver() {
+        this.clearPage();
+        super.gameOver();
+    }
+
     type() {
         const char = this.text[this.lineIndex][this.charIndex];
         this.addTextToGrid(this.output.position.x, this.output.position.y, char);
@@ -174,47 +186,28 @@ class Typist extends Snake {
         this.output.position.x++;
 
         // Check if that's a full sentence
-        if (this.charIndex >= this.text[this.lineIndex].length) {
+        if (this.charIndex >= this.text[this.lineIndex].length - 1) {
             this.carriageReturn();
-            // this.output.index = 0;
             this.output.position.x = this.output.home.x;
         }
-
-        // Check if we need to word wrap (i.e. it's a space and the next)
-        // word will take us over the limit
-
-        // Is it a space?
-        // if (this.text[this.output.index] === " ") {
-        //     // Check the length of the next word (is there a cool way to do this??)
-        //     let length = 0;
-        //     let foundEnd = true;
-        //     for (let i = this.output.index + 1; i < this.text.length; i++) {
-        //         const char = this.text[i];
-        //         if (char !== " ") {
-        //             length++;
-        //         }
-        //         else {
-        //             foundEnd = false;
-        //             break;
-        //         }
-        //     }
-        //     console.log(length, foundEnd);
-        // }
-
-        // if (this.output.position.x >= this.output.rightMargin) {
-        //     this.carriageReturn();
-        //     this.output.position.x = this.output.home.x;
-        // }
     }
 
     carriageReturn() {
-        for (let y = 0; y < this.output.home.y; y++) {
-            for (let x = this.output.home.x; x < this.output.rightMargin; x++) {
+        for (let y = 4; y < this.output.home.y; y++) {
+            for (let x = this.output.home.x; x <= this.output.rightMargin; x++) {
                 this.textGrid[y][x].text = this.textGrid[y + 1][x].text;
             }
         }
         for (let x = this.output.home.x; x < this.output.rightMargin; x++) {
             this.textGrid[this.output.home.y][x].text = "";
+        }
+    }
+
+    clearPage() {
+        for (let y = 4; y <= this.output.home.y; y++) {
+            for (let x = this.output.home.x; x <= this.output.rightMargin; x++) {
+                this.textGrid[y][x].text = "";
+            }
         }
     }
 }

@@ -230,3 +230,7 @@ Anyway, it's pretty good.
 ### 2025-04-01
 
 Spent a bunch of time on this, actually across two days, but I have to admit defeat because I'm stuck on word wrap. Not much to say. It's nice looking? I think it works?
+
+#### 2025-04-01
+
+Fuck you, wordwrap, I'm coming for you.
