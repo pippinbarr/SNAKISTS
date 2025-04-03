@@ -35,8 +35,12 @@
                 "R=RESTART M=MENU"
             ],
             "touch": {
-                "restart": [],
-                "menu": []
+                "restart": [
+                    "RESTART"
+                ],
+                "menu": [
+                    "MENU"
+                ]
             }
         },
         "gameover": "GAME OVER",
@@ -143,6 +147,19 @@
         "outro": [
             "YOU GET",
             "THE IDEA."
+        ]
+    },
+    "miniaturist": {
+        "state": "miniaturist",
+        "menuName": "MINIATURISSST",
+        "definition": {
+            "word": "miniaturist",
+            "part": "noun",
+            "definition": "a person who makes, collects, or specializes in miniature objects."
+        },
+        "outro": [
+            "SO",
+            "SMALL."
         ]
     },
     "nudist": {

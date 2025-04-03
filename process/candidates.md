@@ -224,11 +224,11 @@ Oh it could also be a to-do list where you are striking out the items, that's no
 
 In competition with checklist.
 
-## Miniaturist
+## **Prototyped** Miniaturist
 
 "noun. an artist whose specialty is small, discrete works. a person who makes, collects, or specializes in miniature objects: a miniaturist with a collection of dollhouses."
 
-A tiny zoomed out snake
+A tiny zoomed out snake right?
 
 ## **Prototyped (as "demist")** Mist
 

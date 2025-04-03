@@ -115,6 +115,24 @@ And opening up dangerous territory what if you eat the apple and we timer-kill y
 
 How far does this go... hmmm... does actually need though.
 
+## Miniaturist
+
+> "noun. an artist whose specialty is small, discrete works. a person who makes, collects, or specializes in miniature objects: a miniaturist with a collection of dollhouses."
+
+> A tiny zoomed out snake right?
+
+### 2025-04-03
+
+Made an obvious version of this with the camera zoomed out. Had to correct a bit so you could see the instructions.
+
+Miniaturist in terms of a person who makes/paints miniatures.
+
+Also occurs to me that if it's portraiture you could make *only* the snake tiny... but that would massively fuck with the math around collisions.
+
+I think it works as is... maybe a little awkward but ultimately pretty funny? Do I need to make the movement controls visible too? And the game over? Though the game over could be a problem because of the way the snake may overlap it... mmm.
+
+COULD be worth trying for the miniature snake... but yeah it'd have some issues to be sure.
+
 ## Nudist
 
 > I made a pink snake but snakes are probably already nude? I'm wondering about the idea of the snake shedding its skin as a "more nude" snake? Constantly shedding its skin... kind of funny and is a sort of mechanic too, builds walls... or... well do you die if you hit a snake skin?

@@ -99,7 +99,7 @@ class Snake extends Phaser.Scene {
             this.handleKeyboardInput();
         }
         else {
-            this.handleTouchInput();
+            // this.handleTouchInput();
         }
     }
 
@@ -302,7 +302,7 @@ class Snake extends Phaser.Scene {
 
             this.apple.x = -1000;
             this.apple.y = -1000;
-            this.apple.visible = false;
+            this.apple.setVisible(false);
             this.startAppleTimer();
             this.snakeBitsToAdd += this.NEW_BODY_PIECES_PER_APPLE;
             this.addToScore(this.APPLE_SCORE);
@@ -435,10 +435,12 @@ class Snake extends Phaser.Scene {
                     group.add(this.textGrid[y][x]);
                 }
                 if (buttonGroup) {
-                    let sprite = buttonGroup.create(x * this.GRID_SIZE, y * this.GRID_SIZE, 'black');
-                    sprite.inputEnabled = true;
+                    let sprite = buttonGroup.create(x * this.GRID_SIZE, y * this.GRID_SIZE, 'apple');
+                    sprite.setOrigin(0, 0);
+                    sprite.setAlpha(0.001);
                     sprite.name = text;
-                    // sprite.events.onInputDown.add(callback, this);
+                    sprite.setInteractive();
+                    sprite.on('pointerdown', callback, this);
                 }
                 x++;
             }
@@ -474,6 +476,7 @@ class Snake extends Phaser.Scene {
     createApple() {
         this.apple = this.add.image(-100, -100, 'apple');
         this.apple.setOrigin(0, 0);
+        this.apple.setVisible(false);
     }
 
     createTexts() {
@@ -509,6 +512,7 @@ class Snake extends Phaser.Scene {
             this.addTextToGrid(instructionsX, instructionsY, this.strings.ui.reset.keyboard, this.textGroup);
         }
         else {
+            console.log(instructionsX, instructionsY, this.strings.ui.reset.touch.restart);
             this.addTextToGrid(instructionsX, instructionsY, this.strings.ui.reset.touch.restart, this.textGroup, this.instructionsButtonGroup, this.restart);
             this.addTextToGrid(instructionsX + 9, instructionsY, this.strings.ui.reset.touch.menu, this.textGroup, this.instructionsButtonGroup, this.gotoMenu);
         }
