@@ -151,6 +151,12 @@ There's a problem with placing the apple in a wall or the wall on the apple. So 
 
 Which... I care about. So I will do more. But we're getting there.
 
+### 2025-04-03
+
+I finished those basic problems. So now it's "fair" in the right way. As I'm noting in the in-progress commit message though, I'm not 100% sold on the comedy/aha value of the way it is right now. It may come down to a more compelling shape that gets put in the way. May need to read more about "obstructionist" but I feel like it needs to better convey that it's getting in the way, forcing you backwards... and right now it's maybe just a litte too abstract...
+
+Anyway the base case is there and it *does* work, but it's one where it feels like there's a better idea available... somewhere in the ether...
+
 ## Persist
 
 > They aren't allowed to stop? Or they somehow persist through death? Or the game persists as a layer on top over everything else once you start it would be funny too? Just there forever? These are all GOOD IDEAS.

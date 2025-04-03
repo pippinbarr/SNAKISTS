@@ -40,6 +40,11 @@ class Obstructionist extends Snake {
             if (this.next.x !== 0) {
                 const futureX = (this.snakeHead.x + this.next.x * future) / this.GRID_SIZE;
                 if (futureX > this.leftMargin && futureX < this.rightMargin) {
+                    if (this.apple.x === futureX * this.GRID_SIZE &&
+                        (this.apple.y >= this.snakeHead.y - this.GRID_SIZE && this.apple.y <= this.snakeHead.y + this.GRID_SIZE)
+                    ) {
+                        return;
+                    }
                     this.addWall(futureX * this.GRID_SIZE, this.snakeHead.y - this.GRID_SIZE);
                     this.addWall(futureX * this.GRID_SIZE, this.snakeHead.y);
                     this.addWall(futureX * this.GRID_SIZE, this.snakeHead.y + this.GRID_SIZE);
@@ -49,6 +54,11 @@ class Obstructionist extends Snake {
             else if (this.next.y !== 0) {
                 const futureY = (this.snakeHead.y + this.next.y * future) / this.GRID_SIZE;
                 if (futureY > this.topMargin && futureY < this.bottomMargin) {
+                    if (this.apple.y === futureY * this.GRID_SIZE &&
+                        (this.apple.x >= this.snakeHead.x - this.GRID_SIZE && this.apple.x <= this.snakeHead.x + this.GRID_SIZE)
+                    ) {
+                        return;
+                    }
                     this.addWall(this.snakeHead.x - this.GRID_SIZE, futureY * this.GRID_SIZE);
                     this.addWall(this.snakeHead.x, futureY * this.GRID_SIZE);
                     this.addWall(this.snakeHead.x + this.GRID_SIZE, futureY * this.GRID_SIZE);

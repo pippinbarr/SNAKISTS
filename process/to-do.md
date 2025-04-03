@@ -13,3 +13,7 @@
 - ~~Double-eat on space apple is a problem~~
 - ~~Need to check if score still being affected by carriage return (think not)~~
 - I did. Let's see. ~~Clear the text for the game over? Maybe not?~~
+
+## Bugs
+
+- Alarmist doesn't show gameover text and doesn't reset camera on death
