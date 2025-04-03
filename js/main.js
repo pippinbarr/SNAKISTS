@@ -17,6 +17,7 @@ let config = {
     Definition,
 
     Alarmist,
+    Checklist,
     Deist,
     Demist,
     Gist,

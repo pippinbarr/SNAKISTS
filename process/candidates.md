@@ -44,7 +44,7 @@ Definitely an opportunity to have an ending screen with a framed picture at the 
 
 "A behaviorist is someone who advocates or practices behaviorism, a theory that human and animal behavior is based on conditioning (mental training and the influence of habit), rather than being explained by thoughts and feelings."
 
-## Checklist
+## **Prototyped** Checklist
 
 Just "eat apple" over and over? Crossed out each time?
 

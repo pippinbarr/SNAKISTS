@@ -32,31 +32,22 @@ class Definition extends Snake {
         for (let i = 0; i < words.length; i++) {
             const word = words[i];
 
-            console.log(line);
-            console.log(word);
-            console.log(line.length + word.length, maxWidth);
             // Check how this word fits for wrapping
             if (line.length + word.length < maxWidth) {
-                console.log("Fit on line.");
                 // This word fits on the line so add it
                 line = line + word + " ";
             }
             else {
-                console.log("Did not fit, add line to array...")
                 // This word would take it over the limit
                 // So add the line
                 text.push(line);
                 text.push("");
-                console.log("Reset line")
                 line = "";
-                console.log("Go back and try again")
                 // Repeat this iteration
                 i--;
             }
         }
         text.push(line);
-
-        console.log(text.length);
 
         this.addTextToGrid(2, 3, text);
 

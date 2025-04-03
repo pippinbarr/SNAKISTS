@@ -12,6 +12,18 @@ In the continuing "don't write it all in the journal" mode, I'm going to try out
 
 This is a funny one... a worried game that of course makes things worse the more it warns you. A pretty easy prototype that I'm happy with. Not a ton to report other than some performance concerns about my approach that... seem fine. Maybe not on mobile? Could be worth testing.
 
+## Checklist
+
+> "a list of items required, things to be done, or points to be considered, used as a reminder."
+
+### 2025-04-03
+
+Pursuing the idea of a series of things to do ended by "die" to win the game (so not Game over in the case? Or actually still game over but in a good way)
+
+Prototyped that and it is pretty good! But maybe "die" should be ended at the end. That's a comic moment. Why am I thinking so much in terms of comic moments?
+
+Yeah that's better.
+
 ## Deist
 
 > Because the definition I read specifically presents this as believe in a *non-interventionist god* (hi Nick Cave) I wonder if there's some juice to just having this be a Snake with no controls that moves across the screen (logically) and then hits the wall (dies).

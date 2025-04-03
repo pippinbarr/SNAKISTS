@@ -6,6 +6,7 @@
     "ui": {
         "games": [
             "alarmist",
+            "checklist",
             "deist",
             "delist",
             "demist",
@@ -96,6 +97,50 @@
         "outro": [
             "TOLD YOU SO."
         ]
+    },
+    "checklist": {
+        "state": "checklist",
+        "menuName": "CHECKLISSST",
+        "definition": {
+            "word": "checklist",
+            "part": "noun",
+            "definition": "a list of items required, things to be done, or points to be considered, used as a reminder."
+        },
+        "items": [
+            {
+                "text": "EAT AN APPLE",
+                "apples": 1
+            },
+            {
+                "text": "EAT ANOTHER APPLE",
+                "apples": 2
+            },
+            {
+                "text": "SCORE 50 POINTS",
+                "apples": 5
+            },
+            {
+                "text": "10 MORE APPLES",
+                "apples": 15
+            },
+            {
+                "text": "GET 250 POINTS",
+                "apples": 25
+            }
+        ],
+        "die": {
+            "text": "DIE",
+            "die": true
+        },
+        "outro": {
+            "success": [
+                "GOOD JOB."
+            ],
+            "failure": [
+                "MAYBE",
+                "TOMORROW."
+            ]
+        }
     },
     "deist": {
         "state": "deist",
