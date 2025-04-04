@@ -127,6 +127,24 @@ And opening up dangerous territory what if you eat the apple and we timer-kill y
 
 How far does this go... hmmm... does actually need though.
 
+## Heist
+
+> Just because heists are so game-like it would be fun to at least try to do this? Snake "breaks into" somewhere (how?? Eats the apple door?) Then in a confined space eats a bunch of green apples (money???) and then escapes... somehow? And little police walls come to chase you with sirens blaring???
+
+### 2025-04-03
+
+Sat here thinking about this for a while and I find the police walls kind of awkward/not useful. I'm not seeing how you would communicate what they are and they just sound like a drag.
+
+HOWEVER, I feel like the core of a heist is that kind of planning idea? So I started thinking maybe it's all about the shape of the map, and making it a challenge to plan your route into the "bank" and its perhaps multiple caches of money... and maybe your body extends the whole time so you're worried most of all about your own body and planning around your body? Or not... I mean I think it's worth thinking about.
+
+To begin with just a way to map out the walls and the money locations with a standard array of strings.
+
+### 2025-04-04
+
+Got it kind of done in the end. I think it works as a concept. There's a weird doomed heist thing where you can block your passage early on but I think that makes sense? 
+
+Overall I think it's solid.
+
 ## Miniaturist
 
 > "noun. an artist whose specialty is small, discrete works. a person who makes, collects, or specializes in miniature objects: a miniaturist with a collection of dollhouses."

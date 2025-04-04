@@ -10,6 +10,9 @@ class Snake extends Phaser.Scene {
         this.GRID_SIZE = 20;
         this.NUM_ROWS = 0;
         this.NUM_COLS = 0;
+        this.NUM_ROWS = HEIGHT / this.GRID_SIZE;
+        this.NUM_COLS = WIDTH / this.GRID_SIZE;
+
         this.FONT_SIZE = 20;
         this.SNAKE_START_LENGTH = 4;
         this.SNAKE_START_X = 11;
@@ -53,9 +56,8 @@ class Snake extends Phaser.Scene {
         this.textGrid = [];
         this.dead = false;
         this.inputEnabled = true;
+        this.gameIsOver = false;
 
-        this.NUM_ROWS = HEIGHT / this.GRID_SIZE;
-        this.NUM_COLS = WIDTH / this.GRID_SIZE;
         this.width = this.GRID_SIZE * this.NUM_COLS;
 
 
@@ -128,6 +130,9 @@ class Snake extends Phaser.Scene {
 
 
     gameOver() {
+        if (this.gameIsOver) return;
+
+        this.gameIsOver = true;
         this.setGameOverText(this.strings.ui.gameover, "", this.score + ` ${this.strings.ui.points}`, "", "");
 
         // this.gameOverInstructionsTimeout = setTimeout(() => {

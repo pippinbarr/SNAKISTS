@@ -198,7 +198,7 @@ The idea of a total distillation of Snake even more than it already is. A presen
 
 This almost functions as a meta-joke about the whole Snake series (and my work in general), that you engage enough to "get it" and probably move on. Gist games. Hehe.
 
-## Heist
+## **Prototyped** Heist
 
 Just because heists are so game-like it would be fun to at least try to do this? Snake "breaks into" somewhere (how?? Eats the apple door?) Then in a confined space eats a bunch of green apples (money???) and then escapes... somehow? And little police walls come to chase you with sirens blaring???
 

@@ -21,6 +21,7 @@ let config = {
     Deist,
     Demist,
     Gist,
+    Heist,
     Miniaturist,
     Nudist,
     Obstructionist,

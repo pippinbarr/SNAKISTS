@@ -11,6 +11,7 @@
             "delist",
             "demist",
             "gist",
+            "heist",
             "nudist",
             "obstructionist",
             "persist",
@@ -193,6 +194,26 @@
             "YOU GET",
             "THE IDEA."
         ]
+    },
+    "heist": {
+        "state": "heist",
+        "menuName": "HEISSST",
+        "definition": {
+            "word": "heist",
+            "part": "noun",
+            "definition": "A heist is a robbery or burglary, especially from an institution such as a bank or museum."
+        },
+        "outro": {
+            "died": [
+                "HEIST",
+                "GONE",
+                "WRONG"
+            ],
+            "escaped": [
+                "YOU GOT",
+                "AWAY WITH"
+            ]
+        }
     },
     "miniaturist": {
         "state": "miniaturist",
