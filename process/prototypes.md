@@ -205,6 +205,22 @@ I finished those basic problems. So now it's "fair" in the right way. As I'm not
 
 Anyway the base case is there and it *does* work, but it's one where it feels like there's a better idea available... somewhere in the ether...
 
+## Onanist
+
+> Masturbation x Snake. Masturbating a Snake like it's a penis? Yes yes yes.
+
+### 2025-04-07
+
+Ah yes, my birthday is the day I would prototyping a snake masturbation game.
+
+My thought is: small snake. Move it left and right (more or less arbitrarily). It grows a couple of times (with or without an apple? Funnier without?). And after a while it dies (orgasms). Neat and tidy.
+
+...
+
+Well, this has come along pretty well. The "game feel" is about right. In making it I realized that I would want to make walls move around the snake rather than have the snake move, so it's a pretty big departure from standard snake, but not unreasonable I think.
+
+So you can stroke the walls along the snake's body, and it gets bigger, and eventually it will die/orgasm. I'm having some trouble with trying to implement the snake shrinking if you don't keep going... which does feel important, so I do need to crack it. Mostly I think I've just let the implementation get kind of wonky and need to re-look at it. She'll be right. Won't she? I'll come back to it as the school bus is on its way.
+
 ## Persist
 
 > They aren't allowed to stop? Or they somehow persist through death? Or the game persists as a layer on top over everything else once you start it would be funny too? Just there forever? These are all GOOD IDEAS.

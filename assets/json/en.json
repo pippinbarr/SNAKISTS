@@ -14,6 +14,7 @@
             "heist",
             "nudist",
             "obstructionist",
+            "onanist",
             "persist",
             "plenist",
             "purist",
@@ -253,6 +254,19 @@
             "WATCH OUT",
             "FOR THAT",
             "WALL."
+        ]
+    },
+    "onanist": {
+        "state": "onanist",
+        "menuName": "ONANISSST",
+        "definition": {
+            "word": "onanist",
+            "part": "NOUN",
+            "definition": "someone who practices coitus interruptus or masturbation."
+        },
+        "outro": [
+            "IT WAS ONLY",
+            "A LITTLE DEATH"
         ]
     },
     "persist": {

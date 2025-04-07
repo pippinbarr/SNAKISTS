@@ -216,7 +216,7 @@ Here the core idea would be a text-only presentation of the game, with the "poet
 
 I'm imagining a quiz setup where the snake eats an apple to answer (like red apple versus blue apple for A or B); and then the questions are about laws pertaining to snakes...? Hehe.
 
-## List
+## Superceded by checklist ~~List~~
 
 Visually I can imagine a series of snakes on rows (maybe starting next to bullet points actually) so that they look like a list. I think that's enough of a gag already, but it would need some more development I suppose... unclear what the end game is there?
 
@@ -260,7 +260,7 @@ Could place a wall in the direction they're going at a certain point... or make 
 
 I'm not really convinced, but some kind of poetry-writing mechanics folded into Snake is not totally hateable... maybe just multiple-choice apples that construct a poem? And the poem is an ode to snakes or apples or walls? Ehehehe, okay that's not terrible.
 
-## Onanist
+## **Prototyping** Onanist
 
 Masturbation x Snake. Masturbating a Snake like it's a penis? Yes yes yes.
 
@@ -303,6 +303,8 @@ Most obvious starting point is that the snake *resists* the player's attempt to 
 Person kind of managing the church, keeping the candles lit. That as a reference to the Madrid game is kind of nice. You "eat" the candles to light them up again, then they dwindle and go out?
 
 Maybe it's too thin. The idea of a layout like a birdseye of a church is kind of nice? Pews. Lots of stuff to crash into?
+
+Feels like I got at this architectural idea with "heist"
 
 ## **Prototyped** Sadist
 

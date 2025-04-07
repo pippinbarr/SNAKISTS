@@ -1,5 +1,5 @@
 const DEBUG = false;
-const START_SCENE = "menu";
+const START_SCENE = "onanist";
 const WIDTH = 480;
 const HEIGHT = 640;
 const LANG = "en";
@@ -25,6 +25,7 @@ let config = {
     Miniaturist,
     Nudist,
     Obstructionist,
+    Onanist,
     Persist,
     Plenist,
     Purist,
