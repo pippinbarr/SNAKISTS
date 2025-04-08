@@ -79,6 +79,10 @@ class Onanist extends Snake {
         super.tick();
     }
 
+    addSnakeBits() {
+
+    }
+
     tickArousal() {
         this.arousal -= this.arousalDrop;
 

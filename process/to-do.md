@@ -17,6 +17,11 @@
 
 - Add menu button/keys if needed
 
+## Checklist
+
+- Add "get moving"
+- Add "flirt with death"? (i.e. get within one tile of a wall or yourself?) Maybe a bit overwrought
+
 ## Typist
 
 - ~~Double-eat on space apple is a problem~~

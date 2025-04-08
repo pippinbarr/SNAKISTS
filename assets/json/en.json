@@ -7,6 +7,7 @@
         "games": [
             "alarmist",
             "checklist",
+            "conformist",
             "deist",
             "delist",
             "demist",
@@ -141,6 +142,25 @@
             "failure": [
                 "MAYBE",
                 "TOMORROW."
+            ]
+        }
+    },
+    "conformist": {
+        "state": "conformist",
+        "menuName": "CONFORMISSST",
+        "definition": {
+            "word": "conformist",
+            "part": "noun",
+            "definition": "a person who conforms to accepted behavior or established practices."
+        },
+        "outro": {
+            "success": [
+                "CONFORMING",
+                "CONFIRMED."
+            ],
+            "failure": [
+                "YOU MUST",
+                "CONFORM."
             ]
         }
     },

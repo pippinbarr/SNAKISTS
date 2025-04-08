@@ -113,7 +113,7 @@ class Snake extends Phaser.Scene {
             return;
         }
 
-        // this.addSnakeBits();
+        this.addSnakeBits();
 
         if (!this.dead) {
             this.updateSnakePosition();

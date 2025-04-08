@@ -3,7 +3,6 @@ class Checklist extends Snake {
         super({
             key: "checklist"
         });
-        console.log("Checklist()")
     }
 
     create() {

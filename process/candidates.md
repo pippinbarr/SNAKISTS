@@ -16,6 +16,8 @@ Of those the game itself being activist makes the most sense to me? Could it be 
 
 Ask Kevin? (Asked.)
 
+Kevin had a pretty cool response around the nature of activism and representing multiple snakes (activists) getting in each others' way. But mostly it emphasized to me how it's probably going to be very hard to do something that works in any meaningful way without going *really* far into redesign.
+
 ## **Prototyped** Alarmist
 
 "someone who is considered to be exaggerating a danger and so causing needless worry or panic."
@@ -27,6 +29,8 @@ The game panics as you get closer to walls. Increasing screen shake and messages
 So an animist believes that things have souls, including inanimate objects (so I suppose the walls would have souls too). My main design though in ists was to have it so that on "dying" both the snake and apple would have a soul (a lowered-alpha copy) leave their body and go upwards. Funny to think of that happening on the tick actually.
 
 I do like this image a lot... I'm not sure how much I think it really captures what an Animist believes in though so I'll have to look further. I'd like to shoehorn this idea in there somewhere anyway.
+
+I think this is probably too similar to "dualism" from SNAKISMS.
 
 ## Arsonist
 
@@ -64,11 +68,13 @@ If one Snake dies does the other carry on, or would it be proof they couldn't ..
 
 (This wouldn't work on mobile because of the controls necessary.)
 
-## Conformist
+## **Prototyped** Conformist
 
 "a person who conforms to accepted behavior or established practices."
 
 Map out where the Snake is meant to go as a path and if they diverge they die (they need to be a conformist). Actually kind of horrible to imagine relative to the apples though? Maybe we could just map out a convoluted non-overlapping path that covers the whole space and eventually you'd hit your own tail? Could acknowledge anybody who pulls that off? How would you indicate the full path? Or just the next part of the path?
+
+Or maybe just a loop and the apple recurs on the same spot? Until you die... yeah. Yeah.
 
 ## Copyist
 
@@ -298,7 +304,7 @@ Just regular snake. I like this one. It's fun. And especially if I'm including d
 
 Most obvious starting point is that the snake *resists* the player's attempt to control it. Not pure fatalism (as in SNAKISMS) but more a push and pull with the player's input.
 
-## Sacrist
+## ~~Sacrist~~
 
 Person kind of managing the church, keeping the candles lit. That as a reference to the Madrid game is kind of nice. You "eat" the candles to light them up again, then they dwindle and go out?
 

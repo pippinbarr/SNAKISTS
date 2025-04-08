@@ -24,6 +24,18 @@ Prototyped that and it is pretty good! But maybe "die" should be ended at the en
 
 Yeah that's better.
 
+## Conformist
+
+> "a person who conforms to accepted behavior or established practices."
+
+> Map out where the Snake is meant to go as a path and if they diverge they die (they need to be a conformist). Actually kind of horrible to imagine relative to the apples though? Maybe we could just map out a convoluted non-overlapping path that covers the whole space and eventually you'd hit your own tail? Could acknowledge anybody who pulls that off? How would you indicate the full path? Or just the next part of the path?
+
+> Or maybe just a loop and the apple recurs on the same spot? Until you die... yeah. Yeah.
+
+### 2025-04-08
+
+Got this done pretty cleanly in the end. A nice green track you just go around until you die. I think somehow even though it's formally equivalent to being surrounded by walls it's funnier if you die because you go onto what appears to be empty space.
+
 ## Deist
 
 > Because the definition I read specifically presents this as believe in a *non-interventionist god* (hi Nick Cave) I wonder if there's some juice to just having this be a Snake with no controls that moves across the screen (logically) and then hits the wall (dies).
