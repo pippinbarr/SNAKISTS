@@ -25,6 +25,7 @@ let config = {
     Gist,
     Heist,
     Miniaturist,
+    Narcissist,
     Nudist,
     Obstructionist,
     Onanist,

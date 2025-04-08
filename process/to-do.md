@@ -8,6 +8,15 @@
 
 - **Did do this** ~~Should I pop definitions in somewhere, maybe after you select a level you see a definition, and then the game? Some of the ists are pretty confusing and I don't think it's all that interesting in this case to say the game defines them?~~
 
+## Still of interest
+
+- Absurdist
+- Imagist
+- Elegist
+- Narcissist (replica of Narcissm)
+- Subsist
+- A musical one?
+
 ## Testing
 
 - Play them all and note down issues/changes

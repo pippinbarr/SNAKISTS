@@ -14,6 +14,7 @@
             "demist",
             "gist",
             "heist",
+            "narcissist",
             "nudist",
             "obstructionist",
             "onanist",
@@ -273,6 +274,26 @@
         "outro": [
             "AT LEAST YOU",
             "DIED NUDE."
+        ]
+    },
+    "narcissist": {
+        "state": "narcissist",
+        "menuName": "NARCISSSSSSISSST",
+        "definition": {
+            "word": "narcissist",
+            "part": "noun",
+            "definition": "a person who has an excessive interest in or admiration of themselves."
+        },
+        "outro": [
+            "IF YOUR EMAIL",
+            "CLIENT DID NOT",
+            "OPEN AUTOMATICALLY",
+            "PLEASE EMAIL",
+            "PIPPIN.BARR",
+            "AT GMAIL.COM",
+            "TO EXPRESS YOUR",
+            "ADMIRATION FOR",
+            "MY WORK."
         ]
     },
     "obstructionist": {

@@ -185,6 +185,14 @@ I think it works as is... maybe a little awkward but ultimately pretty funny? Do
 
 COULD be worth trying for the miniature snake... but yeah it'd have some issues to be sure.
 
+## Narcissist
+
+> It's kind of pitch perfect to do this again. Doubling down on narcissism is what a narcissist should do. I wonder if it's worth including a bluesky posting option as well as email? Both? Tell them to enable popups?
+
+### 2025-04-08
+
+Did what I said I'd do. It's nice having a text to explain the email in case it doesn't trigger.
+
 ## Nudist
 
 > I made a pink snake but snakes are probably already nude? I'm wondering about the idea of the snake shedding its skin as a "more nude" snake? Constantly shedding its skin... kind of funny and is a sort of mechanic too, builds walls... or... well do you die if you hit a snake skin?

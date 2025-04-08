@@ -244,7 +244,7 @@ Just the ol' fog of war applied to Snake. Probably want a more interesting terra
 
 Most basically leaving a pale blue trail because the snake is moist. But I dunno if that has much to recommend it?
 
-## Narcissist
+## **Prototyped** Narcissist
 
 It's kind of pitch perfect to do this again. Doubling down on narcissism is what a narcissist should do. I wonder if it's worth including a bluesky posting option as well as email? Both? Tell them to enable popups?
 
