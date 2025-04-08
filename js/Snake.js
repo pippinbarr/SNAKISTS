@@ -509,13 +509,15 @@ class Snake extends Phaser.Scene {
         let instructionsY = this.NUM_ROWS - 2;
         let instructionsX = 2;
 
+        this.instructionsGroup = this.add.group();
+
         if (this.sys.game.device.os.desktop) {
-            this.addTextToGrid(instructionsX, instructionsY, this.strings.ui.reset.keyboard, this.textGroup);
+            this.addTextToGrid(instructionsX, instructionsY, this.strings.ui.reset.keyboard, this.instructionsGroup);
         }
         else {
             console.log(instructionsX, instructionsY, this.strings.ui.reset.touch.restart);
-            this.addTextToGrid(instructionsX, instructionsY, this.strings.ui.reset.touch.restart, this.textGroup, this.instructionsButtonGroup, this.restart);
-            this.addTextToGrid(instructionsX + 9, instructionsY, this.strings.ui.reset.touch.menu, this.textGroup, this.instructionsButtonGroup, this.gotoMenu);
+            this.addTextToGrid(instructionsX, instructionsY, this.strings.ui.reset.touch.restart, this.instructionsGroup, this.instructionsButtonGroup, this.restart);
+            this.addTextToGrid(instructionsX + 9, instructionsY, this.strings.ui.reset.touch.menu, this.instructionsGroup, this.instructionsButtonGroup, this.gotoMenu);
         }
     }
 

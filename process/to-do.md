@@ -45,7 +45,7 @@
 
 ## Persist
 
-- Some weirdness around restarting... feels like persist shouldn't be able to be restarted/menu'ed once it's there (should remove its ability and the indicator it can)
+- ~~Some weirdness around restarting... feels like persist shouldn't be able to be restarted/menu'ed once it's there (should remove its ability and the indicator it can)~~
 
 ## Twist
 
