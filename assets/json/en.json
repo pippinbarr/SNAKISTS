@@ -71,10 +71,12 @@
     "definition": {
         "instructions": {
             "keyboard": [
-                "RIGHT ARROW=CONTINUE"
+                "RIGHT ARROW=CONTINUE",
+                "M=MENU"
             ],
             "touch": [
-                "SWIPE RIGHT=CONTINUE"
+                "SWIPE RIGHT=CONTINUE",
+                "SWIPE LEFT=MENU"
             ]
         }
     },

@@ -515,7 +515,6 @@ class Snake extends Phaser.Scene {
             this.addTextToGrid(instructionsX, instructionsY, this.strings.ui.reset.keyboard, this.instructionsGroup);
         }
         else {
-            console.log(instructionsX, instructionsY, this.strings.ui.reset.touch.restart);
             this.addTextToGrid(instructionsX, instructionsY, this.strings.ui.reset.touch.restart, this.instructionsGroup, this.instructionsButtonGroup, this.restart);
             this.addTextToGrid(instructionsX + 9, instructionsY, this.strings.ui.reset.touch.menu, this.instructionsGroup, this.instructionsButtonGroup, this.gotoMenu);
         }

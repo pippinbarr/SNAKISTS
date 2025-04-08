@@ -78,7 +78,13 @@ class Definition extends Snake {
     }
 
     left() {
+        if (this.transitionTimer) return;
 
+        this.transitionTimer = this.time.addEvent({
+            delay: 500,
+            callback: this.gotoMenu,
+            callbackScope: this
+        });
     }
 
     right() {
