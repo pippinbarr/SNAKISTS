@@ -28,7 +28,7 @@
 
 ## Alarmist
 
-- Carefuls if you're ever next to the wall as well
+- ~~Carefuls if you're ever next to the wall as well~~
 
 ## Checklist
 

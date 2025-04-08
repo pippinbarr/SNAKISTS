@@ -45,10 +45,10 @@ class Alarmist extends Snake {
         }
     }
 
-    gameOver() {
+    die() {
         this.clearText();
         this.cameras.main.setPosition(0, 0);
-        super.gameOver();
+        super.die();
     }
 
     checkPanic() {
@@ -73,6 +73,12 @@ class Alarmist extends Snake {
                     this.panic(unit);
                     return true;
                 }
+                else if (this.snakeHead.x / this.GRID_SIZE === this.WALL_LEFT + 1 || this.snakeHead.x / this.GRID_SIZE === this.WALL_RIGHT - 1 || this.snakeHead.y / this.GRID_SIZE === this.WALL_BOTTOM - 1 || this.snakeHead.y / this.GRID_SIZE === this.WALL_TOP + 1) {
+                    this.panic({
+                        threatLevel: 0.8
+                    });
+                    return true;
+                }
             }
             // Check for collision with bodyodyodyody
             for (let bodyPiece of this.snakeBodyGroup.getChildren()) {
@@ -95,6 +101,7 @@ class Alarmist extends Snake {
     panic(unit) {
         // Camera shake
         this.maxPanic = 50;
+
         const dx = Phaser.Math.FloatBetween(-this.maxPanic * unit.threatLevel, this.maxPanic * unit.threatLevel);
         const dy = Phaser.Math.FloatBetween(-this.maxPanic * unit.threatLevel, this.maxPanic * unit.threatLevel);
 
