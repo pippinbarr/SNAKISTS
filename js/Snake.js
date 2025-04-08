@@ -526,10 +526,10 @@ class Snake extends Phaser.Scene {
     createControls() {
         let controlsStrings = [];
         if (this.sys.game.device.os.desktop) {
-            controlsStrings = this.strings.ui.controls.keyboard;
+            controlsStrings = [...this.strings.ui.controls.keyboard];
         }
         else {
-            controlsStrings = this.strings.ui.controls.touch;
+            controlsStrings = [...this.strings.ui.controls.touch];
         }
 
         controlsStrings.push("SNAKE");

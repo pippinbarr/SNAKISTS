@@ -32,13 +32,23 @@ class Alarmist extends Snake {
 
         const panicking = this.checkPanic();
 
-        if (!panicking) {
-            for (let y = 2; y < this.NUM_ROWS - 2; y++) {
-                for (let x = 0; x < this.NUM_COLS; x++) {
-                    this.textGrid[y][x].text = "";
-                }
+        if (!panicking && !this.dead && !this.controlsVisible) {
+            this.clearText();
+        }
+    }
+
+    clearText() {
+        for (let y = 2; y < this.NUM_ROWS - 2; y++) {
+            for (let x = 0; x < this.NUM_COLS; x++) {
+                this.textGrid[y][x].text = "";
             }
         }
+    }
+
+    gameOver() {
+        this.clearText();
+        this.cameras.main.setPosition(0, 0);
+        super.gameOver();
     }
 
     checkPanic() {

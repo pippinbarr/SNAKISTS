@@ -39,6 +39,11 @@ class Checklist extends Snake {
         super.update();
     }
 
+    hideControls() {
+        super.hideControls();
+        this.checkTodo();
+    }
+
     tick() {
         super.tick();
     }

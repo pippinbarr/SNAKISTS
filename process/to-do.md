@@ -2,34 +2,54 @@
 
 ## Design
 
-- Do not forget to review the #interesting tag in the [ists](./ists.md) document
+- ~~Do not forget to review the #interesting tag in the [ists](./ists.md) document~~
 
 ## UI thinking
 
 - **Did do this** ~~Should I pop definitions in somewhere, maybe after you select a level you see a definition, and then the game? Some of the ists are pretty confusing and I don't think it's all that interesting in this case to say the game defines them?~~
 
-## Still of interest
-
-- Absurdist
-- Imagist
-- Elegist
-- Narcissist (replica of Narcissm)
-- Subsist
-- A musical one?
-
 ## Testing
 
 - Play them all and note down issues/changes
+- Read through all texts
+    - Copyist bad outro
+    - Demist no outro
+    - Gist needs no-apple outro (e.g. you don't get the gist?)
+    - Typist should end on "REDRUM"
 - Send to J+M when done
+
+## General
+
+- Question of points - does every one need it? e.g. Onanist?
 
 ## Definition
 
 - Add menu button/keys if needed
 
+## Alarmist
+
+- Carefuls if you're ever next to the wall as well
+
 ## Checklist
 
-- Add "get moving"
-- Add "flirt with death"? (i.e. get within one tile of a wall or yourself?) Maybe a bit overwrought
+- **Yeah that seems bad somehow** ~~Add "flirt with death"? (i.e. get within one tile of a wall or yourself?) Maybe a bit overwrought~~
+- ~~Add "get moving"~~
+
+## Nudist
+
+- Implement skin shedding version
+
+## Obstructionist
+
+- Errors after quit (presumably a timer, presumably a setTimeout instead of a Phaser.Timer)
+
+## Persist
+
+- Some weirdness around restarting... feels like persist shouldn't be able to be restarted/menu'ed once it's there (should remove its ability and the indicator it can)
+
+## Twist
+
+- Feels underwhelming... could we rotate more stuff? Groups around their centre? The canvas?
 
 ## Typist
 
@@ -39,4 +59,6 @@
 
 ## Bugs
 
-- Alarmist doesn't show gameover text and doesn't reset camera on death
+- ~~Something weird happens to controls text over time "ARROWS CONTROL SNAKE SNAKE SNAKE" some kind of additive issue~~
+- **Struggling to reproduce right now?** ~~Apple randoms around instead of being stable in Deist~~
+- ~~Alarmist doesn't show gameover text and doesn't reset camera on death and doesn't have controls text visible (sounds pretty interrelated)~~

@@ -113,6 +113,10 @@
         },
         "items": [
             {
+                "text": "START THE DAY",
+                "apples": 0
+            },
+            {
                 "text": "EAT AN APPLE",
                 "apples": 1
             },

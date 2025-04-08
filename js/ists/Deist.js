@@ -51,4 +51,13 @@ class Deist extends Snake {
         super.setGameOverText(gameOverString, spacing, gameOverPointsString, spacing2, gameOverResultString);
         this.hideControls();
     }
+
+    startAppleTimer() {
+        super.startAppleTimer();
+        // console.log("Start apple timer");
+    }
+    repositionApple(apple) {
+        super.repositionApple(apple);
+        // console.log("Repos");
+    }
 }
