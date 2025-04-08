@@ -19,6 +19,7 @@ let config = {
     Alarmist,
     Checklist,
     Conformist,
+    Copyist,
     Deist,
     Demist,
     Gist,

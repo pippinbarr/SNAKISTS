@@ -36,6 +36,16 @@ Yeah that's better.
 
 Got this done pretty cleanly in the end. A nice green track you just go around until you die. I think somehow even though it's formally equivalent to being surrounded by walls it's funnier if you die because you go onto what appears to be empty space.
 
+## Copyist
+
+> A person who makes copies is fun. If the Snake is a person who makes copies (well they kind of already copy units of their own body in a sense) then what would they copy? Themselves? The apple? The walls? Not many options!
+
+### 2025-04-08
+
+I went with making a copy of itself so there's a sort of Tux and Fanny Snake thing happening except they die when colliding with each other. Unsure about how to handle dead-snake collisions? But it sort of seems fair that dead snakes would kill you too? Unsure?
+
+Anyway there's a working prototype in place that "does the trick". Is that bad? That it just "does the trick"? Should I be aiming higher?
+
 ## Deist
 
 > Because the definition I read specifically presents this as believe in a *non-interventionist god* (hi Nick Cave) I wonder if there's some juice to just having this be a Snake with no controls that moves across the screen (logically) and then hits the wall (dies).

@@ -8,6 +8,7 @@
             "alarmist",
             "checklist",
             "conformist",
+            "copyist",
             "deist",
             "delist",
             "demist",
@@ -163,6 +164,18 @@
                 "CONFORM."
             ]
         }
+    },
+    "copyist": {
+        "state": "copyist",
+        "menuName": "COPYISSST",
+        "definition": {
+            "word": "copyist",
+            "part": "noun",
+            "definition": "One who makes copies."
+        },
+        "outro": [
+            "COPYCAT."
+        ]
     },
     "deist": {
         "state": "deist",

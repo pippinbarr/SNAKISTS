@@ -76,7 +76,7 @@ Map out where the Snake is meant to go as a path and if they diverge they die (t
 
 Or maybe just a loop and the apple recurs on the same spot? Until you die... yeah. Yeah.
 
-## Copyist
+## **Prototyped** Copyist
 
 A person who makes copies is fun. If the Snake is a person who makes copies (well they kind of already copy units of their own body in a sense) then what would they copy? Themselves? The apple? The walls? Not many options!
 
