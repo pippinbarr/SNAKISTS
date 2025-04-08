@@ -221,6 +221,16 @@ Well, this has come along pretty well. The "game feel" is about right. In making
 
 So you can stroke the walls along the snake's body, and it gets bigger, and eventually it will die/orgasm. I'm having some trouble with trying to implement the snake shrinking if you don't keep going... which does feel important, so I do need to crack it. Mostly I think I've just let the implementation get kind of wonky and need to re-look at it. She'll be right. Won't she? I'll come back to it as the school bus is on its way.
 
+### 2025-04-08
+
+In one of the great programming moments I masturbated the snake until its head hit the opposite wall and it died. That is... really fucking funny. But I suspect it's not the right concept? But damn it's funny to do.
+
+Intrigued by how the snake's death sound really does sound a bit like an orgasming crying out now. This is pleasingly weird.
+
+Working on rhythm and speed and tempo stuff with the numbers.
+
+I think it's largely there. Some testing perhaps, but it's pretty well on point now.
+
 ## Persist
 
 > They aren't allowed to stop? Or they somehow persist through death? Or the game persists as a layer on top over everything else once you start it would be funny too? Just there forever? These are all GOOD IDEAS.

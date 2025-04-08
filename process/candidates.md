@@ -260,7 +260,7 @@ Could place a wall in the direction they're going at a certain point... or make 
 
 I'm not really convinced, but some kind of poetry-writing mechanics folded into Snake is not totally hateable... maybe just multiple-choice apples that construct a poem? And the poem is an ode to snakes or apples or walls? Ehehehe, okay that's not terrible.
 
-## **Prototyping** Onanist
+## **Prototyped** Onanist
 
 Masturbation x Snake. Masturbating a Snake like it's a penis? Yes yes yes.
 
