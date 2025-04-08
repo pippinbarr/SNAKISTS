@@ -41,7 +41,7 @@
 
 ## Obstructionist
 
-- Errors after quit (presumably a timer, presumably a setTimeout instead of a Phaser.Timer)
+- ~~Errors after quit (presumably a timer, presumably a setTimeout instead of a Phaser.Timer)~~
 
 ## Persist
 

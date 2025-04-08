@@ -77,9 +77,13 @@ class Obstructionist extends Snake {
         wall.setDepth(-1000);
         this.wallGroup.add(wall);
 
-        setTimeout(() => {
-            this.wallGroup.remove(wall, true, true);
-            wall.destroy();
-        }, this.SNAKE_TICK * 1000 * 50)
+        this.wallRemoval = this.time.addEvent({
+            delay: this.SNAKE_TICK * 1000 * 50,
+            callback: () => {
+                this.wallGroup.remove(wall, true, true);
+                wall.destroy();
+            },
+            callbackScope: this
+        });
     }
 }

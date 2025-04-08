@@ -60,9 +60,13 @@ class Copyist extends Snake {
             const x = snake[0].x;
             const y = snake[0].y;
 
-            setTimeout(() => {
-                this.createSnake(x, y);
-            }, this.SNAKE_TICK * 1000);
+            this.time.addEvent({
+                delay: this.SNAKE_TICK * 1000,
+                callback: () => {
+                    this.createSnake(x, y);
+                },
+                callbackScope: this
+            });
 
             this.addToScore(this.APPLE_SCORE);
 

@@ -84,10 +84,15 @@ class Definition extends Snake {
     right() {
         if (this.transitionTimer) return;
         this.appleSFX.play();
-        this.transitionTimer = setTimeout(() => {
-            const gameState = this.config.state;
-            this.scene.start(gameState, this.config);
-        }, 500);
+
+        this.transitionTimer = this.time.addEvent({
+            delay: 500,
+            callback: () => {
+                const gameState = this.config.state;
+                this.scene.start(gameState, this.config);
+            },
+            callbackScope: this
+        });
     }
 
     up() {

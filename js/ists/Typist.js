@@ -116,28 +116,35 @@ class Typist extends Snake {
             this.snakeBitsToAdd += this.NEW_BODY_PIECES_PER_APPLE;
             this.addToScore(this.APPLE_SCORE);
 
-            setTimeout(() => {
-                for (let wall of this.key.walls) {
-                    wall.setActive(true);
-                    wall.setVisible(true);
-                }
 
-                this.startAppleTimer();
-
-                this.charIndex++;
-                if (this.charIndex >= this.text[this.lineIndex].length) {
-                    this.charIndex = 0;
-                    this.lineIndex++;
-                    if (this.lineIndex >= this.text.length) {
-                        this.lineIndex = 0;
-                    }
-                }
-            }, this.SNAKE_TICK * 1000);
+            this.time.addEvent({
+                delay: this.SNAKE_TICK * 1000,
+                callback: this.postType,
+                callbackScope: this
+            });
 
             return true;
         }
 
         return false;
+    }
+
+    postType() {
+        for (let wall of this.key.walls) {
+            wall.setActive(true);
+            wall.setVisible(true);
+        }
+
+        this.startAppleTimer();
+
+        this.charIndex++;
+        if (this.charIndex >= this.text[this.lineIndex].length) {
+            this.charIndex = 0;
+            this.lineIndex++;
+            if (this.lineIndex >= this.text.length) {
+                this.lineIndex = 0;
+            }
+        }
     }
 
     repositionApple() {

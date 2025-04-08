@@ -134,10 +134,6 @@ class Snake extends Phaser.Scene {
 
         this.gameIsOver = true;
         this.setGameOverText(this.strings.ui.gameover, "", this.score + ` ${this.strings.ui.points}`, "", "");
-
-        // this.gameOverInstructionsTimeout = setTimeout(() => {
-        // this.addTextToGrid(2, this.NUM_ROWS - 2, ["BOO BOO"])
-        // }, 1000);
     }
 
     gotoMenu() {
