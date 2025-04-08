@@ -49,7 +49,7 @@
 
 ## Twist
 
-- Feels underwhelming... could we rotate more stuff? Groups around their centre? The canvas?
+- **Rotating the camera feels like a bit of a... game changer?** ~~Feels underwhelming... could we rotate more stuff? Groups around their centre? The canvas?~~
 
 ## Typist
 

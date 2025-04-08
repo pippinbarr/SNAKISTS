@@ -49,5 +49,7 @@ class Twist extends Snake {
         this.textGroup.children.each((char) => {
             char.rotation += delta;
         });
+
+        this.cameras.main.rotation -= delta;
     }
 }
