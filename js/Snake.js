@@ -100,9 +100,6 @@ class Snake extends Phaser.Scene {
         if (this.sys.game.device.os.desktop) {
             this.handleKeyboardInput();
         }
-        else {
-            // this.handleTouchInput();
-        }
     }
 
     tick() {
@@ -191,6 +188,10 @@ class Snake extends Phaser.Scene {
     handleTouchInput(dx, dy) {
         if (this.dead) return;
         if (!this.inputEnabled) return;
+        // Check for reasonable input size
+        if (Math.abs(dx) < 50 && Math.abs(dy) < 50) {
+            return;
+        }
 
         if (this.controlsVisible) {
             this.hideControls();
@@ -554,12 +555,12 @@ class Snake extends Phaser.Scene {
             this.mKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.M);
         }
         else {
-            this.hammer = new Hammer(document, {});
-            this.hammer.get('swipe').set({ direction: Hammer.DIRECTION_ALL });
-            this.hammer.on('swipe', (e) => {
-                this.handleTouchInput(e.deltaX, e.deltaY);
+            // Mobile
+            this.input.on("pointerup", () => {
+                const dx = this.input.activePointer.upX - this.input.activePointer.downX;
+                const dy = this.input.activePointer.upY - this.input.activePointer.downY;
+                this.handleTouchInput(dx, dy);
             });
-
         }
         this.next = new Phaser.Geom.Point(0, 0);
     }
