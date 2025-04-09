@@ -10,12 +10,12 @@
 
 ## Testing
 
-- Play them all and note down issues/changes
-- Read through all texts
-    - Copyist bad outro
-    - Demist no outro
-    - Gist needs no-apple outro (e.g. you don't get the gist?)
-    - Typist should end on "REDRUM"
+- ~~Play them all and note down issues/changes~~
+- ~~Read through all texts~~
+    - ~~Copyist bad outro~~
+    - ~~Demist no outro~~
+    - ~~Gist needs no-apple outro (e.g. you don't get the gist?)~~
+    - ~~Typist should end on "REDRUM"~~
 - Send to J+M when done
 
 ## General

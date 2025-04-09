@@ -14,6 +14,8 @@ class Gist extends Snake {
     create() {
         super.create();
 
+        this.gotIt = false;
+
         this.gistPostAppleTimer = undefined;
     }
 
@@ -27,12 +29,29 @@ class Gist extends Snake {
 
     checkAppleCollision() {
         const ate = super.checkAppleCollision();
-        if (ate && !this.gistPostAppleTimer) {
-            this.gistPostAppleTimer = setTimeout(() => {
-                this.die();
-            }, 2500);
+        if (ate && !this.gotIt) {
+            this.gotIt = true;
+            this.time.addEvent({
+                delay: 2500,
+                callback: this.die,
+                callbackScope: this
+            });
             return true;
         }
         return false;
     }
+
+    setGameOverText(gameOverString, spacing, gameOverPointsString, spacing2, gameOverResultString) {
+        this.hideControls();
+        let gameOverResult;
+        if (this.gotIt) {
+            gameOverResult = this.config.outro.success;
+        }
+        else {
+            gameOverResult = this.config.outro.failure;
+        }
+        this.addTextToGrid(this.OVER_X, this.OVER_Y, [gameOverString, spacing, gameOverPointsString]);
+        this.addTextToGrid(this.OVER_X, this.OVER_Y + 4, gameOverResult);
+    }
+
 }

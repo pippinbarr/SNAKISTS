@@ -240,6 +240,8 @@ class Snake extends Phaser.Scene {
     }
 
     die() {
+        if (this.dead) return;
+
         this.hitSFX.play();
         this.dead = true;
         this.lastNext = new Phaser.Geom.Point(this.next.x, this.next.y);

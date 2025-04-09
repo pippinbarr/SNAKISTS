@@ -55,7 +55,7 @@
         "points": "POINTS"
     },
     "menu": {
-        "ist": "MENUISSST",
+        "ist": "MENUIST",
         "homepage": "pippinbarr.com",
         "instructions": {
             "keyboard": [
@@ -82,19 +82,19 @@
     },
     "snake": {
         "state": "snake",
-        "menuName": "SSSNAKISSST",
+        "menuName": "SNAKIST",
         "definition": {
             "word": "snake",
             "part": "noun",
             "definition": "Snake"
         },
         "outro": [
-            "SNAKED"
+            "SNAKED."
         ]
     },
     "alarmist": {
         "state": "alarmist",
-        "menuName": "ALARMISSST",
+        "menuName": "ALARMIST",
         "definition": {
             "word": "alarmist",
             "part": "noun",
@@ -107,7 +107,7 @@
     },
     "checklist": {
         "state": "checklist",
-        "menuName": "CHECKLISSST",
+        "menuName": "CHECKLIST",
         "definition": {
             "word": "checklist",
             "part": "noun",
@@ -155,7 +155,7 @@
     },
     "conformist": {
         "state": "conformist",
-        "menuName": "CONFORMISSST",
+        "menuName": "CONFORMIST",
         "definition": {
             "word": "conformist",
             "part": "noun",
@@ -174,19 +174,21 @@
     },
     "copyist": {
         "state": "copyist",
-        "menuName": "COPYISSST",
+        "menuName": "COPYIST",
         "definition": {
             "word": "copyist",
             "part": "noun",
             "definition": "One who makes copies."
         },
         "outro": [
-            "COPYCAT."
+            "AND THEN",
+            "THERE WERE",
+            "NONE."
         ]
     },
     "deist": {
         "state": "deist",
-        "menuName": "DEISSST",
+        "menuName": "DEIST",
         "definition": {
             "word": "deist",
             "part": "noun",
@@ -194,51 +196,59 @@
         },
         "controls": [
             "DO NOT",
-            "INTERVENE"
+            "INTERVENE."
         ],
         "outro": [
-            "WELL THAT",
+            "WELL, THAT",
             "HAPPENED."
         ]
     },
     "delist": {
         "state": "menu",
-        "menuName": "DELISSST",
+        "menuName": "DELIST",
         "definition": {
             "word": "delist",
             "part": "verb",
-            "definition": "Remove from a list or category"
+            "definition": "Remove from a list or category."
         },
         "outro": []
     },
     "demist": {
         "state": "demist",
-        "menuName": "DEMISSST",
+        "menuName": "DEMIST",
         "definition": {
             "word": "demist",
             "part": "verb",
-            "definition": "To remove condensed moisture from"
+            "definition": "To remove condensed moisture from."
         },
         "outro": [
-            ""
+            "WE'RE GOING",
+            "TO NEED A BIGGER",
+            "SQUEEGEE."
         ]
     },
     "gist": {
         "state": "gist",
-        "menuName": "GISSST",
+        "menuName": "GIST",
         "definition": {
             "word": "gist",
             "part": "noun",
-            "definition": "The substance or essence of a speech or text"
+            "definition": "The substance or essence of a speech or text."
         },
-        "outro": [
-            "YOU GET",
-            "THE IDEA."
-        ]
+        "outro": {
+            "success": [
+                "YOU GET",
+                "THE IDEA."
+            ],
+            "failure": [
+                "I DON'T THINK",
+                "YOU QUITE GET IT."
+            ]
+        }
     },
     "heist": {
         "state": "heist",
-        "menuName": "HEISSST",
+        "menuName": "HEIST",
         "definition": {
             "word": "heist",
             "part": "noun",
@@ -248,7 +258,7 @@
             "died": [
                 "HEIST",
                 "GONE",
-                "WRONG"
+                "WRONG."
             ],
             "escaped": [
                 "YOU GOT",
@@ -258,7 +268,7 @@
     },
     "miniaturist": {
         "state": "miniaturist",
-        "menuName": "MINIATURISSST",
+        "menuName": "MINIATURIST",
         "definition": {
             "word": "miniaturist",
             "part": "noun",
@@ -271,7 +281,7 @@
     },
     "nudist": {
         "state": "nudist",
-        "menuName": "NUDISSST",
+        "menuName": "NUDIST",
         "definition": {
             "word": "nudist",
             "part": "noun",
@@ -284,7 +294,7 @@
     },
     "narcissist": {
         "state": "narcissist",
-        "menuName": "NARCISSSSSSISSST",
+        "menuName": "NARCISSIST",
         "definition": {
             "word": "narcissist",
             "part": "noun",
@@ -304,7 +314,7 @@
     },
     "obstructionist": {
         "state": "obstructionist",
-        "menuName": "OBSSSTRUCTIONISSST",
+        "menuName": "OBSTRUCTIONIST",
         "definition": {
             "word": "obstructionist",
             "part": "ADJECTIVE",
@@ -318,7 +328,7 @@
     },
     "onanist": {
         "state": "onanist",
-        "menuName": "ONANISSST",
+        "menuName": "ONANIST",
         "definition": {
             "word": "onanist",
             "part": "NOUN",
@@ -331,7 +341,7 @@
     },
     "persist": {
         "state": "persist",
-        "menuName": "PERSSSISSST",
+        "menuName": "PERSIST",
         "definition": {
             "word": "persist",
             "part": "verb",
@@ -344,7 +354,7 @@
     },
     "plenist": {
         "state": "plenist",
-        "menuName": "PLENISSST",
+        "menuName": "PLENIST",
         "definition": {
             "word": "plenist",
             "part": "noun",
@@ -357,7 +367,7 @@
     },
     "purist": {
         "state": "purist",
-        "menuName": "PURISSST",
+        "menuName": "PURIST",
         "definition": {
             "word": "purist",
             "part": "noun",
@@ -370,7 +380,7 @@
     },
     "sadist": {
         "state": "sadist",
-        "menuName": "SSSADISSST",
+        "menuName": "SADIST",
         "definition": {
             "word": "sadist",
             "part": "noun",
@@ -384,7 +394,7 @@
     },
     "tourist": {
         "state": "tourist",
-        "menuName": "TOURISSST",
+        "menuName": "TOURIST",
         "definition": {
             "word": "tourist",
             "part": "noun",
@@ -392,32 +402,33 @@
         },
         "outro": [
             "SEE %SITE%",
-            "AND DIE"
+            "AND DIE."
         ]
     },
     "twist": {
         "state": "twist",
-        "menuName": "TWISSST",
+        "menuName": "TWIST",
         "definition": {
             "word": "twist",
             "part": "verb",
             "definition": "cause to rotate around something that remains stationary; turn."
         },
         "outro": [
-            "COME ON",
-            "BABY"
+            "COME ON,",
+            "BABY."
         ]
     },
     "typist": {
         "state": "typist",
-        "menuName": "TYPISSST",
+        "menuName": "TYPIST",
         "definition": {
             "word": "typist",
             "part": "noun",
             "definition": "a person who is skilled in using a typewriter or computer keyboard, especially one who is employed for this purpose."
         },
         "outro": [
-            "DULL BOY"
+            "REDRUM...",
+            "REDRUM..."
         ]
     }
 }
