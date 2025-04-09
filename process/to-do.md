@@ -16,7 +16,17 @@
     - ~~Demist no outro~~
     - ~~Gist needs no-apple outro (e.g. you don't get the gist?)~~
     - ~~Typist should end on "REDRUM"~~
-- Send to J+M when done
+- ~~Send to J+M when done~~
+
+## Release
+
+- Main page
+- Press kit
+- Journal entry
+- Website
+- Press
+- Bluesky
+- Closing statement
 
 ## General
 
