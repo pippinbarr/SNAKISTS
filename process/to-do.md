@@ -82,5 +82,4 @@
 - **Sped it up and also set arousal higher after hideControls so the snake starts out a bit horny** ~~Onanist feels a little slow~~
 - **Think it's okay** ~~Not 100% copies are actually dying when they should~~
 - ~~Saw that bug with this and controls (repeating)~~
-
-- Don't know how much I care but when twist unrotates things aren't aligned normally?
+- **I cared. It was largely that the snakeHead wasn't having its origin set and added snake bits weren't either.** ~~Don't know how much I care but when twist unrotates things aren't aligned normally?~~

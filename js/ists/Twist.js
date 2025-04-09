@@ -18,6 +18,7 @@ class Twist extends Snake {
         this.textGroup.children.each((char) => {
             char.setOrigin(0.5);
         });
+        this.snakeHead.setOrigin(0.5, 0.5);
     }
 
     update() {
@@ -32,6 +33,17 @@ class Twist extends Snake {
         }
         else if (this.next.x < 0 || this.next.y > 0) {
             this.twist(-1);
+        }
+    }
+
+    addSnakeBits() {
+        if (this.next.x == 0 && this.next.y == 0) return;
+
+        if (this.snakeBitsToAdd > 0) {
+            let bit = this.snakeBodyGroup.create(-100, -100, 'body');
+            bit.setOrigin(0.5, 0.5);
+            this.snake.unshift(bit)
+            this.snakeBitsToAdd = Math.max(0, this.snakeBitsToAdd - 1);
         }
     }
 
