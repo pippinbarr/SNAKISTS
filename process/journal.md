@@ -162,3 +162,21 @@ Are there even bigger pictures? What did I even mean here? I think I meant somet
 Well I do think design by holding a play language (relatively) still and bombarding it with just "words from the dictionary" is a pretty amazing design exercise regardless. It's fun. It also makes me think in this moment about (weirdly) some sort of science setup where you fire electrons and something to understand it better (is that a collider? something else?). The words are the electrons, and the snake is the thing we seek to understand. There's something to that; I think there's a bigger and more substantial argument to be made about this form as a way to explore and understand forms of design.
 
 And then as for MDM... I mean the fact I'm writing this is really the outcome I want. I don't want to lose the higher level reflections that the journal allows for. The "stop and think" that's really important; or like the "practice review" that's important. And... I suppose I'm not. Go me.
+
+## The end in sight (2025-04-09)
+
+Yeah well, journal just not a happening thing eh? This is two weeks on since writing the previous journal entry. It just hasn't been necessary to navel-gaze in the way I think I often do in the journal... and of course the new document structure has meant there have been other places to do the moment to moment designing. And plus this game just... isn't all that complex to design. The writing feels more spread out for this one... is that even a good thing? Honestly I don't know. It feels like it has been a successful process, but at the same time I'm not sure that I learned as much from this one as I have in the past?
+
+It's a great process and it works, but I knew that. I don't think there was a ton of confrontation with really hard design problems, though there was the usual cache of solutions I was really happy about finding, and that whole thing of kind of confirming instincts in implementation and then play (the feel of onanist is one such for me). 
+
+In a way it feels almost over documented, but on the other hand with such a massive word search and then that kind of "panning for gold process" filtering from [ists](./ists.md) to [candidates](./candidates.md) to [prototypes](./prototypes.md)... it made sense I think to break it apart so you don't just have an enormous document mixing all those ideas up. But that process *was enough* to a point where I wasn't really questioning much at the journal level? Does this mean I haven't learned much about design from this one? It's not impossible?
+
+I think there remain big and cool things to say about the larger project of translation/adaptation to game languages and about the power of small-scale variation, but this game is a datapoint rather than a revelation? But that's also... important... understanding design as part of a much larger exploration than the individual "product" you're working on?
+
+So I dunno. Would I use this same structuring principle in another project? I think I'd at least give some thought to division of labour between different elements. But I do regret, to some extent, not returning to the noodliness of a journal entry more often, just to get in touch with more uncertainty than I think gets expressed at lower levels of this thing.
+
+--
+
+Meanwhile I'm mostly waiting on some feedback from Jim on the accessibility of the variations before largely considering the thing done.
+
+I should run some phone tests too because it's displaying ugly as sin. If I had the energy I might think about scaling/positioning to maximize real-estate for width. Can I be fucked? Dunno.

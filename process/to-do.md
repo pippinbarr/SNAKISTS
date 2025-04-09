@@ -20,11 +20,11 @@
 
 ## Release
 
-- Main page
-- Press kit
+- ~~Main page~~
+- ~~Press kit~~
 - Journal entry
 - Website
-- Press
+- Contact Press
 - Bluesky
 - Closing statement
 
