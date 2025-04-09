@@ -14,8 +14,8 @@ class Onanist extends Snake {
 
         super.create();
 
-        this.arousal = 0;
-        this.arousalIncrease = 0.025;
+        this.arousal = 0.75;
+        this.arousalIncrease = 0.033;
         this.arousalDrop = this.arousalIncrease * 0.25;
         this.arousalBase = 0.33;
         this.EDGE_LENGTH = 13;
@@ -42,16 +42,21 @@ class Onanist extends Snake {
     createControls() {
         let controlsStrings = [];
         if (this.sys.game.device.os.desktop) {
-            controlsStrings = this.strings.ui.controls.keyboard;
+            controlsStrings = [...this.strings.ui.controls.keyboard];
         }
         else {
-            controlsStrings = this.strings.ui.controls.touch;
+            controlsStrings = [...this.strings.ui.controls.touch];
         }
 
         controlsStrings.push("HAND");
 
         this.addTextToGrid(this.CONTROLS_X, this.CONTROLS_Y, controlsStrings, this.controlsGroup);
         this.controlsVisible = true;
+    }
+
+    hideControls() {
+        super.hideControls();
+        this.arousal = 0.66;
     }
 
     createSnake() {

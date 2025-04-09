@@ -54,10 +54,9 @@ class Deist extends Snake {
 
     startAppleTimer() {
         super.startAppleTimer();
-        // console.log("Start apple timer");
     }
+
     repositionApple(apple) {
         super.repositionApple(apple);
-        // console.log("Repos");
     }
 }

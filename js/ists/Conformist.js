@@ -33,7 +33,7 @@ class Conformist extends Snake {
     }
 
     isOnTrack(x, y) {
-        return (y === this.topY || y === this.bottomY || x === this.leftX || x === this.rightX);
+        return ((y === this.topY || y === this.bottomY) && (x >= this.leftX && x <= this.rightX)) || ((y > this.topY && y < this.bottomY) && (x === this.leftX || x === this.rightX));
     }
 
     addConform(x, y) {

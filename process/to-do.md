@@ -23,8 +23,9 @@
 - ~~Main page~~
 - ~~Press kit~~
 - ~~Journal entry~~
+- ~~Testing mobile~~
+- ~~Testing (just reading the texts etc.)~~
 
-- Testing (esp. mobile)
 - Website
 - Contact Press
 - Bluesky
@@ -76,5 +77,10 @@
 - **Struggling to reproduce right now?** ~~Apple randoms around instead of being stable in Deist~~
 - ~~Alarmist doesn't show gameover text and doesn't reset camera on death and doesn't have controls text visible (sounds pretty interrelated)~~
 - **Just moved away from Hammer.** ~~On mobile swipes progressively trigger more often???~~
+- ~~Conformist straight up broken... or rather lets me go off the right edge?~~
+- **Fixed...? But... how can it be?** ~~Apple positioning still insane in Deist... why?~~
+- **Sped it up and also set arousal higher after hideControls so the snake starts out a bit horny** ~~Onanist feels a little slow~~
+- **Think it's okay** ~~Not 100% copies are actually dying when they should~~
+- ~~Saw that bug with this and controls (repeating)~~
 
 - Don't know how much I care but when twist unrotates things aren't aligned normally?
