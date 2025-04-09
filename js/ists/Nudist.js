@@ -19,30 +19,19 @@ class Nudist extends Snake {
         super.update();
     }
 
+    checkAppleCollision() {
+        const ate = super.checkAppleCollision();
+        if (ate) {
+            this.snakeBitsToAdd = this.snake.length - 1 + this.NEW_BODY_PIECES_PER_APPLE;
+            for (let i = 0; i < this.snake.length - 1; i++) {
+                this.snake[i].setAlpha(0.5);
+                this.snake[i].setDepth(1000);
+            }
+            this.snake.splice(0, this.snake.length - 1);
+        }
+    }
+
     tick() {
         super.tick();
-    }
-
-    createSnake() {
-        this.snake = [];
-        this.snakeBodyGroup = this.add.group();
-        this.snakeHead = this.add.image(this.SNAKE_START_X * this.GRID_SIZE, this.SNAKE_START_Y * this.GRID_SIZE, 'head');
-        this.snakeHead.setOrigin(0, 0);
-        this.snakeHead.setTint(0xf4b5cd);
-        this.snake.unshift(this.snakeHead);
-
-        this.snakeBitsToAdd = 3;
-    }
-
-    addSnakeBits() {
-        if (this.next.x == 0 && this.next.y == 0) return;
-
-        if (this.snakeBitsToAdd > 0) {
-            let bit = this.snakeBodyGroup.create(-100, -100, 'body');
-            bit.setOrigin(0, 0);
-            bit.setTint(0xf4b5cd);
-            this.snake.unshift(bit)
-            this.snakeBitsToAdd = Math.max(0, this.snakeBitsToAdd - 1);
-        }
     }
 }

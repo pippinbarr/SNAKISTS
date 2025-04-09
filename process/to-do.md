@@ -37,7 +37,7 @@
 
 ## Nudist
 
-- Implement skin shedding version
+- ~~Implement skin shedding version~~
 
 ## Obstructionist
 
