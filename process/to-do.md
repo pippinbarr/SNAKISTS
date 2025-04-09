@@ -50,8 +50,7 @@
 ## Twist
 
 - **Rotating the camera feels like a bit of a... game changer?** ~~Feels underwhelming... could we rotate more stuff? Groups around their centre? The canvas?~~
-
-- Rotate back to normal on die?
+- ~~Rotate back to normal on die?~~
 
 ## Typist
 
@@ -64,3 +63,5 @@
 - ~~Something weird happens to controls text over time "ARROWS CONTROL SNAKE SNAKE SNAKE" some kind of additive issue~~
 - **Struggling to reproduce right now?** ~~Apple randoms around instead of being stable in Deist~~
 - ~~Alarmist doesn't show gameover text and doesn't reset camera on death and doesn't have controls text visible (sounds pretty interrelated)~~
+
+- Don't know how much I care but when twist unrotates things aren't aligned normally?

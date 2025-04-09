@@ -35,6 +35,20 @@ class Twist extends Snake {
         }
     }
 
+    die() {
+        super.die();
+
+        console.log("Tweening?")
+
+        const targets = [...this.wallGroup.getChildren(), ...this.snakeBodyGroup.getChildren(), this.snakeHead, this.apple, ...this.textGroup.getChildren(), this.cameras.main];
+        this.tweens.add({
+            targets: targets,
+            rotation: 0,
+            duration: this.SNAKE_TICK * 1000 * 10,
+            delay: this.SNAKE_TICK * 1000 * 30
+        });
+    }
+
     twist(direction) {
         const delta = 0.1 * direction;
 
