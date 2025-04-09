@@ -22,7 +22,8 @@
 
 - ~~Main page~~
 - ~~Press kit~~
-- Journal entry
+- ~~Journal entry~~
+
 - Website
 - Contact Press
 - Bluesky
