@@ -9,14 +9,15 @@ class Twist extends Snake {
         super.create();
 
         this.wallGroup.children.each((wall) => {
-            wall.setOrigin(0.5);
+            wall.setOrigin(0.5, 0.5);
         });
         this.snakeBodyGroup.children.each((bit) => {
-            bit.setOrigin(0.5);
+            bit.setOrigin(0.5, 0.5);
         });
-        this.apple.setOrigin(0.5);
+        this.apple.setOrigin(0.5, 0.5);
         this.textGroup.children.each((char) => {
-            char.setOrigin(0.5);
+            char.x -= this.GRID_SIZE / 2;
+            char.y -= this.GRID_SIZE / 2;
         });
         this.snakeHead.setOrigin(0.5, 0.5);
     }
