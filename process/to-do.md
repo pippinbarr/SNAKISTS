@@ -25,10 +25,10 @@
 - ~~Journal entry~~
 - ~~Testing mobile~~
 - ~~Testing (just reading the texts etc.)~~
+- ~~Website~~
+- ~~Reddit, that discord, Bluesky~~
+- ~~Contact Press~~
 
-- Website
-- Contact Press
-- Bluesky
 - Closing statement
 
 ## General
