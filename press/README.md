@@ -24,7 +24,7 @@ I've been a fan of controled variations in game design for a long time, notably 
 
 ## Technology
 
-*SNAKISTS* was created using [Phaser 3](https://phaser.io/) along with [Hammer.js](https://hammerjs.github.io/) for touch gestures (swipes).
+*SNAKISTS* was created using [Phaser 3](https://phaser.io/).
 
 *SNAKISTS* is an open source game licensed under a [Creative Commons Attribution-NonCommercial 4.0 Unported License](http://creativecommons.org/licenses/by-nc/4.0/).
 

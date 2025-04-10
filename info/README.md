@@ -2,7 +2,8 @@
 
 ![Image of Alarmist version of Snake](./images/snakists-banner.png)
 
-# [Play Online](../index.html) (Mobile and desktop)
+# [Play Online](../index.html)  
+#### (Mobile and desktop)
 
 ## Description
 
@@ -10,7 +11,7 @@
 
 *SNAKISTS* is a direct sequel to [*SNAKISMS*](https://pippinbarr.com/SNAKISMS/info/). I thought it would be pretty fun to take on the variations challenge with Snake one more time. The world of ists is a weirder and less philosophical world than the isms, and so are the games. Heist, typist, ... onanist. You know you want to.
 
-*SNAKISTS* was created using [Phaser 3](https://phaser.io/) along with [Hammer.js](https://hammerjs.github.io/) for touch gestures (swipes).
+*SNAKISTS* was created using [Phaser 3](https://phaser.io/).
 
 ## Press
 
