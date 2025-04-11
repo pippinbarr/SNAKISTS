@@ -15,6 +15,8 @@
 
 ## Press
 
+- Nic Reuben. [The sequel to the sequel to Snake just dropped](https://www.rockpapershotgun.com/the-sequel-to-the-sequel-to-snake-just-dropped). Rock, Paper, Shotgun. 11 April 2025.
+
 Read the [Press Kit](../press) for press information
 
 ## Documentation
