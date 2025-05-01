@@ -1,17 +1,43 @@
 # AMAZING TITLE
 
-## Themes
+The [Method for Design Materialization](https://gamesasresearch.com) recommends that you write a "closing statement," or some kind of final "stop and think" about the design and development of the game you've been working on. So here we are.
 
-### What is this for?
+I'm not going to try to be sophisticated about this, I've just spent some time with the repository reading through especially the commits and the different design documents. Here we go!
 
-> What am I doing? I’m avoiding working on other projects like a “game poem” and also the next step along the way of the It is as if projects. I’m doing that by making a sequel to SNAKISMS called SNAKISTS which allows me to do another suite of these stupid things with a slightly different flavour. Don’t know what that flavour is yet… for now I literally thought it would be fun to use IST instead of ISM as the sequel indicator.
-https://pippinbarr.com/SNAKISTS/process/journal.html#:~:text=What%20am%20I,the%20sequel%20indicator.
-
-> Well I do think design by holding a play language (relatively) still and bombarding it with just “words from the dictionary” is a pretty amazing design exercise regardless. It’s fun. It also makes me think in this moment about (weirdly) some sort of science setup where you fire electrons and something to understand it better (is that a collider? something else?). The words are the electrons, and the snake is the thing we seek to understand. There’s something to that; I think there’s a bigger and more substantial argument to be made about this form as a way to explore and understand forms of design.
-https://pippinbarr.com/SNAKISTS/process/journal.html#:~:text=Well%20I%20do,forms%20of%20design.
+## Why?
 
 > Why indeed?
-https://pippinbarr.com/SNAKISTS/process/why.html#:~:text=Why%3F-,Why%20indeed%3F
+>
+> [`why.md`](https://pippinbarr.com/SNAKISTS/process/why.html#:~:text=Why%3F-,Why%20indeed%3F)
+
+I didn't manage to write any "whys" for this project, which is in itself probably quite revealing: it never felt like a project where I was trying to answer a question or really explore something brand new. Rather, it's a sequel to *SNAKISMS* that shares its basic concept of translating existing concepts (ists, isms) into a restricted gameplay language (snake).
+
+That said, in my notes there's an acknowledgement of a kind of non-research why:
+
+> What am I doing? I’m avoiding working on other projects like a “game poem” and also the next step along the way of the It is as if projects.
+>
+> [`journal.md`, 6 March 2025](https://pippinbarr.com/SNAKISTS/process/journal.html#:~:text=What%20am%20I%20doing%3F%20I%E2%80%99m%20avoiding%20working%20on%20other%20projects%20like%20a%20%E2%80%9Cgame%20poem%E2%80%9D%20and%20also%20the%20next%20step%20along%20the%20way%20of%20the%20It%20is%20as%20if%20projects)
+
+This sort of "emotional reason" is probably a huge part of why anyone makes any game, but it's maybe not always acknowledged or written down? Or at least I don't always write it down in favour of sounding like I've got a *proper research project* going on.
+
+More than anything I think the key outcome, though, is that I *should* be working on the [`why.md`](./why.md) document in any project. If you're not thinking about why, you're missing an opportunity to understand the larger point. In this project, for instance, it's still important to *extend* my thinking about this project of exploring restricted gameplay languages as forms of expression.
+
+## It's just Snake
+
+One of the surprises of this whole project was an extension of an idea that had come up in *SNAKISMS*: creating a version of the game, based on a concept, that is just the game itself framed by that concept. So in *SNAKISMS* I made "Conservatism" which was literally just Snake itself, with the point being that the idea of Conservatism is being committed to traditional ways and values and avoiding/disliking change.
+
+In that case the point was to make a joke about "variation games" in a sense, to say that the variation in that case just *is* the base game. But in *SNAKISMS* there was only *one* of these, and it was specific and intentional. What I found in *SNAKISTS* was that I ran into *multiple* -ists that could be reasonably said to correspond just to the base case of Snake, e.g.:
+
+> But now I realize the NUDIST could be the one that's just normal snake hehe. Though I also thought of PURIST for that... so I dunno...
+>
+> [1488e266b05feee33ab33031b83807c138f562fc](https://github.com/pippinbarr/SNAKISTS/commit/1488e266b05feee33ab33031b83807c138f562fc)
+
+All snakes, including the Snake snake, are "nudists" because they don't wear clothes, but also that a "purist" version of Snake would be Snake as well. That's funny, but it led to some reflection on how this activity of thinking about -ists in relation to Snake was also a reflection on the underlying values of Snake itself, what kinds of cultural/political/social ideals it seems to embody (directly or metaphorically):
+
+> The idea of -ists that end up just being Snake with no modifications. Purist, Nudist, Individualist, … – that’s both funny and kind of about the question of how you characterize underlying value or other systems of a game like Snake. Is Snake “fascist” in some way? Do videogames have inherent political or cultural alignments? It’s a pretty interesting question at the level of design? It might also be a (truly weird) kind of language/insight into why some forms of design are just harder than others? If Snake is a Fascist is it harder to create progressive revisions?
+> 
+> [`journal.md`, 25 March 2025](https://pippinbarr.com/SNAKISTS/process/journal.html#:~:text=The%20idea%20of%20%2Dists%20that%20end%20up%20just%20being%20Snake%20with%20no%20modifications)
+
 
 ### All the Snakes that are Snake
 
@@ -19,9 +45,6 @@ https://pippinbarr.com/SNAKISTS/process/why.html#:~:text=Why%3F-,Why%20indeed%3F
 - Nudist 
 - Conservatist
 - Individualist
-
-> But now I realize the NUDIST could be the one that's just normal snake hehe. Though I also thought of PURIST for that... so I dunno...
-https://github.com/pippinbarr/SNAKISTS/commit/1488e266b05feee33ab33031b83807c138f562fc
 
 > The idea of -ists that end up just being Snake with no modifications. Purist, Nudist, Individualist, … – that’s both funny and kind of about the question of how you characterize underlying value or other systems of a game like Snake. Is Snake “fascist” in some way? Do videogames have inherent political or cultural alignments? It’s a pretty interesting question at the level of design? It might also be a (truly weird) kind of language/insight into why some forms of design are just harder than others? If Snake is a Fascist is it harder to create progressive revisions?
 https://pippinbarr.com/SNAKISTS/process/journal.html#:~:text=The%20idea%20of%20%2Dists,to%20create%20progressive%20revisions%3F
