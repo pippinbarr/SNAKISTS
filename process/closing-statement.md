@@ -22,63 +22,6 @@ This sort of "emotional reason" is probably a huge part of why anyone makes any 
 
 More than anything I think the key outcome, though, is that I *should* be working on the [`why.md`](./why.md) document in any project. If you're not thinking about why, you're missing an opportunity to understand the larger point. In this project, for instance, it's still important to *extend* my thinking about this project of exploring restricted gameplay languages as forms of expression.
 
-## It's just Snake
-
-One of the surprises of this whole project was an extension of an idea that had come up in *SNAKISMS*: creating a version of the game, based on a concept, that is just the game itself framed by that concept. So in *SNAKISMS* I made "Conservatism" which was literally just Snake itself, with the point being that the idea of Conservatism is being committed to traditional ways and values and avoiding/disliking change.
-
-In that case the point was to make a joke about "variation games" in a sense, to say that the variation in that case just *is* the base game. But in *SNAKISMS* there was only *one* of these, and it was specific and intentional. What I found in *SNAKISTS* was that I ran into *multiple* -ists that could be reasonably said to correspond just to the base case of Snake, e.g.:
-
-> But now I realize the NUDIST could be the one that's just normal snake hehe. Though I also thought of PURIST for that... so I dunno...
->
-> [1488e266b05feee33ab33031b83807c138f562fc](https://github.com/pippinbarr/SNAKISTS/commit/1488e266b05feee33ab33031b83807c138f562fc)
-
-All snakes, including the Snake snake, are "nudists" because they don't wear clothes, but also that a "purist" version of Snake would be Snake as well. That's funny, but it led to some reflection on how this activity of thinking about -ists in relation to Snake was also a reflection on the underlying values of Snake itself, what kinds of cultural/political/social ideals it seems to embody (directly or metaphorically):
-
-> The idea of -ists that end up just being Snake with no modifications. Purist, Nudist, Individualist, … – that’s both funny and kind of about the question of how you characterize underlying value or other systems of a game like Snake. Is Snake “fascist” in some way? Do videogames have inherent political or cultural alignments? It’s a pretty interesting question at the level of design? It might also be a (truly weird) kind of language/insight into why some forms of design are just harder than others? If Snake is a Fascist is it harder to create progressive revisions?
-> 
-> [`journal.md`, 25 March 2025](https://pippinbarr.com/SNAKISTS/process/journal.html#:~:text=The%20idea%20of%20%2Dists%20that%20end%20up%20just%20being%20Snake%20with%20no%20modifications)
-
-
-### All the Snakes that are Snake
-
-- Purist
-- Nudist 
-- Conservatist
-- Individualist
-
-> The idea of -ists that end up just being Snake with no modifications. Purist, Nudist, Individualist, … – that’s both funny and kind of about the question of how you characterize underlying value or other systems of a game like Snake. Is Snake “fascist” in some way? Do videogames have inherent political or cultural alignments? It’s a pretty interesting question at the level of design? It might also be a (truly weird) kind of language/insight into why some forms of design are just harder than others? If Snake is a Fascist is it harder to create progressive revisions?
-https://pippinbarr.com/SNAKISTS/process/journal.html#:~:text=The%20idea%20of%20%2Dists,to%20create%20progressive%20revisions%3F
-
-### In and out
-
-How do you choose which ones are "good"?
-
-> Obviously a lot of candidates won't make it because they are terrible
-https://github.com/pippinbarr/SNAKISTS/commit/33500683d6d828b45427f0c7ac5d92593cabdcbd
-
-### Ists ain't isms
-
-> One thing that I find fun here is that unlike ISM, the IST ends up with a bunch of words that are not about philosophical positions because IST is just a more common suffix (e.g. persist), and you also end up with kind of quite negative words (agist, fascist)… these are less abstract and more forceful? Maybe they’re harder or easier to turn into snakes?
-https://pippinbarr.com/SNAKISTS/process/journal.html#:~:text=One%20thing%20that,turn%20into%20snakes%3F
-
-> It's notable how many of the candidates are not ists in the sense of isms; almost like the whole game could be that
-https://github.com/pippinbarr/SNAKISTS/commit/33500683d6d828b45427f0c7ac5d92593cabdcbd
-
-> With SNAKISMS the whole point was to channel -ism as a conduit to philosophical (and perhaps political) positions. But in just going through the dictionary understanding of -ist as a suffix, there’s a big broadening out. There are a bunch of words ending in -ist that aren’t “ISTS” in that sense. Like “twist” or “delist” and there’s been a pleasure in how kind of practical they are? Could also be a verb form thing that works well with games? Getting across to that Noun Verb Adjective design approach or whatever? Grammar-based design? Design language. Etc.
-https://pippinbarr.com/SNAKISTS/process/journal.html#:~:text=With%20SNAKISMS%20the,Design%20language.%20Etc.
-
-> Well, disgusting obviously. Can a Snake snake have a cist? You pop them. You don’t eat them. They can indicate that you’re not well or they can be benign. It’s also not an ist in the sense of ism, and I don’t want too many of those
-https://pippinbarr.com/SNAKISTS/process/ists.html#:~:text=Well%2C%20disgusting%20obviously.%20Can%20a%20Snake%20snake%20have%20a%20cist%3F%20You%20pop%20them.%20You%20don%E2%80%99t%20eat%20them.%20They%20can%20indicate%20that%20you%E2%80%99re%20not%20well%20or%20they%20can%20be%20benign.%20It%E2%80%99s%20also%20not%20an%20ist%20in%20the%20sense%20of%20ism%2C%20and%20I%20don%E2%80%99t%20want%20too%20many%20of%20those
-
-### Design org
-
-Ongoing theme of organizing my documents and thinking through how MDM works for this project
-
-> - This session was helpful in that it includes design thinking in the new "prototypes" document where I'm reflecting specifically on prototyping work; but also the prototyping work itself
-> - Is that a good thing, or not? It's nice that the commit has both at the same time maybe? A bit in conversation? Or would it have been better to do the work then reflect? Or reflect commit work commit reflect commit? I don't really know
-> - Anyway, the act of prototyping and playing the real versions of a couple of these was really quite fun and made me happy, nice to switch from reading the dictionary for a bit
-https://github.com/pippinbarr/SNAKISTS/commit/0eb1de80717a48f9b73f4eaacee55fb92859b2b4
-
 ### Small language
 
 The idea that Snake is such a circumscribed language of play that you can't just say ANYTHING. THere's something funny about how easy it was to do mega philosophical concepts, but so much harder to do more concrete IST stuff?
@@ -105,6 +48,41 @@ https://pippinbarr.com/SNAKISTS/process/journal.html#:~:text=There%E2%80%99s%20a
 
 > There’s something in here about how you view/frame the materials of making for this. Most obviously it’s Snake. But you could also say “Snake as implemented in Snake.js”. Or “Snake as it exists in Pippin’s mind” (reflected in my Snake document?) But you could also say “Snake as in the entire game including the menu” at which point you get something like “delist” or one of my ideas for “persist”.
 https://pippinbarr.com/SNAKISTS/process/journal.html#:~:text=There%E2%80%99s%20something%20in,ideas%20for%20%E2%80%9Cpersist%E2%80%9D.
+
+## It's just Snake
+
+One of the surprises of this whole project was an extension of an idea that had come up in *SNAKISMS*: creating a version of the game, based on a concept, that is just the game itself framed by that concept. So in *SNAKISMS* I made "Conservatism" which was literally just Snake itself, with the point being that the idea of Conservatism is being committed to traditional ways and values and avoiding/disliking change.
+
+In that case the point was to make a joke about "variation games" in a sense, to say that the variation in that case just *is* the base game. But in *SNAKISMS* there was only *one* of these, and it was specific and intentional. What I found in *SNAKISTS* was that I ran into *multiple* -ists that could be reasonably said to correspond just to the base case of Snake, e.g.:
+
+> But now I realize the NUDIST could be the one that's just normal snake hehe. Though I also thought of PURIST for that... so I dunno...
+>
+> [1488e266b05feee33ab33031b83807c138f562fc](https://github.com/pippinbarr/SNAKISTS/commit/1488e266b05feee33ab33031b83807c138f562fc)
+
+All snakes, including the Snake snake, are "nudists" because they don't wear clothes, but also that a "purist" version of Snake would be Snake as well. That's funny, but it led to some reflection on how this activity of thinking about -ists in relation to Snake was also a reflection on the underlying values of Snake itself, what kinds of cultural/political/social ideals it seems to embody (directly or metaphorically):
+
+> The idea of -ists that end up just being Snake with no modifications. Purist, Nudist, Individualist, … – that’s both funny and kind of about the question of how you characterize underlying value or other systems of a game like Snake. Is Snake “fascist” in some way? Do videogames have inherent political or cultural alignments? It’s a pretty interesting question at the level of design? It might also be a (truly weird) kind of language/insight into why some forms of design are just harder than others? If Snake is a Fascist is it harder to create progressive revisions?
+> 
+> [`journal.md`, 25 March 2025](https://pippinbarr.com/SNAKISTS/process/journal.html#:~:text=The%20idea%20of%20%2Dists%20that%20end%20up%20just%20being%20Snake%20with%20no%20modifications)
+
+I think there's almost an experimental process suggested here of taking a specific game (Snake would be fine) and testing it against diverse cultural/political/societal positions in terms of its expressive capacity. I'm sure there are other forms of analysis that could be applied here (interface inventory and that kind of stuff) but I quite like the idea of *interrogating a gameplay language/game design through design*, there's something neat to that as a methodology?
+
+Even the very simple experimental setup suggested here is quite fun: take a simple game and then see how many cultural/political positions you can attribute to it *without change*. Snake seems comfortably conservative, individualistic, capitalistic, nudist, etc.? I was actually envisaging a game at some point where you inflect gameplay merely by *describing* it in different ways without changing it, which is another version of this approach. So this is perhaps a good example of how generative it can be to create these kinds of gameplay+idea setups.
+
+### Ists ain't isms
+
+> One thing that I find fun here is that unlike ISM, the IST ends up with a bunch of words that are not about philosophical positions because IST is just a more common suffix (e.g. persist), and you also end up with kind of quite negative words (agist, fascist)… these are less abstract and more forceful? Maybe they’re harder or easier to turn into snakes?
+https://pippinbarr.com/SNAKISTS/process/journal.html#:~:text=One%20thing%20that,turn%20into%20snakes%3F
+
+> It's notable how many of the candidates are not ists in the sense of isms; almost like the whole game could be that
+https://github.com/pippinbarr/SNAKISTS/commit/33500683d6d828b45427f0c7ac5d92593cabdcbd
+
+> With SNAKISMS the whole point was to channel -ism as a conduit to philosophical (and perhaps political) positions. But in just going through the dictionary understanding of -ist as a suffix, there’s a big broadening out. There are a bunch of words ending in -ist that aren’t “ISTS” in that sense. Like “twist” or “delist” and there’s been a pleasure in how kind of practical they are? Could also be a verb form thing that works well with games? Getting across to that Noun Verb Adjective design approach or whatever? Grammar-based design? Design language. Etc.
+https://pippinbarr.com/SNAKISTS/process/journal.html#:~:text=With%20SNAKISMS%20the,Design%20language.%20Etc.
+
+> Well, disgusting obviously. Can a Snake snake have a cist? You pop them. You don’t eat them. They can indicate that you’re not well or they can be benign. It’s also not an ist in the sense of ism, and I don’t want too many of those
+https://pippinbarr.com/SNAKISTS/process/ists.html#:~:text=Well%2C%20disgusting%20obviously.%20Can%20a%20Snake%20snake%20have%20a%20cist%3F%20You%20pop%20them.%20You%20don%E2%80%99t%20eat%20them.%20They%20can%20indicate%20that%20you%E2%80%99re%20not%20well%20or%20they%20can%20be%20benign.%20It%E2%80%99s%20also%20not%20an%20ist%20in%20the%20sense%20of%20ism%2C%20and%20I%20don%E2%80%99t%20want%20too%20many%20of%20those
+
 
 ### Meta implementations
 
@@ -164,11 +142,3 @@ I guess there's something to be said for the stories of game versions I took ser
 - Epeeist/Duelist
 - Tubaist/Feist
 - Optometrist (tech failure)
-
-
-## Journal
-
-
-
-## Commits
-
