@@ -180,3 +180,15 @@ So I dunno. Would I use this same structuring principle in another project? I th
 Meanwhile I'm mostly waiting on some feedback from Jim on the accessibility of the variations before largely considering the thing done.
 
 I should run some phone tests too because it's displaying ugly as sin. If I had the energy I might think about scaling/positioning to maximize real-estate for width. Can I be fucked? Dunno.
+
+## Closing statement too open? (2025-05-02)
+
+I'm making the odd-feeling choice of writing a journal entry about my [closing statement](./closing-statement.md). I've been working on it for a few sessions now, and I have some text in place, but I'm aware of struggling to do anything that feels genuinely worthwhile. Had lunch with Rilla and Matt today and that whole question of the value of the "higher level" writing came up, and I found myself saying that it should be sort of enjoyable or inspiring to do that part of the writing – in that moment I was sort of trying to convince Matt, but I think I was probably even more trying to convince myself.
+
+So why isn't writing a closing statement fun then? Or why isn't this one?
+
+- Partly it just feels like a chore because I have this sense of not really adding enough to the language/insight that I "achieve" in the journal and commits and other documentation? So that I'm putting myself more in a role of just pulling together stuff into themes and then... that's it... hasn't felt like I'm adding a lot on top of that
+- No real audience? I'm generally the audience of my documentation stuff, but here I'm not all that interested because it's a level at which I already *know* - I'm not saying something new, I'm gathering the stuff I figured out. So it's likely the case that this closing statement step would need a target audience - could be my website where I'm trying to explain something important about the game in question, could be a publication target?
+- Lack of specificity. In looking through the entire project documentation for thematic areas and then reporting on the thematic areas I'm missing the idea of some really important core concern that I want to build an argument/story around. Maybe SNAKISTS is just bad for this because it's a repetition of things I've already done, but in that case I should be looking for what is plausibly unique (e.g. the "everything is Snake" idea) and *only* telling that story?
+
+Outcome: Do things I just said to do?
