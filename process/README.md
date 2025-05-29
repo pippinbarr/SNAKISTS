@@ -8,4 +8,7 @@
 - [Process journal](./journal.md) - higher level reflections about the project
 - [Visual history](./visual-history.md) - a series of images roughly reflecting commits/progress
 - [Why?](./why.md) - why indeed
-- [Closing statement](./closing-statement.md) - in a perfect world a final reflection on the whole thing in an accessible and concise form
+
+## Writing
+
+- [Parseltongue? Designing in the Language of Snake](./parseltongue-designing-in-the-language-of-snake.md)
